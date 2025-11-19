@@ -85,8 +85,8 @@ SE III (Senior) → Tech Lead (TL)
 
 | Papel | Foco | % Técnico | Escopo |
 |-------|------|-----------|--------|
-| **Tech Lead** | Direção técnica + desenvolvimento do time | 50-70% | 1 time, liderança técnica e desenvolvimento de pessoas |
-| **Engineering Manager** | Gestão de pessoas, performance, entrega | 20-30% | 1 time (5-10 pessoas) |
+| **Tech Lead** | Direção técnica + desenvolvimento do time | 50-70% | 1 ou 2 times, liderança técnica e desenvolvimento de pessoas |
+| **Engineering Manager** | Gestão de pessoas, performance, entrega | 20-30% | Lidera Líderes |
 
 ---
 
