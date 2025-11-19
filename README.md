@@ -6,6 +6,11 @@ Este repositório contém o framework de carreira da área de Data & IA Engineer
 
 🏆 **Results** (Resultados) | 🌟 **Direction** (Direção) | 🌳 **Talent** (Talento) | 🌈 **Culture** (Cultura)
 
+**Abrange 3 trilhas técnicas:**
+- 🔧 **Data Engineering** - Engenharia de dados e pipelines
+- 📊 **Analytics Engineering** - Modelagem analítica e BI
+- 🤖 **Cientista de Dados** - Machine Learning, IA e GenAI
+
 ---
 
 ## 🎯 Objetivos
@@ -91,10 +96,10 @@ SE III (Senior) → Tech Lead (TL)
 .
 ├── README.md                    # Este arquivo
 ├── SUMARIO.md                   # Resumo executivo do framework
-├── NIVEIS_REFERENCIA.md         # Matriz detalhada Scope/Reach/Impact
+├── NIVEIS_REFERENCIA.md         # Matriz detalhada Escopo/Alcance/Impacto
 │
-├── levels/                      # Descrições detalhadas de cada nível
-│   ├── SE_I_junior.md
+├── levels/                      # Descrições de cada nível (genéricas)
+│   ├── SE_I_junior.md          # Comportamentos e impacto esperados
 │   ├── SE_II_pleno.md
 │   ├── SE_III_senior.md
 │   ├── Lead_engineer.md
@@ -103,6 +108,11 @@ SE III (Senior) → Tech Lead (TL)
 │   ├── Principal_engineer.md
 │   ├── Tech_lead.md
 │   └── Engineering_manager.md
+│
+├── tracks/                      # Trilhas técnicas (skills específicas)
+│   ├── data_engineering.md     # Engenheiro de Dados
+│   ├── analytics_engineering.md # Engenheiro de Analytics
+│   └── cientista_de_dados.md   # Cientista de Dados / ML Engineer
 │
 ├── competencies/                # Competências transversais detalhadas
 │   ├── tech_excellence.md       # Excelência técnica
@@ -113,6 +123,37 @@ SE III (Senior) → Tech Lead (TL)
 └── culture/                     # Conexão com cultura organizacional
     └── mapping_to_gupy_culture.md  # Mapeamento dos 5 valores Gupy
 ```
+
+---
+
+## 🔗 Como Combinar Níveis + Trilhas
+
+O framework funciona em **duas camadas complementares**:
+
+### 📊 Níveis (`/levels/`) = COMPORTAMENTO + IMPACTO
+Descrevem **COMO** você trabalha, independente do papel técnico:
+- Escopo de atuação
+- Alcance colaborativo  
+- 4 dimensões de impacto (Results, Direction, Talent, Culture)
+- Comportamentos esperados
+
+**Exemplo:** SE II (Pleno) descreve como um pleno trabalha, serve para **todos os papéis**.
+
+### 🛠️ Trilhas (`/tracks/`) = SKILLS TÉCNICAS
+Descrevem **O QUE** você precisa saber tecnicamente por nível:
+- **Data Engineering**: SQL, Python, Airflow, Spark, dbt, pipelines
+- **Analytics Engineering**: dbt, modelagem dimensional, BI, SQL avançado
+- **Cientista de Dados**: Python, ML, estatística, GenAI, MLOps
+
+**Exemplo:** SE II em Analytics Engineering precisa saber dbt intermediário, modelagem dimensional, etc.
+
+### 💡 Na Prática:
+
+**Maria é SE II (Pleno) em Analytics Engineering:**
+1. Leia `/levels/SE_II_pleno.md` → comportamentos e impacto esperados
+2. Leia `/tracks/analytics_engineering.md` → seção SE II → skills técnicas
+
+**As duas coisas juntas definem o papel completo!**
 
 ---
 
@@ -157,7 +198,8 @@ Cada nível descreve como esses valores se manifestam na prática.
 |-----------|-----------|-----------|
 | **[SUMARIO.md](./SUMARIO.md)** | Resumo executivo do framework | Todos - Início rápido |
 | **[NIVEIS_REFERENCIA.md](./NIVEIS_REFERENCIA.md)** | Matriz Escopo/Alcance/Impacto por nível | Gestores e liderança |
-| **[levels/](./levels/)** | Descrição detalhada de cada nível | Gestores em 1:1s e calibrações |
+| **[levels/](./levels/)** | Descrição detalhada de cada nível (comportamento) | Gestores em 1:1s e calibrações |
+| **[tracks/](./tracks/)** | Skills técnicas por trilha e nível | Gestores, RH, Contratação |
 | **[competencies/](./competencies/)** | Competências transversais | Gestores, RH, Liderança |
 | **[culture/](./culture/)** | Mapeamento valores Gupy | Todos - Cultura e alinhamento |
 

@@ -6,7 +6,7 @@
 
 ## 🎯 Visão Geral
 
-Este repositório contém um **framework completo de carreira** para times de Data & IA, estruturado em **4 dimensões de impacto** (Results, Direction, Talent, Culture), inspirado em melhores práticas da indústria (Dropbox) e adaptado para a cultura Gupy.
+Este repositório contém um **framework completo de carreira** para times de Data & IA, estruturado em **4 dimensões de impacto** (Results, Direction, Talent, Culture), baseado em melhores práticas da indústria e adaptado para a cultura Gupy.
 
 **Última atualização**: Novembro 2024  
 **Versão**: 2.0
@@ -291,9 +291,8 @@ Não. Você precisa demonstrar **a maioria** dos comportamentos críticos do pr�
 ## 🙏 Créditos
 
 Este framework foi construído combinando:
-- **[Dropbox Engineering Career Framework](https://github.com/dropbox/dbx-career-framework)** - Estrutura de 4 dimensões
-- **Culture Code Gupy** - Valores e cultura
-- **Competências de Bruno Segalla** - Detalhamento de Staff, EM, Tech Lead
+- **Culture Code Gupy** - Valores e cultura organizacional
+- **Melhores práticas da indústria** - Estrutura de 4 dimensões de impacto
 - **Experiências do time de Data & IA da Gupy** - Contexto e casos reais
 
 ---
