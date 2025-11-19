@@ -64,7 +64,7 @@ Este documento define **Scope**, **Collaborative Reach** e **Impact Levers** par
 
 ---
 
-## Lead Engineer (Senior Plus)
+## Lead Engineer
 
 **Frase de Impacto:** *"Eu entrego impacto de negócio contínuo através de um time, domínio de dados ou sistema técnico"*
 

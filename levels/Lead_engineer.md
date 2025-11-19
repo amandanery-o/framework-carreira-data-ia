@@ -1,4 +1,4 @@
-# Lead Engineer (Senior Plus)
+# Lead Engineer
 
 > **"Eu entrego impacto de negócio contínuo através de um time, domínio de dados ou sistema técnico"**
 
