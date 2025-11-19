@@ -276,15 +276,6 @@ Este é um framework vivo e deve evoluir com a organização.
 - ✅ Consistente com cultura Gupy
 - ✅ Aplicável a toda área de Data & IA
 
----
-
-## 📬 Contato
-
-**Dúvidas sobre o framework?**
-- Fale com seu gestor direto
-- Head of Data & IA Engineering
-- People & Culture (RH)
-
 **Feedback é sempre bem-vindo!** Este framework só funciona se for útil no dia-a-dia. 💪
 
 ---
