@@ -224,9 +224,9 @@ Este framework foi desenvolvido baseado em:
 Este é um framework vivo e deve evoluir com a organização.
 
 **Para sugerir melhorias:**
-1. Abra uma issue descrevendo a sugestão
+1. Abra uma issue (problema/sugestão) descrevendo a proposta
 2. Para mudanças maiores, discuta com liderança primeiro
-3. Pull requests são bem-vindos após alinhamento
+3. Contribuições de código são bem-vindas após alinhamento
 
 **Princípios para mudanças:**
 - ✅ Manter clareza e simplicidade
