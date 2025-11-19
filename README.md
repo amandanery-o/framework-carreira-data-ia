@@ -1,4 +1,4 @@
-# Data & AI Engineering – Career Ladder
+# Data & AI Engineering – Trilha de Carreira
 
 > Framework de carreira baseado em impacto, transparente e alinhado com a cultura Gupy
 
@@ -12,8 +12,8 @@ Este repositório contém o framework de carreira da área de Data & IA Engineer
 
 - **Clareza**: Expectativas transparentes de senioridade por nível
 - **Desenvolvimento**: Guiar crescimento profissional com planos de ação concretos
-- **Consistência**: Alinhar critérios entre liderança, RH e ICs para decisões justas
-- **Fonte única de verdade**: Para performance, contratação e calibração
+- **Consistência**: Alinhar critérios entre liderança, RH e engenheiros para decisões justas
+- **Fonte única de verdade**: Para avaliação de performance, contratação e calibração
 
 ---
 
@@ -118,17 +118,9 @@ SE III (Senior) → Tech Lead (TL)
 
 ## 🚀 Como Usar Este Framework
 
-### Para Individual Contributors (ICs):
-
-1. **Identifique seu nível atual**: Leia a descrição do seu nível em `/levels/`
-2. **Entenda as 4 dimensões**: Veja como cada dimensão se manifesta no seu nível
-3. **Identifique gaps**: Compare expectativas vs. sua atuação atual
-4. **Planeje desenvolvimento**: Foque em 2-3 áreas prioritárias
-5. **Próximo nível**: Leia o nível acima para saber onde chegar
-
 ### Para Gestores:
 
-1. **Onboarding**: Compartilhe framework com novos membros do time
+1. **Integração (Onboarding)**: Compartilhe framework com novos membros do time
 2. **1:1s regulares**: Discuta progresso nas 4 dimensões
 3. **Planejamento de carreira**: Co-crie planos de desenvolvimento focados
 4. **Feedback contínuo**: Use framework como linguagem comum
@@ -136,10 +128,10 @@ SE III (Senior) → Tech Lead (TL)
 
 ### Para Liderança:
 
-1. **Contratação**: Alinhe job descriptions com níveis do framework
-2. **Performance Review**: Critérios objetivos para avaliação
+1. **Contratação**: Alinhe descrições de vaga com níveis do framework
+2. **Avaliação de Performance**: Critérios objetivos para avaliação
 3. **Calibração de time**: Consistência em avaliações e promoções
-4. **Planejamento de sucessão**: Identificar gaps e preparar talentos
+4. **Planejamento de sucessão**: Identificar lacunas e preparar talentos
 
 ---
 
@@ -163,11 +155,11 @@ Cada nível descreve como esses valores se manifestam na prática.
 
 | Documento | Descrição | Para Quem |
 |-----------|-----------|-----------|
-| **[SUMARIO.md](./SUMARIO.md)** | Resumo executivo do framework | Todos - Quick start |
-| **[NIVEIS_REFERENCIA.md](./NIVEIS_REFERENCIA.md)** | Matriz Scope/Reach/Impact por nível | Gestores, ICs planejando crescimento |
-| **[levels/](./levels/)** | Descrição detalhada de cada nível | ICs, Gestores em 1:1s |
+| **[SUMARIO.md](./SUMARIO.md)** | Resumo executivo do framework | Todos - Início rápido |
+| **[NIVEIS_REFERENCIA.md](./NIVEIS_REFERENCIA.md)** | Matriz Escopo/Alcance/Impacto por nível | Gestores e liderança |
+| **[levels/](./levels/)** | Descrição detalhada de cada nível | Gestores em 1:1s e calibrações |
 | **[competencies/](./competencies/)** | Competências transversais | Gestores, RH, Liderança |
-| **[culture/](./culture/)** | Mapeamento valores Gupy | Todos - Cultura e fit |
+| **[culture/](./culture/)** | Mapeamento valores Gupy | Todos - Cultura e alinhamento |
 
 ---
 
@@ -188,17 +180,17 @@ Cada competência detalha como ela evolui de Junior → Principal.
 
 ### Baseado em Impacto, Não Apenas Senioridade
 
-- ✅ **Impact over tenure**: Anos de experiência não garantem promoção
-- ✅ **Múltiplos caminhos**: IC e Management são igualmente valorizados
+- ✅ **Impacto acima de tempo de casa**: Anos de experiência não garantem promoção
+- ✅ **Múltiplos caminhos**: Carreira técnica (IC) e gestão são igualmente valorizados
 - ✅ **Crescimento explícito**: Expectativas claras para cada transição
 - ✅ **Evidências concretas**: Demonstrar consistentemente capacidades do próximo nível
 
 ### Equilíbrio das 4 Dimensões
 
 ```
-Results + Direction + Talent + Culture = Impact Total
+Results + Direction + Talent + Culture = Impacto Total
 
-Strong em 3 dimensões, weak em 1 = Não pronto para promoção
+Forte em 3 dimensões, fraco em 1 = Não pronto para promoção
 Crescimento equilibrado = Promoção sustentável
 ```
 
@@ -206,19 +198,16 @@ Crescimento equilibrado = Promoção sustentável
 
 - **Ninguém nasce Staff**: Cada nível é uma jornada de desenvolvimento
 - **Feedback constante**: Framework é linguagem comum para conversas de carreira
-- **Foco em gaps**: Identificar 2-3 áreas prioritárias, não tentar melhorar tudo ao mesmo tempo
+- **Foco em lacunas**: Identificar 2-3 áreas prioritárias, não tentar melhorar tudo ao mesmo tempo
 
 ---
 
-## 🔗 Créditos e Inspiração
+## 🔗 Melhores Práticas
 
-Este framework foi inspirado e adaptado de:
+Este framework foi desenvolvido baseado em:
 
-- **[Dropbox Engineering Career Framework](https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world)** - Estrutura de 4 dimensões, níveis IC e management
 - **Cultura Gupy** - Mapeamento explícito dos 5 valores organizacionais
-- **Melhores práticas da indústria** - Google, Meta, Stripe, GitLab
-
-Agradecimentos especiais ao time da Dropbox por compartilhar seu framework publicamente! 🙏
+- **Melhores práticas da indústria** - Estrutura de 4 dimensões de impacto, níveis IC e management, competências transversais
 
 ---
 
