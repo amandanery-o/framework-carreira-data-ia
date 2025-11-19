@@ -1,0 +1,173 @@
+# Software Engineer II - Pleno (SE II)
+
+> **"Eu sou prolífico em entregar projetos resilientes e sustentáveis de dados e software do design à implementação e rollout"**
+
+---
+
+## 📋 Definição do Nível
+
+### Scope (Escopo de atuação)
+- Executo projetos definidos para alcançar objetivos de nível de time
+- Defino independentemente as soluções certas ou uso abordagens existentes para resolver problemas definidos
+- Tomo decisões técnicas com autonomia crescente
+
+### Collaborative Reach (Alcance colaborativo)
+- Trabalho principalmente dentro do escopo do meu time com orientação de alto nível do meu gestor/Tech Lead
+- Começo a colaborar com parceiros cross-funcionais em meus projetos
+
+### Impact Levers (Alavancas de impacto)
+- **Craft** - Estou cada vez mais dominando meu craft e o uso para maior impacto (ex: design de software e modelos de dados)
+- **Mentorship** - Posso mentorar novos membros, estagiários ou engenheiros mais juniores
+
+---
+
+## 🏆 Results (Resultados)
+
+### Impact (Impacto)
+- Entrego projetos completos de complexidade média no prazo e com qualidade
+- Trabalho com meu gestor para priorizar tarefas que adicionam mais valor e entrego resultados de alta qualidade para o cliente
+- Entendo e participo efetivamente dos processos core do meu time (planning, on-call, bug triage, revisão de métricas)
+- Com orientação do gestor e Tech Lead, entrego trabalho de alta qualidade no prazo que adiciona mais valor
+
+### Ownership (Responsabilidade)
+- Assumo ownership de partes significativas de projetos
+- Identifico problemas e os resolvo ou escalo apropriadamente
+- Participo de rotações de on-call e respondo a incidentes de forma efetiva
+- Mantenho e melhoro sistemas existentes sob minha responsabilidade
+- Documento decisões e processos para facilitar conhecimento do time
+
+### Decision Making (Tomada de decisão)
+- Tomo decisões técnicas para problemas bem definidos com autonomia
+- Avalio trade-offs e escolho a abordagem mais apropriada com orientação mínima
+- Busco input quando necessário mas não fico paralisado esperando direção
+- Considero impacto de longo prazo nas decisões técnicas
+
+---
+
+## 🌟 Direction (Direção)
+
+### Agility (Agilidade)
+- Me adapto rapidamente a mudanças de prioridade e requisitos
+- Mantenho produtividade mesmo com algum grau de ambiguidade
+- Ajudo o time a responder rapidamente a feedback e mudanças de mercado
+
+### Innovation (Inovação)
+- Experimento com novas ferramentas e abordagens dentro do meu escopo
+- Proponho melhorias em processos, ferramentas e práticas do time
+- Aprendo rapidamente com sucessos e falhas
+- Compartilho conhecimento e aprendizados com o time
+
+### Strategy (Estratégia)
+- Entendo profundamente os objetivos do time e como meu trabalho contribui
+- Sugiro formas de alcançar objetivos de forma mais eficiente
+- Começo a pensar estrategicamente sobre arquitetura e design de sistemas
+- Participo ativamente de discussões de roadmap e planejamento
+
+---
+
+## 🌳 Talent (Talento)
+
+### Personal Growth (Crescimento pessoal)
+- Busco feedback ativamente e demonstro crescimento contínuo
+- Identifico áreas de desenvolvimento e tomo ações concretas para melhorar
+- Expando minhas habilidades além do meu escopo imediato
+- Participo de comunidades de prática e aprendizado
+- Estabeleço metas de carreira claras com meu gestor
+
+### Team Development (Desenvolvimento do time)
+- Mentoro ativamente SE I, estagiários e novos membros do time
+- Compartilho conhecimento através de pair programming, code reviews e documentação
+- Contribuo para onboarding de novos membros
+- Ajudo a elevar o nível técnico do time através de exemplos e feedback
+- Participo de entrevistas e avaliação de candidatos
+
+---
+
+## 🌈 Culture (Cultura)
+
+### Collaboration (Colaboração)
+- Trabalho efetivamente com membros do time e parceiros cross-funcionais
+- Comunico progresso, desafios e necessidades claramente
+- Contribuo ativamente em code reviews com feedback construtivo
+- Participo produtivamente de reuniões e discussões técnicas
+- Ajudo a resolver conflitos e mal-entendidos no time
+
+### Organizational Health (Saúde organizacional)
+- Contribuo para cultura positiva e inclusiva do time
+- Apoio diversidade de perspectivas e estilos de trabalho
+- Participo de iniciativas de melhoria do time
+- Modelo boas práticas de trabalho e equilíbrio
+- Ajudo a criar ambiente de segurança psicológica
+
+### Communication (Comunicação)
+- Comunico ideias técnicas claramente para audiências variadas
+- Escrevo documentação clara e útil
+- Faço perguntas efetivas que avançam discussões
+- Adapto estilo de comunicação ao contexto e audiência
+- Compartilho contexto e raciocínio por trás de decisões
+
+### Culture Leader (Liderança cultural)
+- Modelo valores da Gupy consistentemente
+- Contribuo para ambiente de aprendizado e crescimento
+- Celebro sucessos do time e reconheço contribuições
+- Ajudo novos membros a se integrarem à cultura
+- Participo ativamente de iniciativas culturais
+
+---
+
+## 🛠️ Craft (Habilidades Técnicas)
+
+As habilidades técnicas específicas variam por trilha. Consulte:
+- [Data Engineering](../tracks/data_engineering.md#se-ii---pleno)
+- [Analytics Engineering](../tracks/analytics_engineering.md#se-ii---pleno)
+- [Cientista de Dados](../tracks/cientista_de_dados.md#se-ii---pleno)
+
+**Expectativas gerais de Craft para SE II:**
+
+### Fluência Técnica
+- Domínio sólido dos fundamentos do stack da área
+- Escrevo código/queries eficientes, legíveis e bem testados
+- Entendo performance, otimização e trade-offs técnicos
+- Uso ferramentas de desenvolvimento produtivamente
+
+### Design Técnico
+- Desenho soluções técnicas para problemas de complexidade média
+- Considero escalabilidade, manutenibilidade e performance
+- Participo efetivamente de design reviews
+- Identifico e resolvo problemas de design antes de virarem problemas
+
+### Qualidade e Confiabilidade
+- Escrevo testes abrangentes (unitários, integração)
+- Considero edge cases e cenários de erro
+- Monitoro e respondo a problemas de qualidade
+- Contribuo para melhorar práticas de qualidade do time
+
+---
+
+## 🎯 Conexão com a Cultura Gupy
+
+### 🎯 Obsessão pelo Cliente
+Entendo profundamente necessidades dos clientes e tomo decisões que maximizam valor para eles.
+
+### 💡 Paixão por Inovar
+Busco constantemente formas melhores de resolver problemas e não tenho medo de experimentar.
+
+### ⚡ Agilidade para Resultado
+Entrego consistentemente com qualidade e no prazo, balanceando velocidade com sustentabilidade.
+
+### 💰 Fazer Mais com Menos
+Busco soluções eficientes que maximizam impacto com recursos disponíveis.
+
+### 🤝 Juntos!
+Colaboro efetivamente, ajudo o time a crescer e construo relacionamentos fortes.
+
+---
+
+## 📈 Indicadores de Progresso para SE III
+
+Você está pronto(a) para evoluir para SE III quando:
+- Lidera tecnicamente projetos complexos com autonomia completa
+- Resolve problemas ambíguos e de alta complexidade
+- Mentora consistentemente outros engenheiros
+- Influencia decisões técnicas significativas do time
+- É referência técnica em um ou mais domínios

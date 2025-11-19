@@ -1,0 +1,31 @@
+# Gitignore - Framework de Carreira
+
+# Sistema de Avaliação 360º (não mostrar ainda)
+avaliacao/
+
+# EM Operating System (pode adicionar depois)
+em-operating-system/
+
+# Promoção (adicionar depois)
+promotion/
+
+# Trilhas técnicas (adicionar depois)
+tracks/
+
+# Arquivos de apresentação (não mostrar ainda)
+0_COMECE_AQUI.md
+CHECKLIST_FINAL.md
+INDICE_COMPLETO.md
+RESUMO_EXECUTIVO.md
+REVISAO_PRE_APRESENTACAO.md
+SLIDES_APRESENTACAO.md
+
+# Arquivos temporários e de guia
+.DS_Store
+*.tmp
+*~
+.vscode/
+.idea/
+COMO_COMITAR.md
+README_SIMPLIFICADO.md
+
