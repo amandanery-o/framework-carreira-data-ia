@@ -23,27 +23,27 @@ Cada nível de carreira é avaliado através de 4 dimensões complementares:
 
 ### 🏆 Results (Resultados)
 Como você entrega valor e impacto
-- **Impact**: O que você entrega e o valor gerado
-- **Ownership**: Como você assume responsabilidade
-- **Decision Making**: Como você toma decisões técnicas e de negócio
+- **Impacto**: O que você entrega e o valor gerado
+- **Responsabilidade**: Como você assume ownership
+- **Tomada de Decisão**: Como você toma decisões técnicas e de negócio
 
 ### 🌟 Direction (Direção)  
 Como você navega mudança e define direção
-- **Agility**: Como você se adapta a mudanças
-- **Innovation**: Como você empurra limites e experimenta
-- **Strategy**: Como você pensa e planeja longo prazo
+- **Agilidade**: Como você se adapta a mudanças
+- **Inovação**: Como você empurra limites e experimenta
+- **Estratégia**: Como você pensa e planeja longo prazo
 
 ### 🌳 Talent (Talento)
 Como você cresce e desenvolve outros
-- **Personal Growth**: Seu desenvolvimento contínuo
-- **Team Development**: Como você eleva o time
+- **Crescimento Pessoal**: Seu desenvolvimento contínuo
+- **Desenvolvimento do Time**: Como você eleva o time
 
 ### 🌈 Culture (Cultura)
 Como você contribui para a organização
-- **Collaboration**: Como você trabalha com outros
-- **Organizational Health**: Como você fortalece a organização
-- **Communication**: Como você compartilha ideias e contexto
-- **Culture Leader**: Como você modela valores
+- **Colaboração**: Como você trabalha com outros
+- **Saúde Organizacional**: Como você fortalece a organização
+- **Comunicação**: Como você compartilha ideias e contexto
+- **Líder Cultural**: Como você modela valores
 
 > **Importante**: Cada dimensão tem peso equivalente. Excelência técnica sozinha não é suficiente para promoção.
 
@@ -58,19 +58,19 @@ SE I (Junior) → SE II (Pleno) → SE III (Senior) → Lead Engineer →
 Staff Engineer → Staff II (Senior Staff) → Principal Engineer
 ```
 
-| Nível | Scope | Collaborative Reach | Principais Alavancas |
-|-------|-------|-------------------|---------------------|
-| **SE I (Junior)** | Tarefas definidas sob orientação | Time imediato com supervisão | Craft, Learning |
-| **SE II (Pleno)** | Projetos definidos de nível de time | Time com orientação de alto nível | Craft, Mentorship |
-| **SE III (Senior)** | Projetos com metas trimestrais | Time + parceiros cross-funcionais | Project Leadership, Product Expertise |
-| **Lead Engineer** | Objetivos semestrais/anuais de time | Impacto começando a estender fora do time | Technical Strategy, Project Leadership |
-| **Staff Engineer** | Objetivos multi-ano, multi-time | Influência em roadmaps de outros times | Domain Expertise, Technical Strategy |
-| **Staff II** | Estratégia organizacional multi-ano | Múltiplos times e domínios | Organizational Strategy, Talent Multiplier |
-| **Principal** | Direção técnica company-wide | C-level, indústria | Company-Wide Strategy, Industry Leadership |
+| Nível | Escopo | Alcance Colaborativo | Principais Alavancas |
+|-------|--------|----------------------|----------------------|
+| **SE I (Junior)** | Tarefas definidas sob orientação | Time imediato com supervisão | Craft, Aprendizado |
+| **SE II (Pleno)** | Projetos definidos de nível de time | Time com orientação de alto nível | Craft, Mentoria |
+| **SE III (Senior)** | Projetos com metas trimestrais | Time + parceiros cross-funcionais | Liderança de Projetos, Expertise de Produto |
+| **Lead Engineer** | Objetivos semestrais/anuais de time | Impacto começando a estender fora do time | Estratégia Técnica, Liderança de Projetos |
+| **Staff Engineer** | Objetivos multi-ano, multi-time | Influência em roadmaps de outros times | Expertise de Domínio, Estratégia Técnica |
+| **Staff II** | Estratégia organizacional multi-ano | Múltiplos times e domínios | Estratégia Organizacional, Multiplicador de Talento |
+| **Principal** | Direção técnica de toda empresa | C-level, indústria | Estratégia Company-Wide, Liderança de Indústria |
 
 📄 **Referência completa**: [NIVEIS_REFERENCIA.md](./NIVEIS_REFERENCIA.md)
 
-### Management Track (bifurca após SE III)
+### Trilha de Gestão (bifurca após SE III)
 
 ```
 SE III (Senior) → Tech Lead (TL)
@@ -78,9 +78,9 @@ SE III (Senior) → Tech Lead (TL)
                Engineering Manager (EM)
 ```
 
-| Papel | Foco | % Hands-on | Escopo |
+| Papel | Foco | % Técnico | Escopo |
 |-------|------|-----------|--------|
-| **Tech Lead** | Direção técnica + desenvolvimento do time | 50-70% | 1 time, liderança técnica e people development |
+| **Tech Lead** | Direção técnica + desenvolvimento do time | 50-70% | 1 time, liderança técnica e desenvolvimento de pessoas |
 | **Engineering Manager** | Gestão de pessoas, performance, entrega | 20-30% | 1 time (5-10 pessoas) |
 
 ---
