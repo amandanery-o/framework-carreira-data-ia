@@ -25,17 +25,9 @@ Explore as quatro competências principais:
 
 ### 🛤️ Trilhas de Especialização
 Descubra as diferentes trilhas técnicas:
-- AI Engineering
 - Analytics Engineering
 - Data Engineering
-- MLOps/DRE (Data Reliability Engineering)
-
-### 🚀 Processo de Promoção
-Encontre templates, rubricas e exemplos para preparar seu pacote de promoção.
-
-## 💼 Para Líderes de RH
-
-Este site oferece uma visão completa e estruturada do nosso framework de carreira. Use a navegação lateral para explorar cada seção ou utilize a busca para encontrar informações específicas.
+- Cientista de Dados
 
 ---
 
