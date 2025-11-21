@@ -1,0 +1,86 @@
+site_name: Data & AI Engineering - Career Ladder
+site_description: Career progression framework for Data & AI Engineering at Gupy
+site_author: Gupy
+repo_url: https://github.com/amandanery-o/framework-carreira-data-ia
+repo_name: GitHub
+
+theme:
+  name: material
+  language: pt
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Alternar para modo escuro
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Alternar para modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: pt
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Níveis:
+      - E1 - Associate: levels/E1_associate.md
+      - E2 - Mid-Level: levels/E2_mid.md
+      - E3 - Senior: levels/E3_senior.md
+      - E4 - Staff: levels/E4_staff.md
+      - E5 - Principal: levels/E5_principal.md
+  - Competências:
+      - Comunicação: competencies/communication.md
+      - Execução: competencies/execution.md
+      - Liderança: competencies/leadership.md
+      - Excelência Técnica: competencies/tech_excellence.md
+  - Trilhas:
+      - AI Engineering: tracks/ai_engineering.md
+      - Analytics Engineering: tracks/analytics_engineering.md
+      - Data Engineering: tracks/data_engineering.md
+      - MLOps/DRE: tracks/mlops_dre.md
+  - Promoção:
+      - Rubrica de Avaliação: promotion/rubric.md
+      - Template de Pacote: promotion/promotion_packet_template.md
+      - Exemplos: promotion/examples.md
+  - Cultura:
+      - Mapeamento Cultura Gupy: culture/mapping_to_gupy_culture.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/amandanery-o/framework-carreira-data-ia
+
