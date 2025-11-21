@@ -56,12 +56,18 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Sumário: SUMARIO.md
   - Níveis:
-      - E1 - Associate: levels/E1_associate.md
-      - E2 - Mid-Level: levels/E2_mid.md
-      - E3 - Senior: levels/E3_senior.md
-      - E4 - Staff: levels/E4_staff.md
-      - E5 - Principal: levels/E5_principal.md
+      - SE I - Junior: levels/SE_I_junior.md
+      - SE II - Pleno: levels/SE_II_pleno.md
+      - SE III - Senior: levels/SE_III_senior.md
+      - Lead Engineer: levels/Lead_engineer.md
+      - Staff Engineer: levels/Staff_engineer.md
+      - Staff II - Senior Staff: levels/Staff_II_senior_staff.md
+      - Principal Engineer: levels/Principal_engineer.md
+      - Engineering Manager: levels/Engineering_manager.md
+      - Tech Lead: levels/Tech_lead.md
+      - Referência de Níveis: NIVEIS_REFERENCIA.md
   - Competências:
       - Comunicação: competencies/communication.md
       - Execução: competencies/execution.md
@@ -72,6 +78,7 @@ nav:
       - Analytics Engineering: tracks/analytics_engineering.md
       - Data Engineering: tracks/data_engineering.md
       - MLOps/DRE: tracks/mlops_dre.md
+      - Cientista de Dados: tracks/cientista_de_dados.md
   - Promoção:
       - Rubrica de Avaliação: promotion/rubric.md
       - Template de Pacote: promotion/promotion_packet_template.md
