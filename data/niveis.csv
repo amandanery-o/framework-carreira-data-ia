@@ -1,0 +1,10 @@
+id,nome,ordem,escopo,alcance_colaborativo,alavancas,tipo
+1,SE I (Junior),1,,,,IC
+2,SE II (Pleno),2,,,,IC
+3,SE III (Senior),3,,,,IC
+4,Lead Engineer,4,,,,IC
+5,Staff Engineer,5,,,,IC
+6,Staff II (Senior Staff),6,,,,IC
+7,Principal Engineer,7,,,,IC
+8,Tech Lead,8,,,,Management
+9,Engineering Manager,9,,,,Management
