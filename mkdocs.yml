@@ -74,15 +74,9 @@ nav:
       - Liderança: competencies/leadership.md
       - Excelência Técnica: competencies/tech_excellence.md
   - Trilhas:
-      - AI Engineering: tracks/ai_engineering.md
       - Analytics Engineering: tracks/analytics_engineering.md
       - Data Engineering: tracks/data_engineering.md
-      - MLOps/DRE: tracks/mlops_dre.md
       - Cientista de Dados: tracks/cientista_de_dados.md
-  - Promoção:
-      - Rubrica de Avaliação: promotion/rubric.md
-      - Template de Pacote: promotion/promotion_packet_template.md
-      - Exemplos: promotion/examples.md
   - Cultura:
       - Mapeamento Cultura Gupy: culture/mapping_to_gupy_culture.md
 
