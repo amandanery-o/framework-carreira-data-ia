@@ -3,7 +3,7 @@
 
 ---
 
-**Leia primeiro:** [Framework SE III - Documento Oficial](../../levels/SE_III_senior.md)
+**Leia primeiro:** [Framework SE III - Documento Oficial](https://github.com/amandanery-o/framework-carreira-data-ia/blob/main/levels/SE_III_senior.md)
 
 **Este documento:** Exemplos práticos para facilitar o entendimento do framework oficial
 
@@ -34,15 +34,15 @@
 > "Compreendo profundamente o contexto de negócio e uso isso para maximizar impacto nas decisões técnicas"
 
 **Na prática:**
-- ❌ "Implementei o filtro de data. Funciona bem."
-- ✅ "Implementei filtro de data. Resultado: +15% de uso dos dashboards (métrica de engajamento que impacta retenção)."
+- ❌ "Implementei a feature X. Funciona bem."
+- ✅ "Implementei a feature X. Resultado: +15% de engajamento dos usuários (métrica chave de retenção)."
 
 **Framework diz:**
 > "Tomo decisões técnicas com clareza de argumentação e documentação"
 
 **Na prática:**
 - ❌ Escolhe tecnologia e implementa
-- ✅ Escreve tech spec explicando trade-offs: "Escolhi Nivo ao invés de Recharts porque precisamos de customização avançada (requisito para 5 casos de uso futuros). Trade-off: curva de aprendizado maior, mas aceitável dado que charts são core do produto."
+- ✅ Escreve tech spec explicando trade-offs: "Escolhi solução A ao invés de B porque [razão técnica]. Trade-off: [custo], mas aceitável dado [contexto de negócio]."
 
 ---
 
@@ -52,8 +52,8 @@
 > "Busco ativamente e elimino fontes de toil no time"
 
 **Na prática:**
-- Time perde 2h/semana debuggando problemas de cache
-- SE III propõe e implementa solução de observabilidade que reduz tempo de debug em 70%
+- Time perde 2h/semana em tarefa manual repetitiva
+- SE III propõe e implementa automação que reduz tempo em 70%
 
 ---
 
@@ -66,13 +66,13 @@
 
 **Na prática:**
 - ❌ Pega tickets e implementa
-- ✅ "Performance dos dashboards está ruim. Propus roadmap de 3 meses: (1) Lazy loading de componentes, (2) Otimização de queries, (3) Implementação de cache. Priorizei baseado em impacto vs esforço."
+- ✅ "Sistema X está com problemas de performance. Propus roadmap de 3 meses: (1) Identificar gargalos, (2) Otimizar queries críticas, (3) Implementar cache. Priorizei baseado em impacto vs esforço."
 
 **Framework diz:**
 > "Contribuo de forma consistente para padrões, boas práticas e referências"
 
 **Na prática:**
-- Cria documento: "Guia de Componentes Reutilizáveis" 
+- Cria documento: "Guia de [Padrão Técnico Relevante]"
 - Apresenta em tech talk
 - Usa em code reviews como referência
 
@@ -87,24 +87,18 @@
 
 **Na prática - Code Review que ensina:**
 ```
-❌ "LGTM 🚀"
+❌ "LGTM"
 
 ✅ "Boa implementação! Algumas sugestões:
 
-1. Performance: O useMemo não está prevenindo re-render porque
-   a dependency array tem objeto novo toda vez. Sugiro extrair
-   para constante fora do componente.
+1. [Aspecto técnico]: [Explicação do problema] 
+   Sugestão: [Como melhorar]
    
-2. Testabilidade: Componente está fazendo demais (fetch + display).
-   Vamos extrair lógica para custom hook? Facilita testar.
+2. [Padrão]: [Por que é importante]
+   Ref: [Link para documentação]
    
-3. Ref: [link para guia de patterns]
-
-Posso fazer pair programming se quiser!"
+3. Posso fazer pair programming se quiser discutir!"
 ```
-
-**Contexto especial - Guilherme:**
-Como você é o único frontend no time, vamos discutir no 1:1 alternativas de mentoria: cross-time, tech talks, documentação educacional, etc.
 
 ---
 
@@ -116,32 +110,8 @@ Como você é o único frontend no time, vamos discutir no 1:1 alternativas de m
 > "Comunico com clareza, adapto mensagem à audiência"
 
 **Na prática:**
-- **Para time técnico:** "Migrei para Nivo porque precisamos de customização avançada de tooltips e legends. Performance é similar ao Recharts mas API é mais verbosa."
-- **Para produto:** "Consegui implementar as 3 visualizações customizadas que vocês pediram. Agora podemos criar novos tipos de gráficos 3x mais rápido."
-
----
-
-## CRAFT PARA FRONTEND EM CONTEXTO DE DATA
-
-O framework oficial fala de "dbt, pipelines, LLM". Para frontend em analytics:
-
-### Fluência Técnica
-- React, TypeScript, state management
-- Visualização de dados (Nivo, D3, charts)
-- Cube.js / queries / agregações (básico)
-- Testing (unit, integration, E2E)
-
-### Arquitetura
-- Design systems e component libraries
-- Performance (lazy loading, memoization, code splitting)
-- State management em apps complexos
-- Integração com backend/APIs de dados
-
-### Estratégia Técnica
-- Propor melhorias de DX (Storybook, visual regression)
-- Otimizar performance de dashboards
-- Definir padrões de componentes reutilizáveis
-- Implementar observabilidade frontend
+- **Para time técnico:** "Migrei para tecnologia X porque [razões técnicas detalhadas]. Performance é similar mas [trade-offs]."
+- **Para produto/negócio:** "Consegui implementar as funcionalidades pedidas. Agora podemos [benefício de negócio] 3x mais rápido."
 
 ---
 
@@ -197,5 +167,3 @@ Antes de preencher a autoavaliação, reflita:
 - Liderar tecnicamente (estratégia, decisões, documentação)
 - Influenciar positivamente (mentoria, padrões, colaboração)
 - Pensar em impacto (negócio, não só código)
-
-**Nos vemos na segunda!**
