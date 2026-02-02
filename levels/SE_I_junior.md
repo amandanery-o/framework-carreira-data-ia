@@ -17,7 +17,7 @@
 
 ### Impact Levers (Alavancas de impacto)
 - **Craft** - Foco principal em melhorar minhas habilidades técnicas de engenharia e dados
-- **Learning** - Absorvo conhecimento rapidamente através de feedback e mentoria
+- **Learning** - Absorvo conhecimento através de feedback e mentoria
 
 ---
 
@@ -49,7 +49,7 @@
 ### Agility (Agilidade)
 - Adapto-me a mudanças de prioridade com suporte do time
 - Mantenho foco nas tarefas mesmo com ambiguidade, pedindo clarificação quando necessário
-- Respondo a feedback rapidamente e ajusto minha abordagem
+- Respondo a feedback e ajusto minha abordagem
 
 ### Innovation (Inovação)
 - Experimento com novas ferramentas e abordagens em tarefas supervisionadas
@@ -122,7 +122,7 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 
 **Expectativas gerais de Craft para SE I:**
 - Entendo conceitos básicos do stack da área (dados, pipelines, SQL, Python/R)
-- Evoluo rapidamente quando recebo feedback técnico
+- Evoluo consistentemente quando recebo feedback técnico
 - Escrevo código/queries legíveis e com testes básicos
 - Sigo padrões e convenções estabelecidas pelo time
 - Uso ferramentas de versionamento (git) e colaboração efetivamente
