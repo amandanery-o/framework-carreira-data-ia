@@ -15,7 +15,7 @@ Desenvolver capacidades técnicas e profissionais de outros engenheiros através
 
 **Comportamentos esperados:**
 - Compartilhar conhecimento proativamente
-- Oferecer feedback construtiva e frequente
+- Oferecer feedback construtivo e frequente
 - Ensinar através de programação em par e revisões de código educativas
 - Criar oportunidades de crescimento através de delegação intencional
 - Celebrar sucessos de mentorados e ajudar em desafios
@@ -180,7 +180,7 @@ Liderar mudanças técnicas, processos e culturais, gerenciando resistência e c
 - É referência técnica em pelo menos um subdomínio
 - Contribui para padrões e boas práticas da área
 - Facilita discussões técnicas e ajuda time a chegar em acordos
-- Dá feedback construtiva e específico
+- Dá feedback construtivo e específico
 
 ### Em Lead Engineer
 - Desenvolve capacidades técnicas de todo o time

@@ -120,7 +120,7 @@
 
 #### desempenho Management & feedback
 - Forneço **feedback contínuo, específico e acionável** (positivo e construtivo)
-- Uso framework **SBI (Situation-Behavior-Impact)** para feedback construtiva
+- Uso framework **SBI (Situation-Behavior-Impact)** para feedback construtivo
 - Identifico e endereço **desempenho issues precocemente** com planos de ação
 - Conduzo desempenho reviews **justas, calibradas e baseadas em evidências**
 - Gerencio situações difíceis (PIPs, desligamentos) com empatia e profissionalismo

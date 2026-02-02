@@ -112,7 +112,7 @@
 
 **Exemplos práticos:**
 - programação em par para compartilhar conhecimento
-- revisões de código educativas com feedback construtiva
+- revisões de código educativas com feedback construtivo
 - Mentoria formal e informal de pessoas mais juniores
 - palestras técnicas e workshops internos
 - Celebrar wins do time publicamente

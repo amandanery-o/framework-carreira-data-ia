@@ -120,7 +120,7 @@ Compartilhamento de conhecimento através de apresentações, palestras técnica
 
 **Evolução por nível:**
 - **SE I-II**: Participa de demos, compartilha aprendizados com pares
-- **SE III**: Apresenta trabalho em demos, dá feedback construtiva
+- **SE III**: Apresenta trabalho em demos, dá feedback construtivo
 - **Lead**: Apresenta trabalho do time em demos e all-hands quando relevante
 - **Staff**: Realiza palestras técnicas internos regularmente, apresenta para leadership
 - **Staff II-Principal**: Representa empresa externamente em conferências, constrói marca técnica
@@ -140,7 +140,7 @@ Capacidade de ouvir efetivamente, processar perspectivas diversas e incorporar f
 - Escutar ativamente sem interromper
 - Fazer perguntas clarificadoras
 - Solicitar feedback regularmente
-- Receber feedback construtivamente e agir sobre ele
+- Receber feedback construtivomente e agir sobre ele
 - Criar espaço para vozes diversas serem ouvidas
 - Demonstrar que feedback foi ouvido e incorporado
 
@@ -165,7 +165,7 @@ Capacidade de ouvir efetivamente, processar perspectivas diversas e incorporar f
 ### Em SE III (Senior)
 - Articula decisões técnicas com clareza
 - Facilita discussões técnicas produtivas
-- Dá feedback construtiva e específico
+- Dá feedback construtivo e específico
 - Documenta de forma que outros possam manter
 - Comunica impacto de decisões técnicas
 

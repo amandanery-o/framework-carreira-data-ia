@@ -136,7 +136,7 @@ Sinto dificuldade em dar feedbacks construtivos e diretos sobre a qualidade do t
 **Como desenvolver:**
 - Praticar framework SBI (Situation-Behavior-Impact)
 - Começar com feedback positivo frequente
-- Preparar feedback construtiva antes de dar
+- Preparar feedback construtivo antes de dar
 - Ver exemplos em: [Guia Complementar SE III](./SE_III_GUIA_COMPLEMENTAR.md)
 
 ---
@@ -254,7 +254,7 @@ _________________________________________________________
 ### 3. Em qual aspecto de comunicação ou liderança você quer evoluir?
 
 **Exemplos:**
-- Dar feedback construtiva
+- Dar feedback construtivo
 - Comunicar com partes interessadas não técnicos
 - Facilitar decisões técnicas em grupo
 - Mentoria e desenvolvimento de pessoas

@@ -134,7 +134,7 @@
 
 ### Sobre Pessoas:
 - [ ] Ajudo outros a crescerem (mentoria, reviews, programação em par)
-- [ ] Dou feedback construtiva e específico
+- [ ] Dou feedback construtivo e específico
 - [ ] Compartilho conhecimento (palestras técnicas, docs, exemplos)
 
 ---

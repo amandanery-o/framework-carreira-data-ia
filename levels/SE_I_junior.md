@@ -124,7 +124,7 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 
 **Expectativas gerais de Craft para SE I:**
 - Entendo conceitos básicos do stack da minha área de atuação
-- Evoluo consistentemente quando recebo feedback técnica
+- Evoluo consistentemente quando recebo feedback técnico
 - Escrevo código legível e com testes básicos
 - Sigo padrões e convenções estabelecidas pelo time
 - Uso ferramentas de versionamento (git) e colaboração efetivamente
@@ -155,6 +155,6 @@ Coopero com pares, ajudo quando posso e peço ajuda quando preciso, contribuindo
 Você está pronto(a) para evoluir para SE II quando:
 - Entrega tarefas de complexidade média com mínima supervisão
 - Faz trade-offs técnicos simples de forma autônoma
-- Participa ativamente de revisões de código dando feedback construtiva
+- Participa ativamente de revisões de código dando feedback construtivo
 - Ajuda na integração de novos membros do time
 - Identifica e propõe melhorias técnicas no seu escopo

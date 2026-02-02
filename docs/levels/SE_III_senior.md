@@ -120,7 +120,7 @@
 - Influencio partes interessadas através de variedade de audiências
 - Busco ouvir e entender outros
 - Facilito discussões técnicas e ajudo time a chegar em bons acordos
-- Dou feedback construtiva e específico, ajudando no crescimento de outras pessoas
+- Dou feedback construtivo e específico, ajudando no crescimento de outras pessoas
 
 ### Culture Leader (Liderança cultural)
 - Atuo como parceiro do meu gestor em estabelecer o tom cultural para o time

@@ -88,7 +88,7 @@
 ### Collaboration (Colaboração)
 - Trabalho efetivamente com membros do time e parceiros cross-funcionais
 - Comunico progresso, desafios e necessidades claramente
-- Contribuo ativamente em revisões de código com feedback construtiva
+- Contribuo ativamente em revisões de código com feedback construtivo
 - Participo produtivamente de reuniões e discussões técnicas
 - Ajudo a resolver conflitos e mal-entendidos no time
 

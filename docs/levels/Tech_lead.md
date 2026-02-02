@@ -97,7 +97,7 @@
 
 ### Team Development (Desenvolvimento do time)
 - Desenvolvo capacidades técnicas através de **programação em par regular** (mínimo 2-3x por semana)
-- Forneço **feedback construtiva e frequente** em revisões de código com explicação do "porquê"
+- Forneço **feedback construtivo e frequente** em revisões de código com explicação do "porquê"
 - Delego **features desafiadoras** como oportunidade de aprendizado estratégico
 - Identifico **pontos fortes de cada membro** e os utilizo estrategicamente
 - Modelo comportamentos de **excelência técnica**, ownership e colaboração
