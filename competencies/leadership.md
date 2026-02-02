@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Capacidade de influenciar, desenvolver pessoas e direcionar tecnicamente times e organização. Envolve desde colaboração efetiva até mentoria, desenvolvimento de outros engenheiros, e liderança técnica e estratégica em diferentes escopos. Esta é uma competência de **liderança técnica (technical leadership)**, não gestão de pessoas.
+Capacidade de influenciar, desenvolver pessoas e direcionar tecnicamente times e organização. Envolve desde colaboração efetiva até mentoria, desenvolvimento de outros engenheiros, e liderança técnica e estratégica em diferentes escopos. Esta é uma competência de **liderança técnica**, não gestão de pessoas.
 
 ---
 
