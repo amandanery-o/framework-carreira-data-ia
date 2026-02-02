@@ -135,6 +135,8 @@
 
 ## 🛠️ Habilidades Técnicas
 
+> **⚠️ WIP (Work In Progress)**: O conteúdo específico por trilha está em desenvolvimento.
+
 As habilidades técnicas específicas variam por trilha. Consulte:
 - [Data Engineering](../tracks/data_engineering.md#staff-ii-engineer)
 - [Analytics Engineering](../tracks/analytics_engineering.md#staff-ii-engineer)
