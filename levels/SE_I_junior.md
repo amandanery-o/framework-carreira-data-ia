@@ -1,6 +1,6 @@
 # Software Engineer I - Junior (SE I)
 
-> **"Eu entrego código e soluções de dados de alta qualidade com direcionamento do time"**
+> **"Eu entrego código e soluções de alta qualidade com direcionamento do time"**
 
 ---
 
@@ -16,7 +16,7 @@
 - Começo a entender como meu trabalho se conecta com outros times
 
 ### Impact Levers (Alavancas de impacto)
-- **Craft** - Foco principal em melhorar minhas habilidades técnicas de engenharia e dados
+- **Craft** - Foco principal em melhorar minhas habilidades técnicas de engenharia
 - **Learning** - Absorvo conhecimento através de feedback e mentoria
 
 ---
@@ -34,7 +34,7 @@
 - Assumo responsabilidade pelas minhas tarefas e comunico status com transparência
 - Sinalizo impedimentos e bloqueios proativamente
 - Peço ajuda quando necessário e busco aprender com quem tem mais experiência
-- Testo meu código/queries e me preocupo em não quebrar o que já existe
+- Testo meu código e me preocupo em não quebrar o que já existe
 - Busco entender o "porquê" antes de implementar, fazendo perguntas objetivas
 
 ### Decision Making (Tomada de decisão)
@@ -119,11 +119,13 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 - [Data Engineering](../tracks/data_engineering.md#se-i---junior)
 - [Analytics Engineering](../tracks/analytics_engineering.md#se-i---junior)
 - [Cientista de Dados](../tracks/cientista_de_dados.md#se-i---junior)
+- [Frontend](../tracks/frontend.md#se-i---junior)
+- [Backend](../tracks/backend.md#se-i---junior)
 
 **Expectativas gerais de Craft para SE I:**
-- Entendo conceitos básicos do stack da área (dados, pipelines, SQL, Python/R)
+- Entendo conceitos básicos do stack da minha área de atuação
 - Evoluo consistentemente quando recebo feedback técnico
-- Escrevo código/queries legíveis e com testes básicos
+- Escrevo código legível e com testes básicos
 - Sigo padrões e convenções estabelecidas pelo time
 - Uso ferramentas de versionamento (git) e colaboração efetivamente
 
