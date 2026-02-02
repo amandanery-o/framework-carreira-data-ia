@@ -6,37 +6,37 @@
 
 ## 📋 Definição do Nível
 
-### Scope (Escopo de atuação)
+### Escopo de Atuação
 - Executo projetos definidos para alcançar objetivos de nível de time
 - Defino independentemente as soluções certas ou uso abordagens existentes para resolver problemas definidos
 - Tomo decisões técnicas com autonomia crescente
 
-### Collaborative Reach (Alcance colaborativo)
+### Alcance Colaborativo
 - Trabalho principalmente dentro do escopo do meu time com orientação de alto nível do meu gestor/Tech Lead
 - Começo a colaborar com parceiros cross-funcionais em meus projetos
 
-### Impact Levers (Alavancas de impacto)
-- **Craft** - Estou cada vez mais dominando meu craft e o uso para maior impacto (ex: design de software e modelos de dados)
-- **Mentorship** - Posso mentorar novos membros, estagiários ou engenheiros mais juniores
+### Alavancas de Impacto
+- **Habilidade Técnica** - Estou cada vez mais dominando meu craft e o uso para maior impacto (ex: design de software e modelos de dados)
+- **Mentoria** - Posso mentorar novos membros, estagiários ou engenheiros mais juniores
 
 ---
 
-## 🏆 Results (Resultados)
+## 🏆 Resultados
 
-### Impact (Impacto)
+### Impacto
 - Entrego projetos completos de complexidade média no prazo e com qualidade
 - Trabalho com meu gestor para priorizar tarefas que adicionam mais valor e entrego resultados de alta qualidade para o cliente
 - Entendo e participo efetivamente dos processos core do meu time (planning, on-call, bug triage, revisão de métricas)
 - Com orientação do gestor e Tech Lead, entrego trabalho de alta qualidade no prazo que adiciona mais valor
 
-### Ownership (Responsabilidade)
-- Assumo ownership de partes significativas de projetos
+### Responsabilidade
+- Assumo responsabilidade de partes significativas de projetos
 - Identifico problemas e os resolvo ou escalo apropriadamente
 - Participo de rotações de on-call e respondo a incidentes de forma efetiva
 - Mantenho e melhoro sistemas existentes sob minha responsabilidade
 - Documento decisões e processos para facilitar conhecimento do time
 
-### Decision Making (Tomada de decisão)
+### Tomada de Decisão
 - Tomo decisões técnicas para problemas bem definidos com autonomia
 - Avalio trade-offs e escolho a abordagem mais apropriada com orientação mínima
 - Busco input quando necessário mas não fico paralisado esperando direção
@@ -44,20 +44,20 @@
 
 ---
 
-## 🌟 Direction (Direção)
+## 🌟 Direção
 
-### Agility (Agilidade)
+### Agilidade
 - Me adapto rapidamente a mudanças de prioridade e requisitos
 - Mantenho produtividade mesmo com algum grau de ambiguidade
 - Ajudo o time a responder rapidamente a feedback e mudanças de mercado
 
-### Innovation (Inovação)
+### Inovação
 - Experimento com novas ferramentas e abordagens dentro do meu escopo
 - Proponho melhorias em processos, ferramentas e práticas do time
 - Aprendo rapidamente com sucessos e falhas
 - Compartilho conhecimento e aprendizados com o time
 
-### Strategy (Estratégia)
+### Estratégia
 - Entendo profundamente os objetivos do time e como meu trabalho contribui
 - Sugiro formas de alcançar objetivos de forma mais eficiente
 - Começo a pensar estrategicamente sobre arquitetura e design de sistemas
@@ -65,16 +65,16 @@
 
 ---
 
-## 🌳 Talent (Talento)
+## 🌳 Talento
 
-### Personal Growth (Crescimento pessoal)
+### Crescimento Pessoal
 - Busco feedback ativamente e demonstro crescimento contínuo
 - Identifico áreas de desenvolvimento e tomo ações concretas para melhorar
 - Expando minhas habilidades além do meu escopo imediato
 - Participo de comunidades de prática e aprendizado
 - Estabeleço metas de carreira claras com meu gestor
 
-### Team Development (Desenvolvimento do time)
+### Desenvolvimento do Time
 - Mentoro ativamente SE I, estagiários e novos membros do time
 - Compartilho conhecimento através de programação em par, revisões de código e documentação
 - Contribuo para integração de novos membros
@@ -83,30 +83,30 @@
 
 ---
 
-## 🌈 Culture (Cultura)
+## 🌈 Cultura
 
-### Collaboration (Colaboração)
+### Colaboração
 - Trabalho efetivamente com membros do time e parceiros cross-funcionais
 - Comunico progresso, desafios e necessidades claramente
 - Contribuo ativamente em revisões de código com feedback construtivo
 - Participo produtivamente de reuniões e discussões técnicas
 - Ajudo a resolver conflitos e mal-entendidos no time
 
-### Organizational Health (Saúde organizacional)
+### Saúde Organizacional
 - Contribuo para cultura positiva e inclusiva do time
 - Apoio diversidade de perspectivas e estilos de trabalho
 - Participo de iniciativas de melhoria do time
 - Modelo boas práticas de trabalho e equilíbrio
 - Ajudo a criar ambiente de segurança psicológica
 
-### Communication (Comunicação)
+### Comunicação
 - Comunico ideias técnicas claramente para audiências variadas
 - Escrevo documentação clara e útil
 - Faço perguntas efetivas que avançam discussões
 - Adapto estilo de comunicação ao contexto e audiência
 - Compartilho contexto e raciocínio por trás de decisões
 
-### Culture Leader (Liderança cultural)
+### Liderança Cultural
 - Modelo valores da Gupy consistentemente
 - Contribuo para ambiente de aprendizado e crescimento
 - Celebro sucessos do time e reconheço contribuições
@@ -115,14 +115,14 @@
 
 ---
 
-## 🛠️ Craft (Habilidades Técnicas)
+## 🛠️ Habilidades Técnicas
 
 As habilidades técnicas específicas variam por trilha. Consulte:
 - [Data Engineering](../tracks/data_engineering.md#se-ii---pleno)
 - [Analytics Engineering](../tracks/analytics_engineering.md#se-ii---pleno)
 - [Cientista de Dados](../tracks/cientista_de_dados.md#se-ii---pleno)
 
-**Expectativas gerais de Craft para SE II:**
+**Expectativas gerais de Habilidade Técnica para SE II:**
 
 ### Fluência Técnica
 - Domínio sólido dos fundamentos do stack da área

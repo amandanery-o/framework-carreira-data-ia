@@ -6,27 +6,27 @@
 
 ## 📋 Definição do Nível
 
-### Scope (Escopo de atuação)
+### Escopo de Atuação
 - Estabeleço e conduzo iniciativas técnicas de impacto na empresa inteira
 - Resolvo os problemas técnicos mais complexos e ambíguos da organização
 - Defino estratégia técnica de longo prazo alinhada com visão de negócio
 
-### Collaborative Reach (Alcance colaborativo)
+### Alcance Colaborativo
 - Influencio direção técnica e decisões de investimento em nível de empresa
 - Colaboro com C-level e liderança sênior em estratégia de negócio e tecnologia
 - Sou reconhecido como líder de pensamento na indústria
 
-### Impact Levers (Alavancas de impacto)
+### Alavancas de Impacto
 - **Company-Wide Strategy** - Defino direção técnica que impacta toda a empresa
-- **Industry Leadership** - Represento a empresa como líder de pensamento através de palestras, papers, open source
+- **Liderança da Indústria** - Represento a empresa como líder de pensamento através de palestras, papers, código aberto
 - **Technical Vision** - Articulo visão técnica de 3-5 anos que alinha tecnologia e negócio
 - **Organizational Transformation** - Conduzo mudanças organizacionais através de liderança técnica e influência
 
 ---
 
-## 🏆 Results (Resultados)
+## 🏆 Resultados
 
-### Impact (Impacto)
+### Impacto
 - Defino e executo em iniciativas que transformam capacidades técnicas da empresa
 - Identifico oportunidades estratégicas que criam vantagem competitiva significativa
 - Conduzo impacto mensurável em métricas de negócio de nível de empresa (receita, eficiência, satisfação de cliente)
@@ -35,16 +35,16 @@
 - Resolvo os problemas técnicos mais difíceis que ninguém mais pode resolver
 - Influencio decisões estratégicas de produto e negócio através de liderança técnica
 
-### Ownership (Responsabilidade)
-- Assumo ownership de direção técnica de longo prazo da empresa
+### Responsabilidade
+- Assumo responsabilidade de direção técnica de longo prazo da empresa
 - Identifico riscos técnicos ou de negócio em nível de empresa e conduzo mitigação
 - Possuo decisões com implicações de milhões de dólares com confiança e responsabilidade
 - Não espero direção - crio direção para outros seguirem
 - Quando problemas críticos surgem, sou chamado para resolvê-los
 - Conduzo post-mortems de issues críticos que resultam em mudanças organizacionais
-- Modelo o mais alto nível de ownership e accountability
+- Modelo o mais alto nível de responsabilidade e prestação de contas
 
-### Decision Making (Tomada de decisão)
+### Tomada de Decisão
 - Tomo decisões técnicas e de negócio que impactam toda a empresa
 - Balanço inovação, risco, custo e timing em decisões estratégicas
 - Uso julgamento excepcional para navegar situações sem precedentes
@@ -55,25 +55,25 @@
 
 ---
 
-## 🌟 Direction (Direção)
+## 🌟 Direção
 
-### Agility (Agilidade)
+### Agilidade
 - Conduzo transformação organizacional em resposta a mudanças de mercado ou tecnologia
 - Adapto estratégia da empresa baseado em sinais emergentes
 - Mantenho múltiplas iniciativas estratégicas de longo prazo avançando
 - Permaneço efetivo mesmo em períodos de mudança organizacional significativa
 - Ajudo empresa a pivotar rapidamente quando necessário
 
-### Innovation (Inovação)
+### Inovação
 - Identifico e promovo tecnologias e abordagens que podem transformar a indústria
 - Crio cultura de inovação responsável e experimentação em escala de empresa
 - Balanço inovação breakthrough com excelência operacional
 - Invento novas soluções para problemas que indústria ainda não resolveu
-- Publico pesquisa, contribuo para open source significativo, ou patenteia invenções
+- Publico pesquisa, contribuo para código aberto significativo, ou patenteia invenções
 - Posiciono empresa como líder de inovação na indústria
 - Influencio direção da indústria através de liderança de pensamento
 
-### Strategy and Change Management (Estratégia e gestão de mudança)
+### Estratégia e Gestão de Mudança
 - Defino visão técnica de 3-5 anos alinhada com estratégia de negócio
 - Trabalho com CEO/CTO/CPO para alinhar tecnologia, produto e negócio
 - Conduzo transformações técnicas de impacto na empresa (ex: adoção de IA, mudança de arquitetura, modernização de plataforma)
@@ -84,16 +84,16 @@
 
 ---
 
-## 🌳 Talent (Talento)
+## 🌳 Talento
 
-### Personal Growth (Crescimento pessoal)
-- Busco feedback de board, executivos e peers da indústria
+### Crescimento Pessoal
+- Busco feedback de diretoria, executivos e pares da indústria
 - Invisto significativamente em crescimento como líder técnico e estrategista de negócio
 - Construo network amplo de líderes técnicos na indústria
 - Modelo humildade e aprendizado contínuo apesar de senioridade
-- Mantenho curiosidade técnica e hands-on em áreas críticas
+- Mantenho curiosidade técnica e prático em áreas críticas
 
-### Team Development (Desenvolvimento do time)
+### Desenvolvimento do Time
 - Desenvolvo próxima geração de Principal Engineers e líderes técnicos seniores
 - Influencio filosofia de talent development da empresa
 - Crio e mentoro através de programas que elevam capacidade técnica da empresa
@@ -104,17 +104,17 @@
 
 ---
 
-## 🌈 Culture (Cultura)
+## 🌈 Cultura
 
-### Collaboration (Colaboração)
-- Construo e mantenho relacionamentos fortes com C-level e board
+### Colaboração
+- Construo e mantenho relacionamentos fortes com C-level e diretoria
 - Represento tecnologia em conversas estratégicas de negócio
 - Facilito alinhamento entre engenharia, produto, vendas, marketing e outras funções
-- Trabalho efetivamente com founders, investidores e board members
+- Trabalho efetivamente com founders, investidores e diretoria members
 - Resolvo os conflitos mais difíceis que ninguém mais consegue resolver
 - Modelo colaboração excepcional mesmo sob pressão extrema
 
-### Organizational Health (Saúde organizacional)
+### Saúde Organizacional
 - Moldo cultura de engenharia de longo prazo da empresa
 - Identifico e endereço problemas culturais sistêmicos
 - Influencio políticas organizacionais em todos os níveis
@@ -123,8 +123,8 @@
 - Modelo os mais altos padrões de integridade e ética
 - Garanto sustentabilidade de longo prazo da organização técnica
 
-### Communication (Comunicação)
-- Articulo visão técnica para board, investidores e partes interessadas externos
+### Comunicação
+- Articulo visão técnica para diretoria, investidores e partes interessadas externos
 - Escrevo e publico pensamento técnico influente (blog posts, papers, livros)
 - Apresento em conferências principais representando a empresa
 - Comunico de forma inspiradora para toda a empresa (all-hands, town halls)
@@ -132,7 +132,7 @@
 - Sou porta-voz técnico da empresa para mídia e analistas
 - Adapto comunicação efetivamente desde engenheiros até investidores
 
-### Culture Leader (Liderança cultural)
+### Liderança Cultural
 - Defino o que significa excelência técnica na empresa
 - Modelo valores da empresa de forma visível e consistente
 - Influencio cultura através de cada decisão e ação
@@ -142,19 +142,19 @@
 
 ---
 
-## 🛠️ Craft (Habilidades Técnicas)
+## 🛠️ Habilidades Técnicas
 
 As habilidades técnicas específicas variam por trilha. Consulte:
 - [Data Engineering](../tracks/data_engineering.md#principal-engineer)
 - [Analytics Engineering](../tracks/analytics_engineering.md#principal-engineer)
 - [Cientista de Dados](../tracks/cientista_de_dados.md#principal-engineer)
 
-**Expectativas gerais de Craft para Principal:**
+**Expectativas gerais de Habilidade Técnica para Principal:**
 
 ### Expertise Excepcional
 - Expertise de nível mundial em domínios críticos para a empresa
 - Reconhecido na indústria como autoridade em áreas específicas
-- Publico pesquisa, escrevo livros, ou contribuo significativamente para open source importante
+- Publico pesquisa, escrevo livros, ou contribuo significativamente para código aberto importante
 - Convido para keynotes, painéis e advisory boards
 - Mantenho profundidade técnica excepcional enquanto operando em nível estratégico
 

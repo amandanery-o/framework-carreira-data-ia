@@ -6,26 +6,26 @@
 
 ## 📋 Definição do Nível
 
-### Scope (Escopo de atuação)
+### Escopo de Atuação
 - Possuo e entrego objetivos semestrais/anuais para meu time
 - Sou expert em identificar as soluções certas para resolver problemas ambíguos e abertos que requerem priorização difícil
 - Defino soluções técnicas ou processos operacionais eficientes que elevam meu time
 
-### Collaborative Reach (Alcance colaborativo)
+### Alcance Colaborativo
 - Sou um líder forte para meu time com meu impacto começando a se estender fora do meu time
 - Otimizo cada vez mais além do meu time conduzindo iniciativas cross-team ou cross-discipline
 
-### Impact Levers (Alavancas de impacto)
+### Alavancas de Impacto
 - **Technical Strategy** - Tenho papel chave em definir estratégia de médio a longo prazo para projetos de impacto no negócio
 - **Project Leadership** - Defino e entrego autonomamente roadmaps técnicos de projetos maiores, frequentemente envolvendo dependências cross-team
 - **Product Expertise** - Mantenho necessidades dos clientes em mente e cada vez mais influencio decisões de produto
-- **Mentorship** - Elevo ativamente membros menos experientes do time, incluindo outros seniors
+- **Mentoria** - Elevo ativamente membros menos experientes do time, incluindo outros seniors
 
 ---
 
-## 🏆 Results (Resultados)
+## 🏆 Resultados
 
-### Impact (Impacto)
+### Impacto
 - Entrego muitos dos objetivos do meu time no prazo e com alto padrão de qualidade
 - Minha compreensão do contexto de negócio e objetivos do time me permitem ter o maior impacto no cliente
 - Tomo decisões técnicas independentes diante de requisitos abertos
@@ -33,7 +33,7 @@
 - Simplifico chegando ao cerne do problema e priorizando as coisas certas
 - Melhoro como nosso time mede e comunica impacto no cliente
 
-### Ownership (Responsabilidade)
+### Responsabilidade
 - Identifico proativamente novas oportunidades e advogo por melhorias que podem ter impacto amplo no negócio
 - Assumo responsabilidade por minhas decisões e falhas no meu projeto e tomo ação para preveni-las no futuro
 - Abraço e compartilho aprendizados dessas falhas
@@ -43,7 +43,7 @@
 - Não tenho medo de declarar um SEV quando necessário
 - Crio e atualizo proativamente playbooks para componentes que possuo
 
-### Decision Making (Tomada de decisão)
+### Tomada de Decisão
 - Tomo decisões informadas através de debate produtivo com partes interessadas certos
 - Busco perspectivas diversas, balanceando detalhes com big picture
 - Otimizo para a empresa, não apenas meu time
@@ -53,20 +53,20 @@
 
 ---
 
-## 🌟 Direction (Direção)
+## 🌟 Direção
 
-### Agility (Agilidade)
+### Agilidade
 - Abraço mudança e me adapto rapidamente
 - Permaneço resiliente através de mudança mantendo calma sob pressão
 - Navego ambiguidade focando no propósito maior e objetivos
 
-### Innovation (Inovação)
+### Inovação
 - Tenho growth mindset e experimento com novas abordagens
 - Estabeleço objetivos audaciosos, tomo riscos e compartilho lições
 - Começo a empurrar limites usando melhores práticas da indústria e feedback de clientes
 - Implemento estratégias que movem produtos, ferramentas ou serviços para frente
 
-### Strategy (Estratégia)
+### Estratégia
 - Defino roadmap técnico para projetos impactantes de múltiplas fases
 - Refino roadmap conforme projetos progridem para entregar valor rapidamente
 - Forneço liderança para pessoas executando o projeto
@@ -76,15 +76,15 @@
 
 ---
 
-## 🌳 Talent (Talento)
+## 🌳 Talento
 
-### Personal Growth (Crescimento pessoal)
+### Crescimento Pessoal
 - Peço feedback proativamente do gestor, time e partes interessadas cross-funcionais
 - Conheço minhas forças e identifico formas de agir nas minhas áreas de desenvolvimento
 - Tenho auto-consciência e me conecto com outros com empatia
 - Conduzo discussões sobre objetivos aspiracionais e busco oportunidades de crescimento
 
-### Team Development (Desenvolvimento do time)
+### Desenvolvimento do Time
 - Modelo integridade e alto padrão de excelência para meu trabalho
 - Uso isso para estabelecer e manter a barra de qualidade e melhores práticas
 - Identifico e apoio áreas de crescimento para colegas levando em conta skills únicas, forças e estilos
@@ -94,9 +94,9 @@
 
 ---
 
-## 🌈 Culture (Cultura)
+## 🌈 Cultura
 
-### Collaboration (Colaboração)
+### Colaboração
 - Promovo e modelo valores core, liderando pelo exemplo
 - Construo relacionamentos e conduzo coordenação entre times e disciplinas
 - Comunico proativamente e coordeno requisitos do time com outros grupos
@@ -104,7 +104,7 @@
 - Me engajo em conflito produtivo com questionamento atencioso
 - Evito blame e resolvo problemas certos, discordando e commitando quando necessário
 
-### Organizational Health (Saúde organizacional)
+### Saúde Organizacional
 - Trabalho com gestor para alavancar forças únicas dos membros do time
 - Ajudo a identificar gaps de talento necessários para sucesso
 - Habilito outros a trazerem seus eus autênticos e contribuo para construir comunidade
@@ -113,7 +113,7 @@
 - Modelo boas práticas que ajudam time a colaborar efetivamente
 - Ajudo a moldar a cultura de engenharia através de atividades fora do time
 
-### Communication (Comunicação)
+### Comunicação
 - Comunico com clareza, brevidade e foco
 - Adapto mensagem à audiência apresentando na altitude certa
 - Compartilho informação proativamente para partes interessadas relevantes estarem informados
@@ -121,7 +121,7 @@
 - Influencio partes interessadas através de variedade de audiências
 - Busco ouvir e entender outros
 
-### Culture Leader (Liderança cultural)
+### Liderança Cultural
 - Atuo como parceiro do gestor em estabelecer tom cultural para o time
 - Apoio ambiente de segurança psicológica
 - Suporto conexão, empatia e conflito produtivo
@@ -129,14 +129,14 @@
 
 ---
 
-## 🛠️ Craft (Habilidades Técnicas)
+## 🛠️ Habilidades Técnicas
 
 As habilidades técnicas específicas variam por trilha. Consulte:
 - [Data Engineering](../tracks/data_engineering.md#lead-engineer)
 - [Analytics Engineering](../tracks/analytics_engineering.md#lead-engineer)
 - [Cientista de Dados](../tracks/cientista_de_dados.md#lead-engineer)
 
-**Expectativas gerais de Craft para Lead Engineer:**
+**Expectativas gerais de Habilidade Técnica para Lead Engineer:**
 
 ### Fluência Técnica
 - Encontro formas de melhorar eficiência de desenvolvimento

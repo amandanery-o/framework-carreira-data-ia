@@ -6,26 +6,26 @@
 
 ## 📋 Definição do Nível
 
-### Scope (Escopo de atuação)
+### Escopo de Atuação
 - Entrego objetivos de produto ou plataforma multi-ano e multi-time
 - Exibo um padrão muito alto de julgamento técnico, inovação e execução para resolver problemas abertos que requerem priorização difícil
 - Defino tanto o "o quê" quanto o "como" das coisas a serem feitas
 
-### Collaborative Reach (Alcance colaborativo)
+### Alcance Colaborativo
 - Estou cada vez mais influenciando os roadmaps de outros times para alcançar objetivos de impacto no negócio
 - Exerço julgamento que favorece as prioridades da org de engenharia mais ampla ao invés de resultados localmente ótimos
 
-### Impact Levers (Alavancas de impacto)
+### Alavancas de Impacto
 - **Domain Expertise** - Demonstro alto nível de profundidade em uma plataforma ou categoria de produto particular que traz valor único ao negócio
 - **Technical Strategy** - Excel em definir a visão e entregar projetos grandes de impacto no negócio com múltiplas restrições
 - **Product Expertise** - Influencio cada vez mais ou tomo decisões de produto/escopo e determino os trade-offs técnicos certos
-- **Mentorship** - Sirvo como modelo para outros engenheiros da empresa
+- **Mentoria** - Sirvo como modelo para outros engenheiros da empresa
 
 ---
 
-## 🏆 Results (Resultados)
+## 🏆 Resultados
 
-### Impact (Impacto)
+### Impacto
 - Identifico e executo em oportunidades que têm impacto em área/grupo inteiro
 - Executo projetos grandes com padrão muito alto (ex: contra deadline apertado com consequências significativas de falha, ou de forma que permite aprendizado rápido para clarificar ambiguidade significativa, ou a um padrão de qualidade muito excedente ao sistema atual)
 - Sei quais alavancas puxar para conduzir resultados significativos e entendo implicações cross-funcionais mais amplas
@@ -34,13 +34,13 @@
 - Trabalho próximo com times parceiros para priorizar desenvolvimento dessas capacidades
 - Identifico proativamente e ajudo a refocar esforços quando projetos estão fora de curso ou não viáveis tecnicamente
 
-### Ownership (Responsabilidade)
+### Responsabilidade
 - Tenho senso de responsabilidade e obrigação de agir em oportunidades
 - Crio alinhamento através da org de engenharia/empresa para melhorar outcomes para clientes
 - Possuo minhas decisões e erros e tomo ação para prevenir erros similares no futuro, compartilhando learnings
 - Quando eu ou meu time encontramos barreiras, desbloqueo avaliando e eliminando causa raiz, incluindo recomendando melhorias de processo e escala
 
-### Decision Making (Tomada de decisão)
+### Tomada de Decisão
 - Tenho visão holística da org de engenharia, insights de clientes e objetivos da empresa
 - Uso experiência e julgamento para tomar decisões otimizadas para a org mais ampla
 - Ajo cuidadosa e decisivamente em situações críticas
@@ -50,19 +50,19 @@
 
 ---
 
-## 🌟 Direction (Direção)
+## 🌟 Direção
 
-### Agility (Agilidade)
+### Agilidade
 - Permaneço resiliente através de mudança mantendo calma sob pressão e cuidando do meu bem-estar
 - Navego ambiguidade focando no propósito maior, objetivos e impacto desejado para avançar passo a passo
 
-### Innovation (Inovação)
+### Inovação
 - Empurro limites usando melhores práticas da indústria e feedback de clientes para gerar e implementar ideias breakthrough
 - Crio produtos novos ou avanço produtos existentes e conduzo nossas ferramentas para frente
 - Crio segurança psicológica e encorajo growth mindset com colegas
 - Apoio experimentação e sprint em direção a objetivos audaciosos
 
-### Strategy and Change Management (Estratégia e gestão de mudança)
+### Estratégia e Gestão de Mudança
 - Quando necessário, consigo ajudar gestor a introduzir mudança na organização
 - Ajudo outros a entender o business case para mudança e crio entusiasmo para conduzir adoção
 - Defino estratégia de longo prazo para meu time que considera prioridades company-wide, necessidades dos clientes e limitações/possibilidades técnicas
@@ -72,15 +72,15 @@
 
 ---
 
-## 🌳 Talent (Talento)
+## 🌳 Talento
 
-### Personal Growth (Crescimento pessoal)
+### Crescimento Pessoal
 - Peço feedback proativamente daqueles com quem trabalho e identifico formas de agir sobre ele
 - Tenho auto-consciência sobre minhas forças e tomo ações nas minhas áreas de desenvolvimento
 - Me conecto com outros com empatia e compreensão
 - Conduzo discussões com gestor sobre objetivos aspiracionais e busco oportunidades de aprendizado
 
-### Team Development (Desenvolvimento do time)
+### Desenvolvimento do Time
 - Sou modelo para outros engenheiros e modelo um padrão de excelência que apoia cultura de alta desempenho
 - Invisto tempo para coach e mentorar colegas (particularmente aqueles buscando crescer para Lead/Staff)
 - Levo em conta suas skills, backgrounds e estilos de trabalho
@@ -93,30 +93,30 @@
 
 ---
 
-## 🌈 Culture (Cultura)
+## 🌈 Cultura
 
-### Collaboration (Colaboração)
+### Colaboração
 - Promovo e modelo valores core, liderando pelo exemplo
 - Ajudo a quebrar silos dentro e através de funções e influencio outros para alcançar melhor outcome independente do meu nível/título
 - Construo relacionamentos cross-funcionais profundos, facilito conversas certas e resolvo desacordos gerenciando diferentes pontos de vista
 - Me engajo em conflito produtivo com questionamento atencioso e tenho coragem de expressar ponto de vista
 - Balanço múltiplas perspectivas e discordo e commito quando necessário para mover decisões chave da empresa
 
-### Organizational Health (Saúde organizacional)
+### Saúde Organizacional
 - Alavanco forças e skills únicas dos membros do time e ajudo a identificar gaps de talento
 - Campeio esforços de construção de comunidade e iniciativas de inclusão
 - Trabalho em parceria próxima com time de gestão para garantir org de engenharia saudável
 - Pratico compromissos de diversidade regularmente
 - Construo relacionamentos e conexões, usando práticas inclusivas de reunião para apoiar ambiente inclusivo
 
-### Communication (Comunicação)
+### Comunicação
 - Adapto mensagem à audiência, apresentando claramente e concisamente na altitude certa
 - Se solicitado, escrevo narrativas claras para criar entendimento, influenciar outros e habilitar tomada de decisão efetiva
 - Ajusto fino minha abordagem para obter buy-in e influenciar partes interessadas através de variedade de audiências
 - Lidero pelo exemplo mantendo conversas cruciais mesmo quando desconfortáveis
 - Busco ouvir e entender outros
 
-### Culture Leader (Liderança cultural)
+### Liderança Cultural
 - Atuo como parceiro do gestor em estabelecer tom cultural para o time
 - Ajudo a criar ambiente inclusivo de segurança psicológica para apoiar conexão, empatia e conflito produtivo
 - Lidero pelo exemplo. Estou ciente da minha presença pública e ações e minha influência nas pessoas ao redor e na cultura
@@ -126,14 +126,14 @@
 
 ---
 
-## 🛠️ Craft (Habilidades Técnicas)
+## 🛠️ Habilidades Técnicas
 
 As habilidades técnicas específicas variam por trilha. Consulte:
 - [Data Engineering](../tracks/data_engineering.md#staff-engineer)
 - [Analytics Engineering](../tracks/analytics_engineering.md#staff-engineer)
 - [Cientista de Dados](../tracks/cientista_de_dados.md#staff-engineer)
 
-**Expectativas gerais de Craft para Staff Engineer:**
+**Expectativas gerais de Habilidade Técnica para Staff Engineer:**
 
 ### Fluência Técnica
 - Expectativas de fluência técnica não sobem além de Lead Engineer
