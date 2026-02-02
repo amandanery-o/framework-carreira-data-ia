@@ -24,12 +24,12 @@ Capacidade de traduzir objetivos em trabalho executável, priorizando o que gera
 **Evolução por nível:**
 - **SE I-II**: Executa tarefas bem definidas, estima trabalho simples, sinaliza impedimentos
 - **SE III**: Decompõe features complexas, estima com boa precisão, prioriza dentro de projetos
-- **Lead**: Traduz roteiro em trabalho executável, balanceia portfolio do time
+- **Lead**: Traduz roadmap em trabalho executável, balanceia portfolio do time
 - **Staff**: Planeja iniciativas cross-team, influencia priorização organizacional
 - **Staff II-Principal**: Define estratégia de longo prazo, aloca recursos em escala organizacional
 
 **Métricas de sucesso:**
-- iteração commitment accuracy (target: 80-90%)
+- sprint commitment accuracy (target: 80-90%)
 - Predictability de entregas quarter-over-quarter
 - Balanceamento: ~60-70% features, ~15-20% tech debt, ~15-20% sustentação
 
@@ -51,13 +51,13 @@ Garantia de que o trabalho planejado é executado e entregue com qualidade e no 
 - **SE III**: Entrega projetos end-to-end, desbloqueia-se, ajusta plano quando necessário
 - **Lead**: Garante entregas do time, remove impedimentos, comunica riscos antecipadamente
 - **Staff**: Lidera projetos críticos cross-team, desbloqueia múltiplos times
-- **Staff II-Principal**: Garante execução de roteiro estratégico, remove impedimentos sistêmicos
+- **Staff II-Principal**: Garante execução de roadmap estratégico, remove impedimentos sistêmicos
 
 **Métricas de sucesso:**
 - Velocity estável e saudável (não excessiva)
 - Lead time de features (target: <2 semanas para maioria)
 - Cycle time (tendência decrescente ou estável)
-- Bloqueios não resolvidos >3 dias (target: <2 por iteração)
+- Bloqueios não resolvidos >3 dias (target: <2 por sprint)
 
 ### 3. Qualidade & Confiabilidade
 
@@ -79,7 +79,7 @@ Garantia de que entregas mantêm alta barra de qualidade sem sacrificar velocida
 - **Staff II-Principal**: Estabelece cultura de excelência operacional na organização
 
 **Métricas de sucesso:**
-- Production bugs per iteração (tendência decrescente)
+- Production bugs per sprint (tendência decrescente)
 - Incident frequency e severity (target: <1 P0 por quarter)
 - MTTR (target: <1h P0, <4h P1)
 - Code coverage (target: >80% para código crítico)

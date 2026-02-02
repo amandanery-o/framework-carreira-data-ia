@@ -69,7 +69,7 @@
 
 ### Strategy and Change Management (Estratégia e gestão de mudança)
 - Defino estratégia técnica de 2-3 anos para múltiplos domínios
-- Alineo estratégia técnica com roteiro de produto e objetivos de negócio
+- Alineo estratégia técnica com roadmap de produto e objetivos de negócio
 - Conduzo mudanças técnicas significativas (ex: migração de plataforma, adoção de nova arquitetura)
 - Crio buy-in através de comunicação efetiva, demonstrações e construção de coalizões
 - Antecipo resistência e endereço preocupações proativamente
@@ -80,7 +80,7 @@
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Busco retroalimentação de executivos, peers e times sobre liderança técnica
+- Busco feedback de executivos, peers e times sobre liderança técnica
 - Tenho forte auto-consciência sobre impacto da minha comunicação e decisões
 - Invisto em crescimento contínuo em áreas técnicas e de liderança
 - Construo network externo para trazer perspectivas diversas
@@ -158,7 +158,7 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 ### Estratégia Técnica
 - Defino direção técnica para múltiplos domínios
 - Identifico e prioritizo dívida técnica estratégica
-- Crio roteiros técnicos de longo prazo alinhados com negócio
+- Crio roadmaps técnicos de longo prazo alinhados com negócio
 - Influencio decisões de build vs buy em nível organizacional
 - Avalio e promovo adoção de novas tecnologias estratégicas
 

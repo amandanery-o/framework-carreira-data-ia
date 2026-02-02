@@ -112,7 +112,7 @@
 
 **Exemplos práticos:**
 - programação em par para compartilhar conhecimento
-- revisões de código educativas com retroalimentação construtiva
+- revisões de código educativas com feedback construtiva
 - Mentoria formal e informal de pessoas mais juniores
 - palestras técnicas e workshops internos
 - Celebrar wins do time publicamente
@@ -142,7 +142,7 @@
 3. **Em promoções**: Cite exemplos concretos de como demonstrou cada valor
 
 ### Para Gestores:
-1. **Em retroalimentação**: Referencie valores específicos ao dar retroalimentação
+1. **Em feedback**: Referencie valores específicos ao dar feedback
 2. **Em 1:1s**: Pergunte "Como você demonstrou [valor] esta semana?"
 3. **Em calibrações**: Avalie se a pessoa modela os valores consistentemente
 

@@ -13,7 +13,7 @@
 
 ### Resumo
 - **Executa tarefas** definidas com qualidade
-- **Aprende continuamente** com retroalimentação e mentoria
+- **Aprende continuamente** com feedback e mentoria
 - **Pede ajuda** quando necessário
 - **Foca no básico** e constrói fundamentos sólidos
 
@@ -94,7 +94,7 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 #### Personal Growth
 
 **Framework diz:**
-> "Busco retroalimentação ativamente e ajo sobre ele"
+> "Busco feedback ativamente e ajo sobre ele"
 
 **Na prática:**
 - ❌ Espera avaliação anual para saber como está indo
@@ -149,7 +149,7 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 
 ### Sobre Aprendizado:
 - [ ] Faço perguntas (não finjo que entendi)
-- [ ] Aceito retroalimentação sem defensividade
+- [ ] Aceito feedback sem defensividade
 - [ ] Documento o que aprendo
 
 ### Sobre Comunicação:
@@ -171,7 +171,7 @@ Antes de preencher a autoavaliação, reflita:
 1. **"Qual foi a última vez que pedi ajuda no momento certo?"**
    - Esperei muito? Pedi cedo demais? Tentei resolver sozinho primeiro?
 
-2. **"Como reajo a retroalimentação em revisões de código?"**
+2. **"Como reajo a feedback em revisões de código?"**
    - Aceito e aprendo? Fico defensivo? Faço as mesmas coisas depois?
 
 3. **"Estou focando em aprender ou em parecer que sei?"**

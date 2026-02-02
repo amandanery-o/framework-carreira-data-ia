@@ -87,7 +87,7 @@
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Busco retroalimentação de board, executivos e peers da indústria
+- Busco feedback de board, executivos e peers da indústria
 - Invisto significativamente em crescimento como líder técnico e estrategista de negócio
 - Construo network amplo de líderes técnicos na indústria
 - Modelo humildade e aprendizado contínuo apesar de senioridade

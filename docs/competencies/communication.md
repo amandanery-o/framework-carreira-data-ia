@@ -30,7 +30,7 @@ Capacidade de comunicar decisões técnicas, arquitetura e trade-offs de forma c
 **Métricas de sucesso:**
 - Número de design docs/RFCs escritos por quarter
 - Completeness score de documentação (target: >90%)
-- retroalimentação positivo sobre clareza de comunicação
+- feedback positivo sobre clareza de comunicação
 - Redução de perguntas repetitivas (indicador de boa documentação)
 
 ### 2. Comunicação com partes interessadas
@@ -80,7 +80,7 @@ Domínio de comunicação assíncrona para escalar influência sem depender de r
 **Métricas de sucesso:**
 - Redução de reuniões desnecessárias
 - Tempo de resposta a perguntas críticas (target: <4 horas working time)
-- Qualidade de comunicação assíncrona (retroalimentação de partes interessadas)
+- Qualidade de comunicação assíncrona (feedback de partes interessadas)
 
 ### 4. Comunicação Cross-Funcional
 
@@ -120,7 +120,7 @@ Compartilhamento de conhecimento através de apresentações, palestras técnica
 
 **Evolução por nível:**
 - **SE I-II**: Participa de demos, compartilha aprendizados com pares
-- **SE III**: Apresenta trabalho em demos, dá retroalimentação construtiva
+- **SE III**: Apresenta trabalho em demos, dá feedback construtiva
 - **Lead**: Apresenta trabalho do time em demos e all-hands quando relevante
 - **Staff**: Realiza palestras técnicas internos regularmente, apresenta para leadership
 - **Staff II-Principal**: Representa empresa externamente em conferências, constrói marca técnica
@@ -131,25 +131,25 @@ Compartilhamento de conhecimento através de apresentações, palestras técnica
 - Adoção de práticas apresentadas nos times
 - Engajamento em conteúdo publicado (quando externo)
 
-### 6. Escuta Ativa & retroalimentação
+### 6. Escuta Ativa & feedback
 
 **O que é:**
-Capacidade de ouvir efetivamente, processar perspectivas diversas e incorporar retroalimentação.
+Capacidade de ouvir efetivamente, processar perspectivas diversas e incorporar feedback.
 
 **Comportamentos esperados:**
 - Escutar ativamente sem interromper
 - Fazer perguntas clarificadoras
-- Solicitar retroalimentação regularmente
-- Receber retroalimentação construtivamente e agir sobre ele
+- Solicitar feedback regularmente
+- Receber feedback construtivamente e agir sobre ele
 - Criar espaço para vozes diversas serem ouvidas
-- Demonstrar que retroalimentação foi ouvido e incorporado
+- Demonstrar que feedback foi ouvido e incorporado
 
 **Evolução por nível:**
-- **SE I-II**: Está aberto a retroalimentações, faz perguntas objetivas, busca contexto
-- **SE III**: Escuta ativamente, solicita retroalimentação, age sobre retroalimentação recebido
-- **Lead**: Cria espaço para todos contribuírem, solicita retroalimentação sobre própria comunicação
+- **SE I-II**: Está aberto a feedbacks, faz perguntas objetivas, busca contexto
+- **SE III**: Escuta ativamente, solicita feedback, age sobre feedback recebido
+- **Lead**: Cria espaço para todos contribuírem, solicita feedback sobre própria comunicação
 - **Staff**: Modela escuta ativa organization-wide, cria ambiente psicologicamente seguro
-- **Staff II-Principal**: Referência em escuta ativa e incorporação de retroalimentação
+- **Staff II-Principal**: Referência em escuta ativa e incorporação de feedback
 
 ---
 
@@ -165,7 +165,7 @@ Capacidade de ouvir efetivamente, processar perspectivas diversas e incorporar r
 ### Em SE III (Senior)
 - Articula decisões técnicas com clareza
 - Facilita discussões técnicas produtivas
-- Dá retroalimentação construtiva e específico
+- Dá feedback construtiva e específico
 - Documenta de forma que outros possam manter
 - Comunica impacto de decisões técnicas
 

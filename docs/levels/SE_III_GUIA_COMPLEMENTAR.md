@@ -18,7 +18,7 @@
 
 ### SE III (Senior) - O QUE É NOVO:
 - **Lidera tecnicamente** projetos (não só implementa)
-- **Define estratégia** (roteiro, padrões, decisões arquiteturais)
+- **Define estratégia** (roadmap, padrões, decisões arquiteturais)
 - **Influencia além do time** (mentoria, padrões, visibilidade)
 - **Pensa em impacto de negócio** (não só em código que funciona)
 
@@ -62,11 +62,11 @@
 #### Strategy (Estratégia)
 
 **Framework diz:**
-> "Defino roteiro técnico para projetos impactantes de múltiplas fases"
+> "Defino roadmap técnico para projetos impactantes de múltiplas fases"
 
 **Na prática:**
 - ❌ Pega tickets e implementa
-- ✅ "Sistema X está com problemas de desempenho. Propus roteiro de 3 meses: (1) Identificar gargalos, (2) Otimizar queries críticas, (3) Implementar cache. Priorizei baseado em impacto vs esforço."
+- ✅ "Sistema X está com problemas de desempenho. Propus roadmap de 3 meses: (1) Identificar gargalos, (2) Otimizar queries críticas, (3) Implementar cache. Priorizei baseado em impacto vs esforço."
 
 **Framework diz:**
 > "Contribuo de forma consistente para padrões, boas práticas e referências"
@@ -134,7 +134,7 @@
 
 ### Sobre Pessoas:
 - [ ] Ajudo outros a crescerem (mentoria, reviews, programação em par)
-- [ ] Dou retroalimentação construtiva e específico
+- [ ] Dou feedback construtiva e específico
 - [ ] Compartilho conhecimento (palestras técnicas, docs, exemplos)
 
 ---

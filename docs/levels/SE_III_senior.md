@@ -62,13 +62,13 @@
 ### Innovation (Inovação)
 - Tenho growth mindset e me sinto confortável experimentando novas abordagens, aprendendo e compartilhando learnings
 - Estabeleço objetivos audaciosos, tomo riscos calculados e compartilho lições aprendidas
-- Começo a empurrar limites usando melhores práticas da indústria e retroalimentação de clientes para implementar estratégias que movem nossos produtos/ferramentas/serviços para frente
+- Começo a empurrar limites usando melhores práticas da indústria e feedback de clientes para implementar estratégias que movem nossos produtos/ferramentas/serviços para frente
 - Experimento novas abordagens com responsabilidade, aprendo rápido com o que funciona ou não
 - Melhoro continuamente sistemas, pipelines e processos
 
 ### Strategy (Estratégia)
-- Defino roteiro técnico para projetos impactantes de múltiplas fases
-- Refino roteiro conforme projeto avança para entregar valor ao cliente rapidamente
+- Defino roadmap técnico para projetos impactantes de múltiplas fases
+- Refino roadmap conforme projeto avança para entregar valor ao cliente rapidamente
 - Forneço liderança para as pessoas executando o projeto
 - Contribuo de forma consistente para padrões, boas práticas e referências da área
 - Sou referência técnica em pelo menos um subdomínio
@@ -78,7 +78,7 @@
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Peço retroalimentação proativamente do meu gestor, time e partes interessadas cross-funcionais
+- Peço feedback proativamente do meu gestor, time e partes interessadas cross-funcionais
 - Conheço minhas forças e identifico formas de agir nas minhas áreas de desenvolvimento
 - Tenho auto-consciência e me conecto com outros com empatia
 - Conduzo discussões com meu gestor sobre objetivos aspiracionais e busco oportunidades de aprendizado e crescimento
@@ -88,7 +88,7 @@
 - Modelo integridade e alto padrão de excelência para meu trabalho
 - Uso isso para estabelecer e manter a barra de qualidade e melhores práticas para meu time (através de code/design reviews)
 - Identifico e apoio áreas de crescimento para meus colegas, levando em conta suas skills únicas, forças, backgrounds e estilos de trabalho
-- Ofereço retroalimentação honesto, construtivo, direto e acionável entregue com empatia para ajudar outros a aprender e crescer
+- Ofereço feedback honesto, construtivo, direto e acionável entregue com empatia para ajudar outros a aprender e crescer
 - Mentoro ativamente SE I/SE II, ajudando na evolução de hard e soft skills
 - Contribuo ativamente para entrevistas, ganhando confiança de candidatos
 - Represento desafios técnicos do time para potenciais candidatos de forma convincente
@@ -120,7 +120,7 @@
 - Influencio partes interessadas através de variedade de audiências
 - Busco ouvir e entender outros
 - Facilito discussões técnicas e ajudo time a chegar em bons acordos
-- Dou retroalimentação construtiva e específico, ajudando no crescimento de outras pessoas
+- Dou feedback construtiva e específico, ajudando no crescimento de outras pessoas
 
 ### Culture Leader (Liderança cultural)
 - Atuo como parceiro do meu gestor em estabelecer o tom cultural para o time
@@ -147,7 +147,7 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 - Evito reinventar a roda usando soluções existentes ou off-the-shelf com possíveis trade-offs em mente
 
 ### Design Técnico
-- Ofereço retroalimentação de qualidade em designs escritos por outros membros do time
+- Ofereço feedback de qualidade em designs escritos por outros membros do time
 - Faço perguntas instigantes e perspicazes que solidificam escolhas e trazem à tona suposições errôneas
 - Debug efetiva e rapidamente issues cross-module
 - Posso intuir onde bugs podem estar devido ao conhecimento profundo de bibliotecas, plataformas e sistemas
@@ -190,7 +190,7 @@ Trabalho de forma colaborativa, promovo conflitos produtivos, ensino e aprendo c
 
 Você está pronto(a) para evoluir para Lead Engineer quando:
 - Lidera tecnicamente múltiplos projetos complexos simultaneamente
-- Influencia roteiro técnico do time baseado em visão de longo prazo
+- Influencia roadmap técnico do time baseado em visão de longo prazo
 - Mentora consistentemente outros engenheiros seniores
 - Toma decisões arquiteturais que impactam múltiplos times
 - Tem profunda expertise em um domínio técnico crítico para o time/empresa

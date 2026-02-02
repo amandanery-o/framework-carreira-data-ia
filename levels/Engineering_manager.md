@@ -17,7 +17,7 @@
 - Influencio práticas e cultura além do meu time
 
 ### Impact Levers (Alavancas de impacto)
-- **People Development** - Desenvolvo pessoas através de coaching, retroalimentação e oportunidades
+- **People Development** - Desenvolvo pessoas através de coaching, feedback e oportunidades
 - **Team desempenho** - Garanto entregas consistentes e de qualidade
 - **Organizational Health** - Construo cultura de time saudável e de alto desempenho
 - **Strategic Alignment** - Alineo trabalho do time com objetivos de negócio
@@ -33,7 +33,7 @@
 2. **Servant Leadership** - Você existe para servir e desbloquear o time
 3. **Accountability** - Você responde pelos resultados, o time recebe o crédito
 4. **Context over Control** - Provê contexto para decisões autônomas
-5. **Sustainable desempenho** - Resultados de longo prazo, não iterações heroicos
+5. **Sustainable desempenho** - Resultados de longo prazo, não sprints heroicos
 
 ---
 
@@ -80,7 +80,7 @@
 ### Innovation (Inovação)
 - Promovo cultura de experimentação, aprendizado e melhoria contínua
 - Crio espaço para time explorar novas tecnologias e abordagens
-- Implemento melhorias em processos e práticas baseado em retroalimentação
+- Implemento melhorias em processos e práticas baseado em feedback
 - Encorajo ideias e testa novas formas de trabalhar
 - Celebro aprendizados, incluindo "falhas inteligentes"
 - Ajo em action items de retrospectivas consistentemente
@@ -88,7 +88,7 @@
 ### Strategy (Estratégia)
 - Defino e comunico visão clara de médio-longo prazo (6-18 meses) para o time
 - Alineo visão do time com estratégia de produto e objetivos de negócio
-- Traduzo estratégia em roteiro executável com milestones claros
+- Traduzo estratégia em roadmap executável com milestones claros
 - Conecto trabalho diário do time aos objetivos maiores ("o porquê")
 - Planeio capacidade e hiring com 3-6 meses de antecedência
 - Identifico gaps de capacidade e propõe soluções
@@ -99,7 +99,7 @@
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Busco retroalimentação de meu time, peers e liderança sobre minha gestão
+- Busco feedback de meu time, peers e liderança sobre minha gestão
 - Reflito sobre decisões e aprendo continuamente
 - Invisto em desenvolvimento como líder (leitura, cursos, coaching)
 - Mantenho network de outros EMs para aprender e compartilhar
@@ -111,20 +111,20 @@
 #### Desenvolvimento Individual & Crescimento de Carreira
 - **Entendo aspirações, forças e áreas de desenvolvimento** de cada membro do time
 - Crio **planos de desenvolvimento individual (PDI)** alinhados com objetivos de carreira
-- Facilito crescimento através de **delegação intencional, retroalimentação e oportunidades**
+- Facilito crescimento através de **delegação intencional, feedback e oportunidades**
 - Conduzo **1:1s semanais de 30-45 minutos** focados em carreira (não apenas status)
 - Crio e reviso PDIs trimestralmente com cada pessoa
 - Identifico e nomeio pessoas para projetos stretch que desenvolvem novas skills
 - Preparo **documentação de promoção** detalhada e defendo em calibration sessions
 - Celebro crescimentos e conquistas individuais publicamente
 
-#### desempenho Management & retroalimentação
-- Forneço **retroalimentação contínuo, específico e acionável** (positivo e construtivo)
-- Uso framework **SBI (Situation-Behavior-Impact)** para retroalimentação construtiva
+#### desempenho Management & feedback
+- Forneço **feedback contínuo, específico e acionável** (positivo e construtivo)
+- Uso framework **SBI (Situation-Behavior-Impact)** para feedback construtiva
 - Identifico e endereço **desempenho issues precocemente** com planos de ação
 - Conduzo desempenho reviews **justas, calibradas e baseadas em evidências**
 - Gerencio situações difíceis (PIPs, desligamentos) com empatia e profissionalismo
-- Documento retroalimentação e conversas importantes para contexto futuro
+- Documento feedback e conversas importantes para contexto futuro
 - Conduzo calibration sessions com outros EMs para garantir fairness
 - Não evito conversas difíceis, mas as preparo cuidadosamente
 
@@ -144,7 +144,7 @@
 - Onbordo novos membros efetivamente para **produtividade rápida** e integração cultural
 - Crio job descriptions claras e atrativas
 - Participo ativamente de entrevistas (behavioral, fit cultural)
-- Coordeno processo de hiring com recrutamento (prazos, retroalimentação rápido)
+- Coordeno processo de hiring com recrutamento (prazos, feedback rápido)
 - Desenvolvo plano de integração de **30-60-90 dias** estruturado
 - Faço **weekly 1:1s** com novo membro nos primeiros 2 meses
 - Celebro primeira contribuição significativa publicamente
@@ -152,7 +152,7 @@
 #### Coaching & Mentoria de Liderança
 - Desenvolvo futuros líderes (**Tech Leads, EMs**) através de coaching ativo
 - Delego responsabilidades de liderança como oportunidade de crescimento
-- Ofereço retroalimentação sobre habilidades de liderança (comunicação, decisão, influência)
+- Ofereço feedback sobre habilidades de liderança (comunicação, decisão, influência)
 - Modelo comportamentos de liderança desejados
 - Identifico potenciais líderes e crio development path
 - Compartilho experiências e lições de management
@@ -188,7 +188,7 @@
 - Provejo contexto sobre decisões, mudanças e estratégia
 - Crio espaço para comunicação bidirecional e escuta ativa
 - Realizo team meetings regulares (weekly ou bi-weekly)
-- Solicito retroalimentação sobre minha própria comunicação e liderança
+- Solicito feedback sobre minha própria comunicação e liderança
 - Celebro vitórias e reconheço contribuições publicamente
 
 #### Comunicação com Liderança (Senior Leadership)
@@ -239,7 +239,7 @@
 
 ### 1. Planejamento & Priorização
 - Traduzir estratégia de produto/negócio em planos executáveis
-- Facilitar planejamento colaborativo (iterações, quarters)
+- Facilitar planejamento colaborativo (sprints, quarters)
 - Balancear features (60-70%), débito técnico (15-20%), sustentação (15-20%)
 - Gerenciar capacidade realisticamente evitando over-commitment
 - Proteger time de thrash e mudanças de prioridade
@@ -268,7 +268,7 @@
 ### 5. Visão & Estratégia de Time
 - Definir visão de médio-longo prazo (6-18 meses)
 - Alinhar com estratégia de produto e negócio
-- Traduzir estratégia em roteiro executável
+- Traduzir estratégia em roadmap executável
 - Conectar trabalho diário aos objetivos maiores
 
 ### 6. Gestão de Recursos & Capacidade
@@ -285,7 +285,7 @@
 Conecto desenvolvimento do time e decisões de people management ao impacto em clientes e valor gerado para o negócio.
 
 ### 💡 Paixão por Inovar
-Promovo experimentação segura, aprendizado contínuo, retroalimentação e melhoria constante na forma como o time trabalha.
+Promovo experimentação segura, aprendizado contínuo, feedback e melhoria constante na forma como o time trabalha.
 
 ### ⚡ Agilidade para Resultado
 Desbloquei time rapidamente, removo impedimentos, facilito decisões e mantenho foco em entregas sustentáveis de valor.
@@ -306,7 +306,7 @@ Construo ambiente de segurança psicológica, confiança, colaboração e cresci
 | **Gestão Formal** | Não (liderança técnica) | **Sim (people management)** |
 | **Hands-on Código** | 50-70% | **Pouco ou nenhum** |
 | **Responsabilidade** | Entrega e qualidade técnica | **desempenho, crescimento, engajamento** |
-| **1:1s** | Técnicos (mentoria) | **Carreira, desenvolvimento, retroalimentação** |
+| **1:1s** | Técnicos (mentoria) | **Carreira, desenvolvimento, feedback** |
 | **Decisões** | Técnicas (arquitetura, tech) | **People (promoções, PIPs, hiring)** |
 | **Avaliações** | Contribui tecnicamente | **Conduz desempenho reviews** |
 | **Crescimento Time** | Desenvolve tecnicamente | **Desenvolve profissionalmente (PDIs)** |
@@ -333,7 +333,7 @@ Construo ambiente de segurança psicológica, confiança, colaboração e cresci
 - **Clareza de expectativas**: >90% do time
 
 ### 🚀 Entrega
-- **iteração commitment accuracy**: 80-90%
+- **sprint commitment accuracy**: 80-90%
 - **Predictability quarter-over-quarter**: variação <20%
 - **Velocity**: estável e sustentável (não crescente artificialmente)
 - **Quality metrics**: bugs, incidents em tendência saudável
@@ -349,7 +349,7 @@ Construo ambiente de segurança psicológica, confiança, colaboração e cresci
 
 ### 🤝 partes interessadas
 - **parte interessada satisfaction**: >4/5
-- **Clareza de comunicação**: retroalimentação positivo
+- **Clareza de comunicação**: feedback positivo
 - **Ausência de surpresas negativas**: sim
 - **Confiança em entregas**: alta
 

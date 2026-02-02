@@ -94,7 +94,7 @@ Para cada item abaixo, marque onde você está hoje:
 - [ ] Gostaria de fazer mais
 
 **Exemplos práticos:**
-- roteiro técnico de 3-6 meses
+- roadmap técnico de 3-6 meses
 - Planejamento incremental (fase 1, 2, 3)
 - Visão de longo prazo além do ticket atual
 
@@ -130,19 +130,19 @@ Para cada item abaixo, marque onde você está hoje:
 
 Escolha **1-2 principais desafios**:
 
-### [ ] **retroalimentação para o time**
-Sinto dificuldade em dar retroalimentações construtivos e diretos sobre a qualidade do trabalho de outras pessoas (em revisões de código ou design).
+### [ ] **feedback para o time**
+Sinto dificuldade em dar feedbacks construtivos e diretos sobre a qualidade do trabalho de outras pessoas (em revisões de código ou design).
 
 **Como desenvolver:**
 - Praticar framework SBI (Situation-Behavior-Impact)
-- Começar com retroalimentação positivo frequente
-- Preparar retroalimentação construtiva antes de dar
+- Começar com feedback positivo frequente
+- Preparar feedback construtiva antes de dar
 - Ver exemplos em: [Guia Complementar SE III](./SE_III_GUIA_COMPLEMENTAR.md)
 
 ---
 
-### [ ] **retroalimentação para a liderança**
-Sinto receio ou dificuldade em dar retroalimentações para a gestão ou lideranças sobre processos ineficientes ou decisões de que discordo.
+### [ ] **feedback para a liderança**
+Sinto receio ou dificuldade em dar feedbacks para a gestão ou lideranças sobre processos ineficientes ou decisões de que discordo.
 
 **Como desenvolver:**
 - Trazer problemas COM soluções
@@ -175,7 +175,7 @@ Tenho dificuldade em equilibrar a execução de código (tickets) com o tempo ne
 ---
 
 ### [ ] **Visão de Longo Prazo**
-Sinto dificuldade em sair do contexto imediato para desenhar roteiros técnicos de múltiplas fases.
+Sinto dificuldade em sair do contexto imediato para desenhar roadmaps técnicos de múltiplas fases.
 
 **Como desenvolver:**
 - Praticar planejamento de 3-6 meses
@@ -254,7 +254,7 @@ _________________________________________________________
 ### 3. Em qual aspecto de comunicação ou liderança você quer evoluir?
 
 **Exemplos:**
-- Dar retroalimentação construtiva
+- Dar feedback construtiva
 - Comunicar com partes interessadas não técnicos
 - Facilitar decisões técnicas em grupo
 - Mentoria e desenvolvimento de pessoas
@@ -266,7 +266,7 @@ _________________________________________________________
 _________________________________________________________
 
 **Como vamos desenvolver:**
-- [ ] Prática com retroalimentação (1:1s, reviews)
+- [ ] Prática com feedback (1:1s, reviews)
 - [ ] Leitura/cursos sobre o tema
 - [ ] Observar outros líderes técnicos
 - [ ] Coaching específico
@@ -281,7 +281,7 @@ _________________________________________________________
 - Oportunidades de mentoria (pessoas para mentorar)
 - Acesso a cursos/treinamentos
 - Projetos que desafiem em áreas específicas
-- retroalimentação frequente sobre progresso
+- feedback frequente sobre progresso
 
 **Sua resposta:**
 

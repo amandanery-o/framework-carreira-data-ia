@@ -31,9 +31,9 @@
 
 ### Impact (Impacto)
 - Entrego valor de negócio consistente através de entregas técnicas de alta qualidade do time
-- Garanto que o time entrega iterações/quarters on-time com qualidade
+- Garanto que o time entrega sprints/quarters on-time com qualidade
 - Tomo decisões técnicas que maximizam impacto e minimizam risco
-- Traduzo roteiro de produto/plataforma em trabalho técnico executável
+- Traduzo roadmap de produto/plataforma em trabalho técnico executável
 - Projeto arquitetura de sistemas considerando escalabilidade, confiabilidade e developer experience
 - Melhoro métricas de qualidade e confiabilidade dos sistemas do time
 - Identifico e comunico riscos técnicos antecipadamente
@@ -76,11 +76,11 @@
 - Compartilho conhecimento através de lunch & learns ou workshops internos
 
 ### Strategy (Estratégia)
-- Defino direção técnica de curto-médio prazo (iterações/quarters) para o time
-- Alineo direção técnica com roteiro de produto e objetivos de negócio
+- Defino direção técnica de curto-médio prazo (sprints/quarters) para o time
+- Alineo direção técnica com roadmap de produto e objetivos de negócio
 - Mantenho visão arquitetural de longo prazo dos sistemas do time
 - Identifico e planeio mitigação de riscos técnicos
-- Colaboro com Engineering Manager e Product Manager em definição de roteiro
+- Colaboro com Engineering Manager e Product Manager em definição de roadmap
 - Defendo tempo para débito técnico e melhorias técnicas
 
 ---
@@ -88,7 +88,7 @@
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Busco retroalimentação sobre minha liderança técnica do time e Engineering Manager
+- Busco feedback sobre minha liderança técnica do time e Engineering Manager
 - Desenvolvo habilidades de liderança técnica e comunicação
 - Mantenho-me atualizado com tecnologias e práticas relevantes
 - Participo de comunidades técnicas e grupos de Tech Leads
@@ -97,7 +97,7 @@
 
 ### Team Development (Desenvolvimento do time)
 - Desenvolvo capacidades técnicas através de **programação em par regular** (mínimo 2-3x por semana)
-- Forneço **retroalimentação construtiva e frequente** em revisões de código com explicação do "porquê"
+- Forneço **feedback construtiva e frequente** em revisões de código com explicação do "porquê"
 - Delego **features desafiadoras** como oportunidade de aprendizado estratégico
 - Identifico **pontos fortes de cada membro** e os utilizo estrategicamente
 - Modelo comportamentos de **excelência técnica**, ownership e colaboração
@@ -171,8 +171,8 @@
 - Estabeleço e atualizo **guias de estilo, linters e ferramentas** de análise estática
 - Garanto alta cobertura de testes (unitários, integração, E2E)
 - Promovo práticas de **CI/CD** e automation
-- Reviso 100% dos PRs críticos com retroalimentação educativo
-- Aloco tempo dedicado para redução de débito técnico (ex: 20% do iteração)
+- Reviso 100% dos PRs críticos com feedback educativo
+- Aloco tempo dedicado para redução de débito técnico (ex: 20% do sprint)
 
 ### Operação & Confiabilidade
 - Defino **SLIs/SLOs** para serviços do time
@@ -185,7 +185,7 @@
 - Estimo trabalho técnico com razoável precisão (margem <30%)
 - Identifico riscos técnicos e dependências durante planning
 - Decompõe features grandes em incrementos entregáveis
-- Colabora em iteração planning com EM e PM
+- Colabora em sprint planning com EM e PM
 
 ---
 
@@ -242,10 +242,10 @@ Facilito comunicação saudável dentro do time, promovo segurança psicológica
 - Realizar revisões de código em 100% dos PRs críticos
 - Estabelecer guias de estilo e ferramentas
 - Criar exemplos de código como referência
-- Alocar tempo para débito técnico (20% do iteração)
+- Alocar tempo para débito técnico (20% do sprint)
 
 ### 3. Planejamento & Priorização
-- Colaborar com EM e PM em definição de iteração/quarter
+- Colaborar com EM e PM em definição de sprint/quarter
 - Identificar riscos técnicos e dependências
 - Estimar trabalho técnico com precisão
 - Defender tempo para débito técnico
@@ -264,7 +264,7 @@ Facilito comunicação saudável dentro do time, promovo segurança psicológica
 
 ### 6. Mentoria & Desenvolvimento do Time
 - programação em par regularmente (2-3x por semana)
-- Oferecer retroalimentação educativo em revisões de código
+- Oferecer feedback educativo em revisões de código
 - Delegar features desafiadoras estrategicamente
 - Compartilhar conhecimento (workshops, lunch & learns)
 
@@ -282,7 +282,7 @@ Facilito comunicação saudável dentro do time, promovo segurança psicológica
 
 ### 9. Recrutamento & Hiring
 - Conduzir entrevistas técnicas
-- Participar de debriefs com retroalimentação claro
+- Participar de debriefs com feedback claro
 - Fazer referrals de candidatos qualificados
 - integração técnico de novos membros (30-60-90 dias)
 
@@ -291,7 +291,7 @@ Facilito comunicação saudável dentro do time, promovo segurança psicológica
 ## ✅ Sinais de Sucesso como Tech Lead
 
 Você está sendo efetivo como Tech Lead quando:
-- ✅ Time entrega consistentemente iterações/quarters com qualidade
+- ✅ Time entrega consistentemente sprints/quarters com qualidade
 - ✅ Débito técnico é gerenciado de forma sustentável
 - ✅ Incidentes são raros e post-mortems geram melhorias
 - ✅ Membros do time crescem tecnicamente (SE I → SE II → SE III)
