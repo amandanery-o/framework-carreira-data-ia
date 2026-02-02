@@ -23,7 +23,7 @@
 - **Excelência Técnica** - Estabeleço e mantenho padrões de qualidade e arquitetura
 
 ### Papel na Carreira
-**Tech Lead** é uma **bifurcação da trilha IC (Individual Contributor) (Individual Contributor)** para liderança técnica de time. É para quem quer liderar tecnicamente um time, desenvolvendo pessoas através de liderança técnica, **sem gestão formal de pessoas**.
+**Tech Lead** é uma **bifurcação da trilha IC (Individual Contributor)** para liderança técnica de time. É para quem quer liderar tecnicamente um time, desenvolvendo pessoas através de liderança técnica, **sem gestão formal de pessoas**.
 
 ---
 
