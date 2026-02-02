@@ -22,7 +22,7 @@
 - Conversar com usuários finais antes de desenhar pipelines
 - Priorizar confiabilidade de dados críticos para decisões de negócio
 - Desenhar APIs e modelos de dados pensando em quem vai consumir
-- Criar métricas que realmente importam para stakeholders
+- Criar métricas que realmente importam para partes interessadas
 
 ---
 
@@ -43,9 +43,9 @@
 **Exemplos práticos:**
 - Testar LLMs e IA Generativa para automatizar tarefas
 - Experimentar novas ferramentas de observabilidade (Monte Carlo, dbt Cloud)
-- Propor mudanças em arquitetura para melhorar performance
+- Propor mudanças em arquitetura para melhorar desempenho
 - Criar POCs antes de grandes investimentos
-- Compartilhar learnings em tech talks e documentação
+- Compartilhar learnings em palestras técnicas e documentação
 
 ---
 
@@ -81,7 +81,7 @@
 | Nível | Manifestação do Valor |
 |-------|----------------------|
 | **SE I-II** | Busco soluções simples sob orientação, evitando over-engineering. Reutilizo código e componentes existentes. |
-| **SE III** | Simplifico fluxos, reduzo complexidade técnica desnecessária e busco eficiência em performance, custo e manutenção. |
+| **SE III** | Simplifico fluxos, reduzo complexidade técnica desnecessária e busco eficiência em desempenho, custo e manutenção. |
 | **Lead** | Otimizo para eficiência em escala de time. Crio soluções que podem ser reusadas e adaptadas. Gerencio custos conscientemente. |
 | **Staff** | Crio soluções e plataformas que permitem múltiplos times serem mais eficientes. Reduzo custos em escala. |
 | **Principal** | Crio frameworks e plataformas que multiplicam produtividade de toda organização. Otimizo custos em nível estratégico. |
@@ -111,12 +111,12 @@
 | **Principal** | Transformo capacidade organizacional através de liderança técnica. Construo cultura de excelência e colaboração em escala. |
 
 **Exemplos práticos:**
-- Pair programming para compartilhar conhecimento
-- Code reviews educativas com feedback construtivo
+- programação em par para compartilhar conhecimento
+- revisões de código educativas com retroalimentação construtiva
 - Mentoria formal e informal de pessoas mais juniores
-- Tech talks e workshops internos
+- palestras técnicas e workshops internos
 - Celebrar wins do time publicamente
-- Ajudar no onboarding de novos membros
+- Ajudar no integração de novos membros
 - Criar documentação que facilita trabalho de outros
 - Participar de comunidades de prática
 
@@ -142,7 +142,7 @@
 3. **Em promoções**: Cite exemplos concretos de como demonstrou cada valor
 
 ### Para Gestores:
-1. **Em feedback**: Referencie valores específicos ao dar feedback
+1. **Em retroalimentação**: Referencie valores específicos ao dar retroalimentação
 2. **Em 1:1s**: Pergunte "Como você demonstrou [valor] esta semana?"
 3. **Em calibrações**: Avalie se a pessoa modela os valores consistentemente
 

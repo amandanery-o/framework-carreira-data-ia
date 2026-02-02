@@ -17,7 +17,7 @@
 
 ### Impact Levers (Alavancas de impacto)
 - **Craft** - Foco principal em melhorar minhas habilidades técnicas de engenharia e dados
-- **Learning** - Absorvo conhecimento rapidamente através de feedback e mentoria
+- **Learning** - Absorvo conhecimento rapidamente através de retroalimentação e mentoria
 
 ---
 
@@ -49,7 +49,7 @@
 ### Agility (Agilidade)
 - Adapto-me a mudanças de prioridade com suporte do time
 - Mantenho foco nas tarefas mesmo com ambiguidade, pedindo clarificação quando necessário
-- Respondo a feedback rapidamente e ajusto minha abordagem
+- Respondo a retroalimentação rapidamente e ajusto minha abordagem
 
 ### Innovation (Inovação)
 - Experimento com novas ferramentas e abordagens em tarefas supervisionadas
@@ -58,7 +58,7 @@
 
 ### Strategy (Estratégia)
 - Entendo como minhas tarefas se conectam aos objetivos do time
-- Busco compreender o roadmap e as prioridades do produto/área
+- Busco compreender o roteiro e as prioridades do produto/área
 - Começo a pensar além da task individual, considerando o contexto maior
 
 ---
@@ -66,9 +66,9 @@
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Busco feedback ativamente e ajo sobre ele
+- Busco retroalimentação ativamente e ajo sobre ele
 - Identifico áreas de melhoria e trabalho nelas com apoio do time
-- Participo de sessões de aprendizado (tech talks, code reviews, pair programming)
+- Participo de sessões de aprendizado (palestras técnicas, revisões de código, programação em par)
 - Estabeleço metas de desenvolvimento com meu gestor em 1:1s
 - Demonstro curiosidade e vontade de aprender constantemente
 
@@ -76,7 +76,7 @@
 - Estou aberto a receber mentoria e coaching
 - Faço perguntas que ajudam outros a também aprenderem
 - Compartilho conhecimento adquirido através de documentação
-- Participo ativamente de code reviews para aprender com o time
+- Participo ativamente de revisões de código para aprender com o time
 - Contribuo para criar um ambiente de segurança psicológica
 
 ---
@@ -86,9 +86,9 @@
 ### Collaboration (Colaboração)
 - Trabalho de forma colaborativa e respeitosa com o time
 - Comunico claramente o status do meu trabalho
-- Participo ativamente de rituais do time (dailies, retros, planning)
+- Participo ativamente de rituais do time (diárias, retros, planning)
 - Peço ajuda quando preciso e ofereço ajuda dentro do meu conhecimento
-- Demonstro disponibilidade para pair programming e sessões de aprendizado
+- Demonstro disponibilidade para programação em par e sessões de aprendizado
 
 ### Organizational Health (Saúde organizacional)
 - Contribuo para um ambiente de respeito e inclusão
@@ -122,7 +122,7 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 
 **Expectativas gerais de Craft para SE I:**
 - Entendo conceitos básicos do stack da área (dados, pipelines, SQL, Python/R)
-- Evoluo rapidamente quando recebo feedback técnico
+- Evoluo rapidamente quando recebo retroalimentação técnica
 - Escrevo código/queries legíveis e com testes básicos
 - Sigo padrões e convenções estabelecidas pelo time
 - Uso ferramentas de versionamento (git) e colaboração efetivamente
@@ -153,6 +153,6 @@ Coopero com pares, ajudo quando posso e peço ajuda quando preciso, contribuindo
 Você está pronto(a) para evoluir para SE II quando:
 - Entrega tarefas de complexidade média com mínima supervisão
 - Faz trade-offs técnicos simples de forma autônoma
-- Participa ativamente de code reviews dando feedback construtivo
-- Ajuda no onboarding de novos membros do time
+- Participa ativamente de revisões de código dando retroalimentação construtiva
+- Ajuda no integração de novos membros do time
 - Identifica e propõe melhorias técnicas no seu escopo

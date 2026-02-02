@@ -18,7 +18,7 @@
 
 ### Impact Levers (Alavancas de impacto)
 - **Project Leadership** - Defino e entrego marcos bem definidos de projetos. Posso ser líder técnico de projetos no meu time
-- **Product Expertise** - Mantenho as necessidades dos clientes em mente e uso input de stakeholders de produto para determinar as soluções técnicas certas que entregam valor rapidamente
+- **Product Expertise** - Mantenho as necessidades dos clientes em mente e uso input de partes interessadas de produto para determinar as soluções técnicas certas que entregam valor rapidamente
 - **Mentorship** - Elevo ativamente membros menos experientes do time, ajudando com craft, fornecendo orientação e sendo um bom exemplo
 - **Technical Excellence** - Estabeleço o padrão técnico através de revisões, boas práticas e decisões arquiteturais sólidas
 
@@ -43,7 +43,7 @@
 - Garanto qualidade, confiabilidade, testabilidade e documentação das soluções sob minha responsabilidade
 
 ### Decision Making (Tomada de decisão)
-- Tomo decisões informadas através de debate produtivo com stakeholders certos, buscando perspectivas diversas
+- Tomo decisões informadas através de debate produtivo com partes interessadas certos, buscando perspectivas diversas
 - Balanço detalhes com big picture, otimizando para a empresa
 - Entendo as implicações das minhas decisões e ajusto abordagem baseado em impacto e risco
 - Uso insights sobre clientes para informar decisões, balanceando valor para cliente com outros objetivos de negócio
@@ -62,13 +62,13 @@
 ### Innovation (Inovação)
 - Tenho growth mindset e me sinto confortável experimentando novas abordagens, aprendendo e compartilhando learnings
 - Estabeleço objetivos audaciosos, tomo riscos calculados e compartilho lições aprendidas
-- Começo a empurrar limites usando melhores práticas da indústria e feedback de clientes para implementar estratégias que movem nossos produtos/ferramentas/serviços para frente
+- Começo a empurrar limites usando melhores práticas da indústria e retroalimentação de clientes para implementar estratégias que movem nossos produtos/ferramentas/serviços para frente
 - Experimento novas abordagens com responsabilidade, aprendo rápido com o que funciona ou não
 - Melhoro continuamente sistemas, pipelines e processos
 
 ### Strategy (Estratégia)
-- Defino roadmap técnico para projetos impactantes de múltiplas fases
-- Refino roadmap conforme projeto avança para entregar valor ao cliente rapidamente
+- Defino roteiro técnico para projetos impactantes de múltiplas fases
+- Refino roteiro conforme projeto avança para entregar valor ao cliente rapidamente
 - Forneço liderança para as pessoas executando o projeto
 - Contribuo de forma consistente para padrões, boas práticas e referências da área
 - Sou referência técnica em pelo menos um subdomínio
@@ -78,7 +78,7 @@
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Peço feedback proativamente do meu gestor, time e stakeholders cross-funcionais
+- Peço retroalimentação proativamente do meu gestor, time e partes interessadas cross-funcionais
 - Conheço minhas forças e identifico formas de agir nas minhas áreas de desenvolvimento
 - Tenho auto-consciência e me conecto com outros com empatia
 - Conduzo discussões com meu gestor sobre objetivos aspiracionais e busco oportunidades de aprendizado e crescimento
@@ -88,7 +88,7 @@
 - Modelo integridade e alto padrão de excelência para meu trabalho
 - Uso isso para estabelecer e manter a barra de qualidade e melhores práticas para meu time (através de code/design reviews)
 - Identifico e apoio áreas de crescimento para meus colegas, levando em conta suas skills únicas, forças, backgrounds e estilos de trabalho
-- Ofereço feedback honesto, construtivo, direto e acionável entregue com empatia para ajudar outros a aprender e crescer
+- Ofereço retroalimentação honesto, construtivo, direto e acionável entregue com empatia para ajudar outros a aprender e crescer
 - Mentoro ativamente SE I/SE II, ajudando na evolução de hard e soft skills
 - Contribuo ativamente para entrevistas, ganhando confiança de candidatos
 - Represento desafios técnicos do time para potenciais candidatos de forma convincente
@@ -101,7 +101,7 @@
 - Promovo e modelo valores core da Gupy, liderando pelo exemplo
 - Construo relacionamentos e conduzo coordenação entre times e disciplinas, ajudando a alcançar resultados positivos
 - Comunico proativamente e coordeno requisitos do meu time com outros grupos em engenharia
-- Sou efetivo trabalhando com stakeholders cross-funcionais para identificar pontos cegos técnicos e clarificar ambiguidade em suas ideias
+- Sou efetivo trabalhando com partes interessadas cross-funcionais para identificar pontos cegos técnicos e clarificar ambiguidade em suas ideias
 - Me engajo em conflito produtivo com questionamento atencioso e tenho coragem de expressar meu ponto de vista
 - Evito blame e resolvo os problemas certos, discordando e commitando quando necessário para mover decisões adiante
 
@@ -115,12 +115,12 @@
 
 ### Communication (Comunicação)
 - Comunico com clareza, brevidade, foco, e adapto mensagem à audiência apresentando-a na altitude certa
-- Compartilho informação proativamente para que stakeholders relevantes estejam informados e alinhados
+- Compartilho informação proativamente para que partes interessadas relevantes estejam informados e alinhados
 - Sou efetivo em manter conversas cruciais mesmo quando desconfortáveis
-- Influencio stakeholders através de variedade de audiências
+- Influencio partes interessadas através de variedade de audiências
 - Busco ouvir e entender outros
 - Facilito discussões técnicas e ajudo time a chegar em bons acordos
-- Dou feedback construtivo e específico, ajudando no crescimento de outras pessoas
+- Dou retroalimentação construtiva e específico, ajudando no crescimento de outras pessoas
 
 ### Culture Leader (Liderança cultural)
 - Atuo como parceiro do meu gestor em estabelecer o tom cultural para o time
@@ -147,7 +147,7 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 - Evito reinventar a roda usando soluções existentes ou off-the-shelf com possíveis trade-offs em mente
 
 ### Design Técnico
-- Ofereço feedback de qualidade em designs escritos por outros membros do time
+- Ofereço retroalimentação de qualidade em designs escritos por outros membros do time
 - Faço perguntas instigantes e perspicazes que solidificam escolhas e trazem à tona suposições errôneas
 - Debug efetiva e rapidamente issues cross-module
 - Posso intuir onde bugs podem estar devido ao conhecimento profundo de bibliotecas, plataformas e sistemas
@@ -160,7 +160,7 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 - Desenho métricas de sucesso claras e as alcanço consistentemente pós-lançamento
 
 ### Estratégia Técnica
-- Propõe melhorias significativas em arquitetura, performance, custo ou qualidade
+- Propõe melhorias significativas em arquitetura, desempenho, custo ou qualidade
 - Oriento o time na adoção de padrões técnicos
 - Trabalho ponta a ponta: entendimento do problema, solução, entrega e acompanhamento
 - Decomponho problemas grandes em etapas menores, priorizando o que gera mais impacto
@@ -179,7 +179,7 @@ Experimento novas abordagens com responsabilidade. Aprendo rápido com o que fun
 Fecho ciclos com consistência, reduzo retrabalho e tomo decisões técnicas com foco em impacto, não em perfeccionismo.
 
 ### 💰 Fazer Mais com Menos
-Simplifico fluxos, reduzo complexidade técnica desnecessária e busco eficiência em performance, custo e manutenção.
+Simplifico fluxos, reduzo complexidade técnica desnecessária e busco eficiência em desempenho, custo e manutenção.
 
 ### 🤝 Juntos!
 Trabalho de forma colaborativa, promovo conflitos produtivos, ensino e aprendo com o time, ajudando a criar um ambiente de confiança.
@@ -190,7 +190,7 @@ Trabalho de forma colaborativa, promovo conflitos produtivos, ensino e aprendo c
 
 Você está pronto(a) para evoluir para Lead Engineer quando:
 - Lidera tecnicamente múltiplos projetos complexos simultaneamente
-- Influencia roadmap técnico do time baseado em visão de longo prazo
+- Influencia roteiro técnico do time baseado em visão de longo prazo
 - Mentora consistentemente outros engenheiros seniores
 - Toma decisões arquiteturais que impactam múltiplos times
 - Tem profunda expertise em um domínio técnico crítico para o time/empresa

@@ -17,7 +17,7 @@
 
 ### Impact Levers (Alavancas de impacto)
 - **Technical Strategy** - Tenho papel chave em definir estratégia de médio a longo prazo para projetos de impacto no negócio
-- **Project Leadership** - Defino e entrego autonomamente roadmaps técnicos de projetos maiores, frequentemente envolvendo dependências cross-team
+- **Project Leadership** - Defino e entrego autonomamente roteiros técnicos de projetos maiores, frequentemente envolvendo dependências cross-team
 - **Product Expertise** - Mantenho necessidades dos clientes em mente e cada vez mais influencio decisões de produto
 - **Mentorship** - Elevo ativamente membros menos experientes do time, incluindo outros seniors
 
@@ -44,7 +44,7 @@
 - Crio e atualizo proativamente playbooks para componentes que possuo
 
 ### Decision Making (Tomada de decisão)
-- Tomo decisões informadas através de debate produtivo com stakeholders certos
+- Tomo decisões informadas através de debate produtivo com partes interessadas certos
 - Busco perspectivas diversas, balanceando detalhes com big picture
 - Otimizo para a empresa, não apenas meu time
 - Entendo implicações das minhas decisões e ajusto abordagem baseado em impacto e risco
@@ -63,15 +63,15 @@
 ### Innovation (Inovação)
 - Tenho growth mindset e experimento com novas abordagens
 - Estabeleço objetivos audaciosos, tomo riscos e compartilho lições
-- Começo a empurrar limites usando melhores práticas da indústria e feedback de clientes
+- Começo a empurrar limites usando melhores práticas da indústria e retroalimentação de clientes
 - Implemento estratégias que movem produtos, ferramentas ou serviços para frente
 
 ### Strategy (Estratégia)
-- Defino roadmap técnico para projetos impactantes de múltiplas fases
-- Refino roadmap conforme projetos progridem para entregar valor rapidamente
+- Defino roteiro técnico para projetos impactantes de múltiplas fases
+- Refino roteiro conforme projetos progridem para entregar valor rapidamente
 - Forneço liderança para pessoas executando o projeto
 - Em parceria com meu gestor, defino prioridades do time e garanto buy-in
-- Engajo stakeholders e alinhe com prioridades da empresa e necessidades dos clientes
+- Engajo partes interessadas e alinhe com prioridades da empresa e necessidades dos clientes
 - Gero entusiasmo pela estratégia do meu/nosso time
 
 ---
@@ -79,7 +79,7 @@
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Peço feedback proativamente do gestor, time e stakeholders cross-funcionais
+- Peço retroalimentação proativamente do gestor, time e partes interessadas cross-funcionais
 - Conheço minhas forças e identifico formas de agir nas minhas áreas de desenvolvimento
 - Tenho auto-consciência e me conecto com outros com empatia
 - Conduzo discussões sobre objetivos aspiracionais e busco oportunidades de crescimento
@@ -88,7 +88,7 @@
 - Modelo integridade e alto padrão de excelência para meu trabalho
 - Uso isso para estabelecer e manter a barra de qualidade e melhores práticas
 - Identifico e apoio áreas de crescimento para colegas levando em conta skills únicas, forças e estilos
-- Ofereço feedback honesto, construtivo, direto e acionável com empatia
+- Ofereço retroalimentação honesto, construtivo, direto e acionável com empatia
 - Contribuo ativamente para entrevistas e ganho confiança de candidatos
 - Represento desafios técnicos do time para candidatos de forma convincente
 
@@ -100,7 +100,7 @@
 - Promovo e modelo valores core, liderando pelo exemplo
 - Construo relacionamentos e conduzo coordenação entre times e disciplinas
 - Comunico proativamente e coordeno requisitos do time com outros grupos
-- Sou efetivo trabalhando com stakeholders cross-funcionais
+- Sou efetivo trabalhando com partes interessadas cross-funcionais
 - Me engajo em conflito produtivo com questionamento atencioso
 - Evito blame e resolvo problemas certos, discordando e commitando quando necessário
 
@@ -116,9 +116,9 @@
 ### Communication (Comunicação)
 - Comunico com clareza, brevidade e foco
 - Adapto mensagem à audiência apresentando na altitude certa
-- Compartilho informação proativamente para stakeholders relevantes estarem informados
+- Compartilho informação proativamente para partes interessadas relevantes estarem informados
 - Sou efetivo em manter conversas cruciais mesmo quando desconfortáveis
-- Influencio stakeholders através de variedade de audiências
+- Influencio partes interessadas através de variedade de audiências
 - Busco ouvir e entender outros
 
 ### Culture Leader (Liderança cultural)
@@ -146,7 +146,7 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 - Escrevo bibliotecas e módulos que podem ser extendidos e adotados por outros times
 
 ### Design Técnico
-- Ofereço feedback de qualidade em designs escritos por outros
+- Ofereço retroalimentação de qualidade em designs escritos por outros
 - Faço perguntas instigantes que solidificam escolhas e revelam suposições errôneas
 - Debug efetiva e rapidamente issues cross-module
 - Posso intuir onde bugs podem estar devido a conhecimento profundo de sistemas
@@ -186,7 +186,7 @@ Elevo capacidade de todo o time. Construo pontes entre times e disciplinas.
 ## 📈 Indicadores de Progresso para Staff Engineer
 
 Você está pronto(a) para evoluir para Staff quando:
-- Influencia roadmap técnico de múltiplos times
+- Influencia roteiro técnico de múltiplos times
 - Define estratégia técnica de médio a longo prazo
 - É reconhecido como expert em domínio crítico
 - Impacto estende significativamente além do time imediato

@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Capacidade de planejar, priorizar e entregar resultados com qualidade, previsibilidade e impacto. Envolve desde a execução de tarefas bem definidas até a gestão de iniciativas complexas com múltiplos stakeholders e dependências.
+Capacidade de planejar, priorizar e entregar resultados com qualidade, previsibilidade e impacto. Envolve desde a execução de tarefas bem definidas até a gestão de iniciativas complexas com múltiplos partes interessadas e dependências.
 
 ---
 
@@ -24,12 +24,12 @@ Capacidade de traduzir objetivos em trabalho executável, priorizando o que gera
 **Evolução por nível:**
 - **SE I-II**: Executa tarefas bem definidas, estima trabalho simples, sinaliza impedimentos
 - **SE III**: Decompõe features complexas, estima com boa precisão, prioriza dentro de projetos
-- **Lead**: Traduz roadmap em trabalho executável, balanceia portfolio do time
+- **Lead**: Traduz roteiro em trabalho executável, balanceia portfolio do time
 - **Staff**: Planeja iniciativas cross-team, influencia priorização organizacional
 - **Staff II-Principal**: Define estratégia de longo prazo, aloca recursos em escala organizacional
 
 **Métricas de sucesso:**
-- Sprint commitment accuracy (target: 80-90%)
+- iteração commitment accuracy (target: 80-90%)
 - Predictability de entregas quarter-over-quarter
 - Balanceamento: ~60-70% features, ~15-20% tech debt, ~15-20% sustentação
 
@@ -42,7 +42,7 @@ Garantia de que o trabalho planejado é executado e entregue com qualidade e no 
 - Monitorar progresso sem micromanagement
 - Identificar e remover impedimentos rapidamente
 - Ajustar planos quando contexto muda
-- Comunicar status proativamente a stakeholders
+- Comunicar status proativamente a partes interessadas
 - Manter foco em outcomes, não apenas outputs
 - Fechar ciclos completamente (da ideação ao deploy e monitoramento)
 
@@ -51,13 +51,13 @@ Garantia de que o trabalho planejado é executado e entregue com qualidade e no 
 - **SE III**: Entrega projetos end-to-end, desbloqueia-se, ajusta plano quando necessário
 - **Lead**: Garante entregas do time, remove impedimentos, comunica riscos antecipadamente
 - **Staff**: Lidera projetos críticos cross-team, desbloqueia múltiplos times
-- **Staff II-Principal**: Garante execução de roadmap estratégico, remove impedimentos sistêmicos
+- **Staff II-Principal**: Garante execução de roteiro estratégico, remove impedimentos sistêmicos
 
 **Métricas de sucesso:**
 - Velocity estável e saudável (não excessiva)
 - Lead time de features (target: <2 semanas para maioria)
 - Cycle time (tendência decrescente ou estável)
-- Bloqueios não resolvidos >3 dias (target: <2 por sprint)
+- Bloqueios não resolvidos >3 dias (target: <2 por iteração)
 
 ### 3. Qualidade & Confiabilidade
 
@@ -79,20 +79,20 @@ Garantia de que entregas mantêm alta barra de qualidade sem sacrificar velocida
 - **Staff II-Principal**: Estabelece cultura de excelência operacional na organização
 
 **Métricas de sucesso:**
-- Production bugs per sprint (tendência decrescente)
+- Production bugs per iteração (tendência decrescente)
 - Incident frequency e severity (target: <1 P0 por quarter)
 - MTTR (target: <1h P0, <4h P1)
 - Code coverage (target: >80% para código crítico)
 
-### 4. Gestão de Dependências & Stakeholders
+### 4. Gestão de Dependências & partes interessadas
 
 **O que é:**
-Identificação e gestão proativa de dependências, mantendo stakeholders alinhados.
+Identificação e gestão proativa de dependências, mantendo partes interessadas alinhados.
 
 **Comportamentos esperados:**
 - Identificar dependências cross-team proativamente
 - Coordenar com outros times para resolver dependências
-- Manter stakeholders informados e expectativas alinhadas
+- Manter partes interessadas informados e expectativas alinhadas
 - Comunicar riscos e mudanças antecipadamente
 - Negociar timelines, recursos e escopo de forma assertiva
 - Proteger time de interrupções e demandas ad-hoc excessivas
@@ -106,7 +106,7 @@ Identificação e gestão proativa de dependências, mantendo stakeholders alinh
 
 **Métricas de sucesso:**
 - Atrasos causados por dependências não gerenciadas (target: <10% de stories)
-- Stakeholder satisfaction (target: >4/5)
+- parte interessada satisfaction (target: >4/5)
 - Número de surpresas negativas para leadership (target: próximo a 0)
 
 ### 5. Ownership & Responsabilidade
@@ -188,7 +188,7 @@ Capacidade de navegar ambiguidade, mudanças e adversidades mantendo foco em res
 
 ### Em Principal Engineer
 - Garante execução de estratégia técnica de longo prazo
-- Navega problemas amplos, ambíguos com múltiplos stakeholders
+- Navega problemas amplos, ambíguos com múltiplos partes interessadas
 - Direciona prioridades técnicas em alinhamento com estratégia da empresa
 - Remove impedimentos sistêmicos que afetam organização inteira
 

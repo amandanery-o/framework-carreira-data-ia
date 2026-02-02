@@ -87,7 +87,7 @@
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Busco feedback de board, executivos e peers da indústria
+- Busco retroalimentação de board, executivos e peers da indústria
 - Invisto significativamente em crescimento como líder técnico e estrategista de negócio
 - Construo network amplo de líderes técnicos na indústria
 - Modelo humildade e aprendizado contínuo apesar de senioridade
@@ -124,7 +124,7 @@
 - Garanto sustentabilidade de longo prazo da organização técnica
 
 ### Communication (Comunicação)
-- Articulo visão técnica para board, investidores e stakeholders externos
+- Articulo visão técnica para board, investidores e partes interessadas externos
 - Escrevo e publico pensamento técnico influente (blog posts, papers, livros)
 - Apresento em conferências principais representando a empresa
 - Comunico de forma inspiradora para toda a empresa (all-hands, town halls)

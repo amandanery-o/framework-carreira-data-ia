@@ -49,7 +49,7 @@
 ### Agility (Agilidade)
 - Me adapto rapidamente a mudanças de prioridade e requisitos
 - Mantenho produtividade mesmo com algum grau de ambiguidade
-- Ajudo o time a responder rapidamente a feedback e mudanças de mercado
+- Ajudo o time a responder rapidamente a retroalimentação e mudanças de mercado
 
 ### Innovation (Inovação)
 - Experimento com novas ferramentas e abordagens dentro do meu escopo
@@ -61,14 +61,14 @@
 - Entendo profundamente os objetivos do time e como meu trabalho contribui
 - Sugiro formas de alcançar objetivos de forma mais eficiente
 - Começo a pensar estrategicamente sobre arquitetura e design de sistemas
-- Participo ativamente de discussões de roadmap e planejamento
+- Participo ativamente de discussões de roteiro e planejamento
 
 ---
 
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Busco feedback ativamente e demonstro crescimento contínuo
+- Busco retroalimentação ativamente e demonstro crescimento contínuo
 - Identifico áreas de desenvolvimento e tomo ações concretas para melhorar
 - Expando minhas habilidades além do meu escopo imediato
 - Participo de comunidades de prática e aprendizado
@@ -76,9 +76,9 @@
 
 ### Team Development (Desenvolvimento do time)
 - Mentoro ativamente SE I, estagiários e novos membros do time
-- Compartilho conhecimento através de pair programming, code reviews e documentação
-- Contribuo para onboarding de novos membros
-- Ajudo a elevar o nível técnico do time através de exemplos e feedback
+- Compartilho conhecimento através de programação em par, revisões de código e documentação
+- Contribuo para integração de novos membros
+- Ajudo a elevar o nível técnico do time através de exemplos e retroalimentação
 - Participo de entrevistas e avaliação de candidatos
 
 ---
@@ -88,7 +88,7 @@
 ### Collaboration (Colaboração)
 - Trabalho efetivamente com membros do time e parceiros cross-funcionais
 - Comunico progresso, desafios e necessidades claramente
-- Contribuo ativamente em code reviews com feedback construtivo
+- Contribuo ativamente em revisões de código com retroalimentação construtiva
 - Participo produtivamente de reuniões e discussões técnicas
 - Ajudo a resolver conflitos e mal-entendidos no time
 
@@ -127,12 +127,12 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 ### Fluência Técnica
 - Domínio sólido dos fundamentos do stack da área
 - Escrevo código/queries eficientes, legíveis e bem testados
-- Entendo performance, otimização e trade-offs técnicos
+- Entendo desempenho, otimização e trade-offs técnicos
 - Uso ferramentas de desenvolvimento produtivamente
 
 ### Design Técnico
 - Desenho soluções técnicas para problemas de complexidade média
-- Considero escalabilidade, manutenibilidade e performance
+- Considero escalabilidade, manutenibilidade e desempenho
 - Participo efetivamente de design reviews
 - Identifico e resolvo problemas de design antes de virarem problemas
 

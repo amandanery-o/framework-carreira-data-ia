@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Capacidade de comunicar ideias, decisões e contexto de forma clara, efetiva e adaptada ao público. Envolve desde comunicação técnica entre pares até influência estratégica com stakeholders seniores, incluindo documentação de excelência e comunicação assíncrona escalável.
+Capacidade de comunicar ideias, decisões e contexto de forma clara, efetiva e adaptada ao público. Envolve desde comunicação técnica entre pares até influência estratégica com partes interessadas seniores, incluindo documentação de excelência e comunicação assíncrona escalável.
 
 ---
 
@@ -30,13 +30,13 @@ Capacidade de comunicar decisões técnicas, arquitetura e trade-offs de forma c
 **Métricas de sucesso:**
 - Número de design docs/RFCs escritos por quarter
 - Completeness score de documentação (target: >90%)
-- Feedback positivo sobre clareza de comunicação
+- retroalimentação positivo sobre clareza de comunicação
 - Redução de perguntas repetitivas (indicador de boa documentação)
 
-### 2. Comunicação com Stakeholders
+### 2. Comunicação com partes interessadas
 
 **O que é:**
-Manter diferentes níveis de stakeholders informados, alinhados e com expectativas gerenciadas.
+Manter diferentes níveis de partes interessadas informados, alinhados e com expectativas gerenciadas.
 
 **Comportamentos esperados:**
 - Comunicar status, riscos e necessidades claramente
@@ -48,15 +48,15 @@ Manter diferentes níveis de stakeholders informados, alinhados e com expectativ
 
 **Evolução por nível:**
 - **SE I-II**: Comunica status claramente, pede contexto antes de implementar
-- **SE III**: Comunica decisões e impacto para stakeholders do projeto
+- **SE III**: Comunica decisões e impacto para partes interessadas do projeto
 - **Lead**: Mantém EM/PM informados, comunica slippage antecipadamente, defende necessidades técnicas
 - **Staff**: Mantém senior leadership informado de forma concisa, comunica sucesso e riscos claramente
-- **Staff II-Principal**: Influencia diretoria e stakeholders estratégicos, participa de decisões-chave
+- **Staff II-Principal**: Influencia diretoria e partes interessadas estratégicos, participa de decisões-chave
 
 **Métricas de sucesso:**
-- Satisfação de stakeholders com comunicação (target: >4/5)
+- Satisfação de partes interessadas com comunicação (target: >4/5)
 - Número de surpresas negativas (target: próximo de 0)
-- Clareza de status percebida por stakeholders
+- Clareza de status percebida por partes interessadas
 
 ### 3. Comunicação Assíncrona & Escalável
 
@@ -80,7 +80,7 @@ Domínio de comunicação assíncrona para escalar influência sem depender de r
 **Métricas de sucesso:**
 - Redução de reuniões desnecessárias
 - Tempo de resposta a perguntas críticas (target: <4 horas working time)
-- Qualidade de comunicação assíncrona (feedback de stakeholders)
+- Qualidade de comunicação assíncrona (retroalimentação de partes interessadas)
 
 ### 4. Comunicação Cross-Funcional
 
@@ -91,7 +91,7 @@ Colaboração efetiva com Product, Design, Data, Marketing e outras áreas.
 - Colaborar efetivamente com diferentes funções
 - Buscar entender perspectivas de outras áreas antes de discordar
 - Negociar trade-offs de forma colaborativa, não adversarial
-- Construir relacionamentos produtivos com stakeholders
+- Construir relacionamentos produtivos com partes interessadas
 - Representar engenharia em discussões multidisciplinares
 
 **Evolução por nível:**
@@ -102,17 +102,17 @@ Colaboração efetiva com Product, Design, Data, Marketing e outras áreas.
 - **Staff II-Principal**: Constrói pontes entre múltiplas áreas, facilita colaboração organizacional
 
 **Métricas de sucesso:**
-- Satisfação de stakeholders cross-funcionais (survey: >4/5)
+- Satisfação de partes interessadas cross-funcionais (survey: >4/5)
 - Efetividade de colaborações (entregas conjuntas on-time e quality)
 - Ausência de conflitos disfuncionais entre áreas
 
 ### 5. Apresentações & Knowledge Sharing
 
 **O que é:**
-Compartilhamento de conhecimento através de apresentações, tech talks e workshops.
+Compartilhamento de conhecimento através de apresentações, palestras técnicas e workshops.
 
 **Comportamentos esperados:**
-- Apresentar trabalho em demos, all-hands e tech talks
+- Apresentar trabalho em demos, all-hands e palestras técnicas
 - Traduzir complexidade técnica em impacto de negócio
 - Facilitar discussões técnicas de forma inclusiva
 - Criar conteúdo educacional (tutoriais, workshops)
@@ -120,9 +120,9 @@ Compartilhamento de conhecimento através de apresentações, tech talks e works
 
 **Evolução por nível:**
 - **SE I-II**: Participa de demos, compartilha aprendizados com pares
-- **SE III**: Apresenta trabalho em demos, dá feedback construtivo
+- **SE III**: Apresenta trabalho em demos, dá retroalimentação construtiva
 - **Lead**: Apresenta trabalho do time em demos e all-hands quando relevante
-- **Staff**: Realiza tech talks internos regularmente, apresenta para leadership
+- **Staff**: Realiza palestras técnicas internos regularmente, apresenta para leadership
 - **Staff II-Principal**: Representa empresa externamente em conferências, constrói marca técnica
 
 **Métricas de sucesso:**
@@ -131,25 +131,25 @@ Compartilhamento de conhecimento através de apresentações, tech talks e works
 - Adoção de práticas apresentadas nos times
 - Engajamento em conteúdo publicado (quando externo)
 
-### 6. Escuta Ativa & Feedback
+### 6. Escuta Ativa & retroalimentação
 
 **O que é:**
-Capacidade de ouvir efetivamente, processar perspectivas diversas e incorporar feedback.
+Capacidade de ouvir efetivamente, processar perspectivas diversas e incorporar retroalimentação.
 
 **Comportamentos esperados:**
 - Escutar ativamente sem interromper
 - Fazer perguntas clarificadoras
-- Solicitar feedback regularmente
-- Receber feedback construtivamente e agir sobre ele
+- Solicitar retroalimentação regularmente
+- Receber retroalimentação construtivamente e agir sobre ele
 - Criar espaço para vozes diversas serem ouvidas
-- Demonstrar que feedback foi ouvido e incorporado
+- Demonstrar que retroalimentação foi ouvido e incorporado
 
 **Evolução por nível:**
-- **SE I-II**: Está aberto a feedbacks, faz perguntas objetivas, busca contexto
-- **SE III**: Escuta ativamente, solicita feedback, age sobre feedback recebido
-- **Lead**: Cria espaço para todos contribuírem, solicita feedback sobre própria comunicação
+- **SE I-II**: Está aberto a retroalimentações, faz perguntas objetivas, busca contexto
+- **SE III**: Escuta ativamente, solicita retroalimentação, age sobre retroalimentação recebido
+- **Lead**: Cria espaço para todos contribuírem, solicita retroalimentação sobre própria comunicação
 - **Staff**: Modela escuta ativa organization-wide, cria ambiente psicologicamente seguro
-- **Staff II-Principal**: Referência em escuta ativa e incorporação de feedback
+- **Staff II-Principal**: Referência em escuta ativa e incorporação de retroalimentação
 
 ---
 
@@ -165,12 +165,12 @@ Capacidade de ouvir efetivamente, processar perspectivas diversas e incorporar f
 ### Em SE III (Senior)
 - Articula decisões técnicas com clareza
 - Facilita discussões técnicas produtivas
-- Dá feedback construtivo e específico
+- Dá retroalimentação construtiva e específico
 - Documenta de forma que outros possam manter
 - Comunica impacto de decisões técnicas
 
 ### Em Lead Engineer
-- Comunica decisões técnicas para time e stakeholders
+- Comunica decisões técnicas para time e partes interessadas
 - Documenta arquitetura e decisões importantes
 - Mantém transparência sobre status, riscos e trade-offs
 - Traduz requisitos de negócio em soluções técnicas e vice-versa
@@ -180,7 +180,7 @@ Capacidade de ouvir efetivamente, processar perspectivas diversas e incorporar f
 - Produz documentação técnica de excelência (RFCs, ADRs)
 - Comunica de forma concisa e acionável para senior leadership
 - Domina comunicação assíncrona para escalar influência
-- Apresenta tech talks internos regularmente
+- Apresenta palestras técnicas internos regularmente
 - Influencia através de comunicação clara e fundamentada
 
 ### Em Staff II (Senior Staff)
@@ -191,11 +191,11 @@ Capacidade de ouvir efetivamente, processar perspectivas diversas e incorporar f
 - Referência em comunicação técnica e estratégica
 
 ### Em Principal Engineer
-- Influencia diretoria e stakeholders estratégicos
+- Influencia diretoria e partes interessadas estratégicos
 - Traduz impacto de decisões técnicas em resultados claros para negócio
 - Representa Engenharia internamente e externamente
 - Comunica visão técnica de longo prazo de forma inspiradora
-- Constrói pontes entre times, áreas, diretoria e stakeholders
+- Constrói pontes entre times, áreas, diretoria e partes interessadas
 
 ---
 

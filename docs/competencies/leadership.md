@@ -15,8 +15,8 @@ Desenvolver capacidades técnicas e profissionais de outros engenheiros através
 
 **Comportamentos esperados:**
 - Compartilhar conhecimento proativamente
-- Oferecer feedback construtivo e frequente
-- Ensinar através de pair programming e code reviews educativas
+- Oferecer retroalimentação construtiva e frequente
+- Ensinar através de programação em par e revisões de código educativas
 - Criar oportunidades de crescimento através de delegação intencional
 - Celebrar sucessos de mentorados e ajudar em desafios
 - Adaptar estilo de mentoria para diferentes pessoas
@@ -24,14 +24,14 @@ Desenvolver capacidades técnicas e profissionais de outros engenheiros através
 **Evolução por nível:**
 - **SE I-II**: Compartilha aprendizados com pares, colabora produtivamente
 - **SE III**: Mentora júniores e plenos, ajuda na evolução de hard e soft skills
-- **Lead**: Desenvolve capacidades técnicas do time, fornece feedback regular, delega intencionalmente
+- **Lead**: Desenvolve capacidades técnicas do time, fornece retroalimentação regular, delega intencionalmente
 - **Staff**: Mentora múltiplos engenheiros e Tech Leads, cria efeito multiplicador
 - **Staff II-Principal**: Desenvolve Staff Engineers e lideranças técnicas, molda próxima geração de líderes
 
 **Métricas de sucesso:**
 - Número de pessoas mentoradas formalmente
 - Progresso de carreira dos mentorados (promoções, expansão de escopo)
-- Feedback dos mentorados sobre qualidade da mentoria
+- retroalimentação dos mentorados sobre qualidade da mentoria
 - Distribuição de conhecimento no time (redução de single points of failure)
 
 ### 2. Influência & Direção Técnica
@@ -55,7 +55,7 @@ Exercer influência técnica através de expertise, relacionamentos e liderança
 - **Staff II-Principal**: Define estratégia técnica de área ou organização, influencia em nível executivo
 
 **Métricas de sucesso:**
-- Reconhecimento de pares e liderança (360 feedback)
+- Reconhecimento de pares e liderança (360 retroalimentação)
 - Adoção de propostas e práticas recomendadas
 - Convites para participar de iniciativas estratégicas
 - Impacto de contribuições organizacionais
@@ -74,7 +74,7 @@ Construir e promover cultura de time saudável, colaborativa e de alto desempenh
 - Contribuir ativamente para ambiente de respeito e confiança
 
 **Evolução por nível:**
-- **SE I-II**: Contribui para ambiente positivo, está aberto a feedback, coopera com pares
+- **SE I-II**: Contribui para ambiente positivo, está aberto a retroalimentação, coopera com pares
 - **SE III**: Promove conflitos produtivos, ensina e aprende com time, ajuda a criar confiança
 - **Lead**: Constrói cultura de time saudável, promove ownership, conduz post-mortems blameless
 - **Staff**: Influencia cultura de múltiplos times, modela excelência técnica e colaboração
@@ -83,7 +83,7 @@ Construir e promover cultura de time saudável, colaborativa e de alto desempenh
 **Métricas de sucesso:**
 - Team health metrics (satisfação, colaboração, segurança psicológica)
 - Retenção de membros do time
-- Feedback em retros sobre cultura
+- retroalimentação em retros sobre cultura
 - Ausência de burnout indicators
 
 ### 4. Recrutamento & Elevação de Barra
@@ -96,7 +96,7 @@ Participar ativamente de hiring, elevando barra técnica e ajudando a construir 
 - Avaliar candidates considerando fit técnico e potencial
 - Fazer referrals qualificados
 - Treinar outros entrevistadores
-- Participar de debriefs com feedback claro e fundamentado
+- Participar de debriefs com retroalimentação claro e fundamentado
 - Contribuir para melhorias do processo de hiring
 
 **Evolução por nível:**
@@ -108,7 +108,7 @@ Participar ativamente de hiring, elevando barra técnica e ajudando a construir 
 
 **Métricas de sucesso:**
 - Número de entrevistas conduzidas
-- Qualidade de contratações (performance após 6-12 meses)
+- Qualidade de contratações (desempenho após 6-12 meses)
 - Taxa de aceitação de ofertas
 - Número de referrals qualificados
 
@@ -119,7 +119,7 @@ Desenvolver e comunicar visão técnica alinhada com objetivos de negócio, pens
 
 **Comportamentos esperados:**
 - Definir e comunicar visão técnica clara
-- Alinhar visão técnica com roadmap de produto e objetivos de negócio
+- Alinhar visão técnica com roteiro de produto e objetivos de negócio
 - Identificar oportunidades técnicas que geram valor
 - Manter foco em outcomes, não apenas outputs
 - Antecipar mudanças e preparar organização
@@ -169,7 +169,7 @@ Liderar mudanças técnicas, processos e culturais, gerenciando resistência e c
 ## Como essa competência se manifesta
 
 ### Em SE I-II (Junior/Pleno)
-- Está aberto a feedbacks e aprendizado
+- Está aberto a retroalimentações e aprendizado
 - Contribui para ambiente de respeito e segurança psicológica
 - Compartilha conhecimento com pares
 - Ajuda colegas quando pode, pede ajuda quando precisa
@@ -180,13 +180,13 @@ Liderar mudanças técnicas, processos e culturais, gerenciando resistência e c
 - É referência técnica em pelo menos um subdomínio
 - Contribui para padrões e boas práticas da área
 - Facilita discussões técnicas e ajuda time a chegar em acordos
-- Dá feedback construtivo e específico
+- Dá retroalimentação construtiva e específico
 
 ### Em Lead Engineer
 - Desenvolve capacidades técnicas de todo o time
 - Define direção técnica do time
 - Constrói cultura de time saudável e colaborativa
-- Participa ativamente de hiring e onboarding
+- Participa ativamente de hiring e integração
 - Comunica visão técnica clara de médio prazo
 
 ### Em Staff Engineer

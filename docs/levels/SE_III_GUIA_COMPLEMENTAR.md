@@ -18,7 +18,7 @@
 
 ### SE III (Senior) - O QUE É NOVO:
 - **Lidera tecnicamente** projetos (não só implementa)
-- **Define estratégia** (roadmap, padrões, decisões arquiteturais)
+- **Define estratégia** (roteiro, padrões, decisões arquiteturais)
 - **Influencia além do time** (mentoria, padrões, visibilidade)
 - **Pensa em impacto de negócio** (não só em código que funciona)
 
@@ -62,19 +62,19 @@
 #### Strategy (Estratégia)
 
 **Framework diz:**
-> "Defino roadmap técnico para projetos impactantes de múltiplas fases"
+> "Defino roteiro técnico para projetos impactantes de múltiplas fases"
 
 **Na prática:**
 - ❌ Pega tickets e implementa
-- ✅ "Sistema X está com problemas de performance. Propus roadmap de 3 meses: (1) Identificar gargalos, (2) Otimizar queries críticas, (3) Implementar cache. Priorizei baseado em impacto vs esforço."
+- ✅ "Sistema X está com problemas de desempenho. Propus roteiro de 3 meses: (1) Identificar gargalos, (2) Otimizar queries críticas, (3) Implementar cache. Priorizei baseado em impacto vs esforço."
 
 **Framework diz:**
 > "Contribuo de forma consistente para padrões, boas práticas e referências"
 
 **Na prática:**
 - Cria documento: "Guia de [Padrão Técnico Relevante]"
-- Apresenta em tech talk
-- Usa em code reviews como referência
+- Apresenta em palestra técnica
+- Usa em revisões de código como referência
 
 ---
 
@@ -85,7 +85,7 @@
 **Framework diz:**
 > "Mentoro ativamente SE I/SE II, ajudando na evolução de hard e soft skills"
 
-**Na prática - Code Review que ensina:**
+**Na prática - revisão de código que ensina:**
 ```
 ❌ "LGTM"
 
@@ -97,7 +97,7 @@
 2. [Padrão]: [Por que é importante]
    Ref: [Link para documentação]
    
-3. Posso fazer pair programming se quiser discutir!"
+3. Posso fazer programação em par se quiser discutir!"
 ```
 
 ---
@@ -110,7 +110,7 @@
 > "Comunico com clareza, adapto mensagem à audiência"
 
 **Na prática:**
-- **Para time técnico:** "Migrei para tecnologia X porque [razões técnicas detalhadas]. Performance é similar mas [trade-offs]."
+- **Para time técnico:** "Migrei para tecnologia X porque [razões técnicas detalhadas]. desempenho é similar mas [trade-offs]."
 - **Para produto/negócio:** "Consegui implementar as funcionalidades pedidas. Agora podemos [benefício de negócio] 3x mais rápido."
 
 ---
@@ -133,9 +133,9 @@
 - [ ] Participo de decisões além do meu time
 
 ### Sobre Pessoas:
-- [ ] Ajudo outros a crescerem (mentoria, reviews, pair programming)
-- [ ] Dou feedback construtivo e específico
-- [ ] Compartilho conhecimento (tech talks, docs, exemplos)
+- [ ] Ajudo outros a crescerem (mentoria, reviews, programação em par)
+- [ ] Dou retroalimentação construtiva e específico
+- [ ] Compartilho conhecimento (palestras técnicas, docs, exemplos)
 
 ---
 
@@ -150,7 +150,7 @@ Antes de preencher a autoavaliação, reflita:
    - Padrão que criei? Mentoria que dei? Decisão que ajudei outro time?
 
 3. **"Como meço sucesso do meu trabalho?"**
-   - Só "funcionou"? Ou tenho métricas de impacto (performance, uso, satisfação)?
+   - Só "funcionou"? Ou tenho métricas de impacto (desempenho, uso, satisfação)?
 
 ---
 

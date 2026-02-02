@@ -1,29 +1,29 @@
 # Engineering Manager (EM)
 
-> **"Eu desenvolvo pessoas, construo times de alta performance e entrego valor de negócio de forma sustentável"**
+> **"Eu desenvolvo pessoas, construo times de alta desempenho e entrego valor de negócio de forma sustentável"**
 
 ---
 
 ## 📋 Definição do Papel
 
 ### Scope (Escopo de atuação)
-- Responsável pelo desenvolvimento, bem-estar e performance de um time de engenharia (5-10 pessoas)
+- Responsável pelo desenvolvimento, bem-estar e desempenho de um time de engenharia (5-10 pessoas)
 - Garanto que o time entregue valor de forma sustentável
 - Accountable pelos resultados do time e pela saúde organizacional
 
 ### Collaborative Reach (Alcance colaborativo)
-- Trabalho com meu time direto, Tech Lead (se houver), e stakeholders (PM, Design, etc.)
+- Trabalho com meu time direto, Tech Lead (se houver), e partes interessadas (PM, Design, etc.)
 - Colaboro com outros Engineering Managers e Senior Leadership
 - Influencio práticas e cultura além do meu time
 
 ### Impact Levers (Alavancas de impacto)
-- **People Development** - Desenvolvo pessoas através de coaching, feedback e oportunidades
-- **Team Performance** - Garanto entregas consistentes e de qualidade
+- **People Development** - Desenvolvo pessoas através de coaching, retroalimentação e oportunidades
+- **Team desempenho** - Garanto entregas consistentes e de qualidade
 - **Organizational Health** - Construo cultura de time saudável e de alto desempenho
 - **Strategic Alignment** - Alineo trabalho do time com objetivos de negócio
 
 ### Papel na Carreira
-**Engineering Manager** é o **management track** da carreira de engenharia. É para quem quer desenvolver pessoas, construir times de alta performance e criar ambiente onde engenheiros prosperam.
+**Engineering Manager** é o **management track** da carreira de engenharia. É para quem quer desenvolver pessoas, construir times de alta desempenho e criar ambiente onde engenheiros prosperam.
 
 ---
 
@@ -33,7 +33,7 @@
 2. **Servant Leadership** - Você existe para servir e desbloquear o time
 3. **Accountability** - Você responde pelos resultados, o time recebe o crédito
 4. **Context over Control** - Provê contexto para decisões autônomas
-5. **Sustainable Performance** - Resultados de longo prazo, não sprints heroicos
+5. **Sustainable desempenho** - Resultados de longo prazo, não iterações heroicos
 
 ---
 
@@ -49,8 +49,8 @@
 - Balanço velocidade com sustentabilidade (evito burnout do time)
 
 ### Ownership (Responsabilidade)
-- Assumo accountability total por resultados, performance e saúde do time
-- Possuo decisões difíceis (contratação, promoção, performance issues, desligamentos)
+- Assumo accountability total por resultados, desempenho e saúde do time
+- Possuo decisões difíceis (contratação, promoção, desempenho issues, desligamentos)
 - Gerencio capacidade do time realisticamente evitando over-commitment
 - Protejo time de thrash e mudanças constantes de prioridade
 - Respondo por falhas do time e aprendo com elas
@@ -62,8 +62,8 @@
 - Balanço necessidades individuais com necessidades do time e negócio
 - Decido prioridades em colaboração com PM e Tech Lead
 - Gerencio trade-offs de escopo, qualidade e timeline
-- Tomo decisões difíceis sobre performance issues com empatia e profissionalismo
-- Negocio com stakeholders baseado em capacidade real e dados
+- Tomo decisões difíceis sobre desempenho issues com empatia e profissionalismo
+- Negocio com partes interessadas baseado em capacidade real e dados
 - Não evito conversas difíceis, mas as preparo cuidadosamente
 
 ---
@@ -80,7 +80,7 @@
 ### Innovation (Inovação)
 - Promovo cultura de experimentação, aprendizado e melhoria contínua
 - Crio espaço para time explorar novas tecnologias e abordagens
-- Implemento melhorias em processos e práticas baseado em feedback
+- Implemento melhorias em processos e práticas baseado em retroalimentação
 - Encorajo ideias e testa novas formas de trabalhar
 - Celebro aprendizados, incluindo "falhas inteligentes"
 - Ajo em action items de retrospectivas consistentemente
@@ -88,7 +88,7 @@
 ### Strategy (Estratégia)
 - Defino e comunico visão clara de médio-longo prazo (6-18 meses) para o time
 - Alineo visão do time com estratégia de produto e objetivos de negócio
-- Traduzo estratégia em roadmap executável com milestones claros
+- Traduzo estratégia em roteiro executável com milestones claros
 - Conecto trabalho diário do time aos objetivos maiores ("o porquê")
 - Planeio capacidade e hiring com 3-6 meses de antecedência
 - Identifico gaps de capacidade e propõe soluções
@@ -99,7 +99,7 @@
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Busco feedback de meu time, peers e liderança sobre minha gestão
+- Busco retroalimentação de meu time, peers e liderança sobre minha gestão
 - Reflito sobre decisões e aprendo continuamente
 - Invisto em desenvolvimento como líder (leitura, cursos, coaching)
 - Mantenho network de outros EMs para aprender e compartilhar
@@ -111,20 +111,20 @@
 #### Desenvolvimento Individual & Crescimento de Carreira
 - **Entendo aspirações, forças e áreas de desenvolvimento** de cada membro do time
 - Crio **planos de desenvolvimento individual (PDI)** alinhados com objetivos de carreira
-- Facilito crescimento através de **delegação intencional, feedback e oportunidades**
+- Facilito crescimento através de **delegação intencional, retroalimentação e oportunidades**
 - Conduzo **1:1s semanais de 30-45 minutos** focados em carreira (não apenas status)
 - Crio e reviso PDIs trimestralmente com cada pessoa
 - Identifico e nomeio pessoas para projetos stretch que desenvolvem novas skills
 - Preparo **documentação de promoção** detalhada e defendo em calibration sessions
 - Celebro crescimentos e conquistas individuais publicamente
 
-#### Performance Management & Feedback
-- Forneço **feedback contínuo, específico e acionável** (positivo e construtivo)
-- Uso framework **SBI (Situation-Behavior-Impact)** para feedback construtivo
-- Identifico e endereço **performance issues precocemente** com planos de ação
-- Conduzo performance reviews **justas, calibradas e baseadas em evidências**
+#### desempenho Management & retroalimentação
+- Forneço **retroalimentação contínuo, específico e acionável** (positivo e construtivo)
+- Uso framework **SBI (Situation-Behavior-Impact)** para retroalimentação construtiva
+- Identifico e endereço **desempenho issues precocemente** com planos de ação
+- Conduzo desempenho reviews **justas, calibradas e baseadas em evidências**
 - Gerencio situações difíceis (PIPs, desligamentos) com empatia e profissionalismo
-- Documento feedback e conversas importantes para contexto futuro
+- Documento retroalimentação e conversas importantes para contexto futuro
 - Conduzo calibration sessions com outros EMs para garantir fairness
 - Não evito conversas difíceis, mas as preparo cuidadosamente
 
@@ -138,21 +138,21 @@
 - Modelo **work-life balance** e sustentabilidade
 - Celebra vitórias e cria momentos de conexão do time
 
-#### Recrutamento, Hiring & Onboarding
+#### Recrutamento, Hiring & integração
 - Defino **hiring needs** baseado em estratégia do time e gaps de capacidade
 - Conduzo processos de hiring **eficientes, justos e com alta taxa de conversão**
 - Onbordo novos membros efetivamente para **produtividade rápida** e integração cultural
 - Crio job descriptions claras e atrativas
 - Participo ativamente de entrevistas (behavioral, fit cultural)
-- Coordeno processo de hiring com recrutamento (prazos, feedback rápido)
-- Desenvolvo plano de onboarding de **30-60-90 dias** estruturado
+- Coordeno processo de hiring com recrutamento (prazos, retroalimentação rápido)
+- Desenvolvo plano de integração de **30-60-90 dias** estruturado
 - Faço **weekly 1:1s** com novo membro nos primeiros 2 meses
 - Celebro primeira contribuição significativa publicamente
 
 #### Coaching & Mentoria de Liderança
 - Desenvolvo futuros líderes (**Tech Leads, EMs**) através de coaching ativo
 - Delego responsabilidades de liderança como oportunidade de crescimento
-- Ofereço feedback sobre habilidades de liderança (comunicação, decisão, influência)
+- Ofereço retroalimentação sobre habilidades de liderança (comunicação, decisão, influência)
 - Modelo comportamentos de liderança desejados
 - Identifico potenciais líderes e crio development path
 - Compartilho experiências e lições de management
@@ -165,7 +165,7 @@
 ### Collaboration (Colaboração)
 - Trabalho efetivamente com Tech Lead (se houver) na saúde técnica e do time
 - Colaboro próximo com Product Manager para alinhar produto e engenharia
-- Construo relacionamentos produtivos com stakeholders (Design, Data, Marketing, etc.)
+- Construo relacionamentos produtivos com partes interessadas (Design, Data, Marketing, etc.)
 - Coordeno com outros EMs para resolver dependências e compartilhar aprendizados
 - Represento engenharia em discussões multidisciplinares
 - Negocia trade-offs de forma colaborativa, não adversarial
@@ -188,7 +188,7 @@
 - Provejo contexto sobre decisões, mudanças e estratégia
 - Crio espaço para comunicação bidirecional e escuta ativa
 - Realizo team meetings regulares (weekly ou bi-weekly)
-- Solicito feedback sobre minha própria comunicação e liderança
+- Solicito retroalimentação sobre minha própria comunicação e liderança
 - Celebro vitórias e reconheço contribuições publicamente
 
 #### Comunicação com Liderança (Senior Leadership)
@@ -202,7 +202,7 @@
 #### Comunicação Cross-Funcional
 - Colaboro efetivamente com Product, Design, Data, Marketing, etc.
 - Traduzo entre linguagens técnicas e de negócio fluidamente
-- Construo relacionamentos produtivos com stakeholders
+- Construo relacionamentos produtivos com partes interessadas
 - Representa engenharia em discussões multidisciplinares
 
 ### Culture Leader (Liderança cultural)
@@ -239,7 +239,7 @@
 
 ### 1. Planejamento & Priorização
 - Traduzir estratégia de produto/negócio em planos executáveis
-- Facilitar planejamento colaborativo (sprints, quarters)
+- Facilitar planejamento colaborativo (iterações, quarters)
 - Balancear features (60-70%), débito técnico (15-20%), sustentação (15-20%)
 - Gerenciar capacidade realisticamente evitando over-commitment
 - Proteger time de thrash e mudanças de prioridade
@@ -248,10 +248,10 @@
 ### 2. Gestão de Entrega & Execução
 - Monitorar progresso sem micromanagement
 - Identificar e remover impedimentos rapidamente
-- Facilitar rituais ágeis (dailies, retros, reviews)
+- Facilitar rituais ágeis (diárias, retros, reviews)
 - Agir em impedimentos levantados no mesmo dia
 - Manter backlog saudável em parceria com PM
-- Comunicar status proativamente a stakeholders
+- Comunicar status proativamente a partes interessadas
 
 ### 3. Gestão de Qualidade & Excelência Operacional
 - Garantir barra alta de qualidade sem sacrificar velocidade
@@ -259,16 +259,16 @@
 - Monitorar métricas de qualidade (bugs, incidents, tech debt)
 - Participar de post-mortems e garantir follow-up
 
-### 4. Gestão de Dependências & Stakeholders
+### 4. Gestão de Dependências & partes interessadas
 - Identificar e gerenciar dependências cross-team
-- Manter stakeholders informados e alinhados
+- Manter partes interessadas informados e alinhados
 - Negociar timelines, recursos e escopo assertivamente
 - Proteger time de interrupções excessivas
 
 ### 5. Visão & Estratégia de Time
 - Definir visão de médio-longo prazo (6-18 meses)
 - Alinhar com estratégia de produto e negócio
-- Traduzir estratégia em roadmap executável
+- Traduzir estratégia em roteiro executável
 - Conectar trabalho diário aos objetivos maiores
 
 ### 6. Gestão de Recursos & Capacidade
@@ -285,7 +285,7 @@
 Conecto desenvolvimento do time e decisões de people management ao impacto em clientes e valor gerado para o negócio.
 
 ### 💡 Paixão por Inovar
-Promovo experimentação segura, aprendizado contínuo, feedback e melhoria constante na forma como o time trabalha.
+Promovo experimentação segura, aprendizado contínuo, retroalimentação e melhoria constante na forma como o time trabalha.
 
 ### ⚡ Agilidade para Resultado
 Desbloquei time rapidamente, removo impedimentos, facilito decisões e mantenho foco em entregas sustentáveis de valor.
@@ -305,16 +305,16 @@ Construo ambiente de segurança psicológica, confiança, colaboração e cresci
 | **Foco Principal** | Direção técnica + execução | **Pessoas + processos + resultados** |
 | **Gestão Formal** | Não (liderança técnica) | **Sim (people management)** |
 | **Hands-on Código** | 50-70% | **Pouco ou nenhum** |
-| **Responsabilidade** | Entrega e qualidade técnica | **Performance, crescimento, engajamento** |
-| **1:1s** | Técnicos (mentoria) | **Carreira, desenvolvimento, feedback** |
+| **Responsabilidade** | Entrega e qualidade técnica | **desempenho, crescimento, engajamento** |
+| **1:1s** | Técnicos (mentoria) | **Carreira, desenvolvimento, retroalimentação** |
 | **Decisões** | Técnicas (arquitetura, tech) | **People (promoções, PIPs, hiring)** |
-| **Avaliações** | Contribui tecnicamente | **Conduz performance reviews** |
+| **Avaliações** | Contribui tecnicamente | **Conduz desempenho reviews** |
 | **Crescimento Time** | Desenvolve tecnicamente | **Desenvolve profissionalmente (PDIs)** |
 | **Track** | Management Track (liderança técnica) | **Management Track** |
 | **Reporta a** | Engineering Manager | **Senior EM / Head / Director** |
 
 **Engineering Manager** é para quem quer:
-- ✅ Desenvolver pessoas e construir times de alta performance
+- ✅ Desenvolver pessoas e construir times de alta desempenho
 - ✅ Fazer gestão formal de people management (1:1s, PDIs, reviews, promoções)
 - ✅ Criar ambiente onde engenheiros prosperam
 - ✅ Impactar negócio através de resultados do time
@@ -333,23 +333,23 @@ Construo ambiente de segurança psicológica, confiança, colaboração e cresci
 - **Clareza de expectativas**: >90% do time
 
 ### 🚀 Entrega
-- **Sprint commitment accuracy**: 80-90%
+- **iteração commitment accuracy**: 80-90%
 - **Predictability quarter-over-quarter**: variação <20%
 - **Velocity**: estável e sustentável (não crescente artificialmente)
 - **Quality metrics**: bugs, incidents em tendência saudável
 - **Balanceamento**: ~60-70% features, ~15-20% tech debt, ~15-20% sustentação
 
-### 🎯 Hiring & Onboarding
+### 🎯 Hiring & integração
 - **Time-to-hire**: <45 dias
 - **Offer acceptance rate**: >80%
-- **Quality of hires**: performance positiva após 6-12 meses
+- **Quality of hires**: desempenho positiva após 6-12 meses
 - **Time-to-productivity**: contribuição significativa <30 dias
 - **Retenção de novos membros em 12 meses**: >90%
 - **Diversidade de contratações**: pools diversificados
 
-### 🤝 Stakeholders
-- **Stakeholder satisfaction**: >4/5
-- **Clareza de comunicação**: feedback positivo
+### 🤝 partes interessadas
+- **parte interessada satisfaction**: >4/5
+- **Clareza de comunicação**: retroalimentação positivo
 - **Ausência de surpresas negativas**: sim
 - **Confiança em entregas**: alta
 
@@ -360,11 +360,11 @@ Construo ambiente de segurança psicológica, confiança, colaboração e cresci
 Você está sendo efetivo como EM quando:
 - ✅ Time está engajado, motivado e com crescimento claro
 - ✅ Promoções acontecem consistentemente baseadas em mérito
-- ✅ Performance issues são endereçados cedo e com empatia
+- ✅ desempenho issues são endereçados cedo e com empatia
 - ✅ Entregas são predictáveis e sustentáveis
 - ✅ Retenção de high performers é alta (>95%)
 - ✅ Novos membros ficam produtivos rapidamente
-- ✅ Stakeholders confiam nas entregas e comunicação
+- ✅ partes interessadas confiam nas entregas e comunicação
 - ✅ Time tem segurança psicológica e colabora bem
 - ✅ Você é visto como role model de liderança
 - ✅ Time opera de forma sustentável (sem heroísmo)

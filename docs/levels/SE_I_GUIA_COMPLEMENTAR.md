@@ -13,7 +13,7 @@
 
 ### Resumo
 - **Executa tarefas** definidas com qualidade
-- **Aprende continuamente** com feedback e mentoria
+- **Aprende continuamente** com retroalimentação e mentoria
 - **Pede ajuda** quando necessário
 - **Foca no básico** e constrói fundamentos sólidos
 
@@ -94,7 +94,7 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 #### Personal Growth
 
 **Framework diz:**
-> "Busco feedback ativamente e ajo sobre ele"
+> "Busco retroalimentação ativamente e ajo sobre ele"
 
 **Na prática:**
 - ❌ Espera avaliação anual para saber como está indo
@@ -105,9 +105,9 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 > "Participo de sessões de aprendizado"
 
 **Na prática:**
-- Vai em tech talks (mesmo sem entender tudo)
-- Faz pair programming quando oferecido
-- Lê code reviews de outros para aprender
+- Vai em palestras técnicas (mesmo sem entender tudo)
+- Faz programação em par quando oferecido
+- Lê revisões de código de outros para aprender
 
 ---
 
@@ -118,7 +118,7 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 **Framework diz:**
 > "Comunico status e impedimentos com clareza e objetividade"
 
-**Na prática - Daily standup:**
+**Na prática - diária reunião diária:**
 ```
 ❌ "Tô trabalhando na task"
 
@@ -149,16 +149,16 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 
 ### Sobre Aprendizado:
 - [ ] Faço perguntas (não finjo que entendi)
-- [ ] Aceito feedback sem defensividade
+- [ ] Aceito retroalimentação sem defensividade
 - [ ] Documento o que aprendo
 
 ### Sobre Comunicação:
-- [ ] Dou status nas dailies
+- [ ] Dou status nas diárias
 - [ ] Aviso bloqueios proativamente
 - [ ] Faço perguntas contextualizadas
 
 ### Sobre Colaboração:
-- [ ] Participo de code reviews (mesmo só lendo)
+- [ ] Participo de revisões de código (mesmo só lendo)
 - [ ] Ofereço ajuda quando posso
 - [ ] Contribuo em retrospectivas
 
@@ -171,7 +171,7 @@ Antes de preencher a autoavaliação, reflita:
 1. **"Qual foi a última vez que pedi ajuda no momento certo?"**
    - Esperei muito? Pedi cedo demais? Tentei resolver sozinho primeiro?
 
-2. **"Como reajo a feedback em code reviews?"**
+2. **"Como reajo a retroalimentação em revisões de código?"**
    - Aceito e aprendo? Fico defensivo? Faço as mesmas coisas depois?
 
 3. **"Estou focando em aprender ou em parecer que sei?"**

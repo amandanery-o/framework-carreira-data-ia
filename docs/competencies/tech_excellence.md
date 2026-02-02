@@ -15,7 +15,7 @@ Capacidade de projetar sistemas escaláveis, resilientes e de fácil manutençã
 
 **Comportamentos esperados:**
 - Compreender como as soluções se integram com outros sistemas e identificar pontos de fricção
-- Considerar aspectos de segurança, performance, custos e operação desde o design
+- Considerar aspectos de segurança, desempenho, custos e operação desde o design
 - Documentar decisões arquiteturais importantes (ADRs - Architecture Decision Records)
 - Validar decisões através de POCs (Proof of Concepts) quando apropriado
 - Isolar e substituir sistemas legados de forma incremental e segura
@@ -34,14 +34,14 @@ Garantia de alta qualidade através de revisões, padrões, testes e automação
 
 **Comportamentos esperados:**
 - Seguir e estabelecer guias de estilo e boas práticas
-- Realizar code reviews educativas, explicando o "porquê" das sugestões
+- Realizar revisões de código educativas, explicando o "porquê" das sugestões
 - Escrever código legível, testável e manutenível
 - Automatizar verificação de qualidade (linters, CI/CD, análise estática)
 - Monitorar métricas de qualidade (cobertura de testes, complexidade, code smells)
 
 **Evolução por nível:**
-- **SE I-II**: Segue padrões, documenta código, participa de code reviews
-- **SE III**: Estabelece padrões no time, realiza code reviews educativas
+- **SE I-II**: Segue padrões, documenta código, participa de revisões de código
+- **SE III**: Estabelece padrões no time, realiza revisões de código educativas
 - **Lead**: Define guidelines de qualidade, gerencia débito técnico do time
 - **Staff**: Cria documentação e padrões organization-wide para "alta qualidade"
 - **Staff II-Principal**: Define cultura de qualidade e padrões globais da organização
@@ -49,7 +49,7 @@ Garantia de alta qualidade através de revisões, padrões, testes e automação
 **Métricas de sucesso:**
 - Cobertura de testes (target: >80% para código crítico)
 - Redução de bugs em produção
-- Tempo médio de code review (balanceando velocidade e qualidade)
+- Tempo médio de revisão de código (balanceando velocidade e qualidade)
 - Débito técnico gerenciado (target: <15% do backlog)
 
 ### 3. Tecnologia & Ferramentas
@@ -101,13 +101,13 @@ Garantia de confiabilidade, observabilidade e eficiência operacional dos sistem
 - Redução de toil operacional
 - Incident frequency e severity em tendência decrescente
 
-### 5. Performance, Custo & Escalabilidade
+### 5. desempenho, Custo & Escalabilidade
 
 **O que é:**
-Otimização de sistemas considerando performance, custo e capacidade de escalar.
+Otimização de sistemas considerando desempenho, custo e capacidade de escalar.
 
 **Comportamentos esperados:**
-- Medir e melhorar performance, custo e escalabilidade
+- Medir e melhorar desempenho, custo e escalabilidade
 - Considerar trade-offs entre diferentes aspectos (ex: custo vs latência)
 - Implementar caching, indexação e outras otimizações quando apropriado
 - Monitorar custos de infraestrutura e propor otimizações
@@ -115,10 +115,10 @@ Otimização de sistemas considerando performance, custo e capacidade de escalar
 
 **Evolução por nível:**
 - **SE I-II**: Escreve código eficiente, está atento a custos básicos
-- **SE III**: Otimiza queries/pipelines, propõe melhorias de performance
-- **Lead**: Gerencia custos do time, otimiza arquitetura para performance
-- **Staff**: Define estratégias de otimização cross-team, balanceia custo/performance
-- **Staff II-Principal**: Define diretrizes globais de performance, custo e escalabilidade
+- **SE III**: Otimiza queries/pipelines, propõe melhorias de desempenho
+- **Lead**: Gerencia custos do time, otimiza arquitetura para desempenho
+- **Staff**: Define estratégias de otimização cross-team, balanceia custo/desempenho
+- **Staff II-Principal**: Define diretrizes globais de desempenho, custo e escalabilidade
 
 ### 6. Segurança & Governança
 
@@ -151,7 +151,7 @@ Garantia de segurança, privacidade e conformidade com regulações.
 
 ### Em SE III (Senior)
 - Domina stack profundamente
-- Propõe e lidera melhorias significativas em arquitetura, performance ou qualidade
+- Propõe e lidera melhorias significativas em arquitetura, desempenho ou qualidade
 - Estabelece padrões técnicos no time
 - Referência técnica em pelo menos um subdomínio
 
@@ -191,4 +191,4 @@ Garantia de segurança, privacidade e conformidade com regulações.
 
 **Fazer Mais com Menos**: Simplicidade, eficiência, automação e reutilização reduzem desperdício e aumentam impacto.
 
-**Juntos!**: Compartilhamento de conhecimento, code reviews construtivas, elevação do nível técnico de toda equipe.
+**Juntos!**: Compartilhamento de conhecimento, revisões de código construtivas, elevação do nível técnico de toda equipe.

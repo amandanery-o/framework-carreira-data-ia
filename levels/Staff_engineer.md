@@ -12,7 +12,7 @@
 - Defino tanto o "o quê" quanto o "como" das coisas a serem feitas
 
 ### Collaborative Reach (Alcance colaborativo)
-- Estou cada vez mais influenciando os roadmaps de outros times para alcançar objetivos de impacto no negócio
+- Estou cada vez mais influenciando os roteiros de outros times para alcançar objetivos de impacto no negócio
 - Exerço julgamento que favorece as prioridades da org de engenharia mais ampla ao invés de resultados localmente ótimos
 
 ### Impact Levers (Alavancas de impacto)
@@ -57,7 +57,7 @@
 - Navego ambiguidade focando no propósito maior, objetivos e impacto desejado para avançar passo a passo
 
 ### Innovation (Inovação)
-- Empurro limites usando melhores práticas da indústria e feedback de clientes para gerar e implementar ideias breakthrough
+- Empurro limites usando melhores práticas da indústria e retroalimentação de clientes para gerar e implementar ideias breakthrough
 - Crio produtos novos ou avanço produtos existentes e conduzo nossas ferramentas para frente
 - Crio segurança psicológica e encorajo growth mindset com colegas
 - Apoio experimentação e iteração em direção a objetivos audaciosos
@@ -66,7 +66,7 @@
 - Quando necessário, consigo ajudar gestor a introduzir mudança na organização
 - Ajudo outros a entender o business case para mudança e crio entusiasmo para conduzir adoção
 - Defino estratégia de longo prazo para meu time que considera prioridades company-wide, necessidades dos clientes e limitações/possibilidades técnicas
-- Inspiro time e stakeholders cross-discipline a trabalhar em direção a essa estratégia
+- Inspiro time e partes interessadas cross-discipline a trabalhar em direção a essa estratégia
 - Antecipo desafios e consigo influenciar direção técnica do time/org para executar nessa visão mesmo diante de potencial desalinhamento significativo
 - Encontro formas novas e criativas de usar insights de clientes e incluir vozes de clientes para influenciar estratégia
 
@@ -75,18 +75,18 @@
 ## 🌳 Talent (Talento)
 
 ### Personal Growth (Crescimento pessoal)
-- Peço feedback proativamente daqueles com quem trabalho e identifico formas de agir sobre ele
+- Peço retroalimentação proativamente daqueles com quem trabalho e identifico formas de agir sobre ele
 - Tenho auto-consciência sobre minhas forças e tomo ações nas minhas áreas de desenvolvimento
 - Me conecto com outros com empatia e compreensão
 - Conduzo discussões com gestor sobre objetivos aspiracionais e busco oportunidades de aprendizado
 
 ### Team Development (Desenvolvimento do time)
-- Sou modelo para outros engenheiros e modelo um padrão de excelência que apoia cultura de alta performance
+- Sou modelo para outros engenheiros e modelo um padrão de excelência que apoia cultura de alta desempenho
 - Invisto tempo para coach e mentorar colegas (particularmente aqueles buscando crescer para Lead/Staff)
 - Levo em conta suas skills, backgrounds e estilos de trabalho
-- Ofereço feedback atencioso e construtivo
+- Ofereço retroalimentação atencioso e construtivo
 - Dedico tempo para espalhar conhecimento amplamente via talks, blog posts ou documentação escrita
-- Se solicitado, participo de sessões de calibração fornecendo feedback significativo para garantir decisões justas e consistentes
+- Se solicitado, participo de sessões de calibração fornecendo retroalimentação significativo para garantir decisões justas e consistentes
 - Sou participante ativo no processo de hiring para candidatos seniores e gestores
 - Ganho confiança de candidatos e represento missão, estratégia e cultura da empresa
 - Sou parceiro efetivo do gestor e consigo representar desafios técnicos do time para candidatos de forma empolgante
@@ -112,7 +112,7 @@
 ### Communication (Comunicação)
 - Adapto mensagem à audiência, apresentando claramente e concisamente na altitude certa
 - Se solicitado, escrevo narrativas claras para criar entendimento, influenciar outros e habilitar tomada de decisão efetiva
-- Ajusto fino minha abordagem para obter buy-in e influenciar stakeholders através de variedade de audiências
+- Ajusto fino minha abordagem para obter buy-in e influenciar partes interessadas através de variedade de audiências
 - Lidero pelo exemplo mantendo conversas cruciais mesmo quando desconfortáveis
 - Busco ouvir e entender outros
 
