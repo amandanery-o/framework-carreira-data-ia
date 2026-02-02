@@ -28,7 +28,7 @@ Capacidade de comunicar decisões técnicas, arquitetura e trade-offs de forma c
 - **Staff II-Principal**: Documenta e explica os projetos mais complicados de forma acessível a qualquer audiência
 
 **Métricas de sucesso:**
-- Número de design docs/RFCs escritos por quarter
+- Número de design docs/RFCs escritos por trimestre
 - Completeness score de documentação (target: >90%)
 - feedback positivo sobre clareza de comunicação
 - Redução de perguntas repetitivas (indicador de boa documentação)
@@ -126,7 +126,7 @@ Compartilhamento de conhecimento através de apresentações, palestras técnica
 - **Staff II-Principal**: Representa empresa externamente em conferências, constrói marca técnica
 
 **Métricas de sucesso:**
-- Número de apresentações internas por quarter
+- Número de apresentações internas por trimestre
 - Avaliação de qualidade das apresentações
 - Adoção de práticas apresentadas nos times
 - Engajamento em conteúdo publicado (quando externo)

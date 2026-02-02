@@ -26,9 +26,9 @@
 
 ## EXEMPLOS PRÁTICOS POR PILAR
 
-### 1. RESULTS (Resultados)
+### 1. Resultados
 
-#### Impact (Impacto)
+#### Impacto
 
 **Framework diz:**
 > "Compreendo profundamente o contexto de negócio e uso isso para maximizar impacto nas decisões técnicas"
@@ -46,7 +46,7 @@
 
 ---
 
-#### Ownership
+#### Responsabilidade
 
 **Framework diz:**
 > "Busco ativamente e elimino fontes de toil no time"
@@ -57,9 +57,9 @@
 
 ---
 
-### 2. DIRECTION (Direção)
+### 2. Direção
 
-#### Strategy (Estratégia)
+#### Estratégia
 
 **Framework diz:**
 > "Defino roadmap técnico para projetos impactantes de múltiplas fases"
@@ -78,9 +78,9 @@
 
 ---
 
-### 3. TALENT (Talento)
+### 3. Talento
 
-#### Team Development
+#### Desenvolvimento do Time
 
 **Framework diz:**
 > "Mentoro ativamente SE I/SE II, ajudando na evolução de hard e soft skills"
@@ -102,9 +102,9 @@
 
 ---
 
-### 4. CULTURE (Cultura)
+### 4. Cultura
 
-#### Communication
+#### Comunicação
 
 **Framework diz:**
 > "Comunico com clareza, adapto mensagem à audiência"

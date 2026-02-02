@@ -66,11 +66,11 @@ Direction, Talent, Culture) e demonstra operação consistente no nível SE III.
 - Melhorei métrica de negócio A em B%
 - Acelerei delivery de features em C dias
 
-#### 1.2 Ownership (Responsabilidade)
+#### 1.2 Responsabilidade (Responsabilidade)
 
 **Como assumi responsabilidade:**
 
-- **Exemplo 1**: [Situação onde assumi ownership além do esperado]
+- **Exemplo 1**: [Situação onde assumi responsabilidade além do esperado]
   - Contexto: 
   - Ação: 
   - Resultado: 
@@ -174,7 +174,7 @@ Direction, Talent, Culture) e demonstra operação consistente no nível SE III.
   - Comunidades: 
   - Leitura/pesquisa: 
 
-#### 3.2 Team Development (Desenvolvimento do time)
+#### 3.2 Desenvolvimento do Time (Desenvolvimento do time)
 
 **Como desenvolvi outras pessoas:**
 
@@ -239,7 +239,7 @@ Direction, Talent, Culture) e demonstra operação consistente no nível SE III.
 
 ---
 
-## 🛠️ Craft (Habilidades Técnicas)
+## 🛠️ Habilidades Técnicas
 
 > **Expectativa do próximo nível**: [Cole aqui trecho relevante da sua trilha técnica]
 
@@ -288,11 +288,11 @@ Liste as principais skills técnicas do próximo nível e evidências:
 [Cole feedback sobre sua capacidade técnica e liderança técnica]
 ```
 
-### Peers (Colegas)
+### Pares (Colegas)
 
 **Feedback de colaboração:**
 ```
-[Cole feedback de 2-3 peers sobre colaboração e impacto]
+[Cole feedback de 2-3 pares sobre colaboração e impacto]
 ```
 
 ### Cross-funcional (PM, Design, etc.)
@@ -304,7 +304,7 @@ Liste as principais skills técnicas do próximo nível e evidências:
 
 ---
 
-## 📈 Comparação com Peers do Próximo Nível
+## 📈 Comparação com Pares do Próximo Nível
 
 > **Seja honesto e objetivo**
 
@@ -357,7 +357,7 @@ Marque com ✅ se você tem evidências concretas:
 
 **Results (Resultados)**
 - [ ] Demonstro impacto consistente do próximo nível (3+ projetos)
-- [ ] Assumo ownership em escopo maior que meu nível atual
+- [ ] Assumo responsabilidade em escopo maior que meu nível atual
 - [ ] Tomo decisões apropriadas ao próximo nível
 
 **Direction (Direção)**
@@ -376,7 +376,7 @@ Marque com ✅ se você tem evidências concretas:
 - [ ] Comunico de forma clara e influente
 - [ ] Modelo valores da Gupy consistentemente
 
-**Craft (Técnico)**
+**Habilidade Técnica (Técnico)**
 - [ ] Domino as habilidades técnicas esperadas do próximo nível
 - [ ] Aplico skills avançadas em projetos reais com sucesso
 
@@ -386,7 +386,7 @@ Marque com ✅ se você tem evidências concretas:
 - [ ] Performance é consistente, não pontual
 
 **Comparação**
-- [ ] Meu desempenho é comparável a peers já no próximo nível
+- [ ] Meu desempenho é comparável a pares já no próximo nível
 - [ ] Gestor e skip-level concordam baseado em calibração
 
 ---

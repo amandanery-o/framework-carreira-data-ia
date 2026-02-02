@@ -66,7 +66,7 @@ Exercer influência técnica através de expertise, relacionamentos e liderança
 Construir e promover cultura de time saudável, colaborativa e de alto desempenho.
 
 **Comportamentos esperados:**
-- Promover ownership e accountability
+- Promover responsabilidade e prestação de contas
 - Construir segurança psicológica (espaço para errar e aprender)
 - Celebrar sucessos e aprender com falhas sem blame
 - Garantir inclusão e espaço para todas as vozes
@@ -76,7 +76,7 @@ Construir e promover cultura de time saudável, colaborativa e de alto desempenh
 **Evolução por nível:**
 - **SE I-II**: Contribui para ambiente positivo, está aberto a feedback, coopera com pares
 - **SE III**: Promove conflitos produtivos, ensina e aprende com time, ajuda a criar confiança
-- **Lead**: Constrói cultura de time saudável, promove ownership, conduz post-mortems blameless
+- **Lead**: Constrói cultura de time saudável, promove responsabilidade, conduz post-mortems blameless
 - **Staff**: Influencia cultura de múltiplos times, modela excelência técnica e colaboração
 - **Staff II-Principal**: Molda cultura técnica e identidade da organização
 
@@ -160,7 +160,7 @@ Liderar mudanças técnicas, processos e culturais, gerenciando resistência e c
 
 **Métricas de sucesso:**
 - Número de melhorias implementadas de retros (target: >70%)
-- Experimentos conduzidos por quarter
+- Experimentos conduzidos por trimestre
 - Impacto mensurável de transformações lideradas
 - Adoção organizacional de novos paradigmas propostos
 

@@ -1,6 +1,6 @@
 # Trilha Técnica – Data Engineering
 
-> Esta trilha foca exclusivamente em **habilidades técnicas (Craft)** para Data Engineers. Para competências comportamentais (Results, Direction, Talent, Culture), consulte os arquivos em [`/levels/`](../levels/).
+> Esta trilha foca exclusivamente em **habilidades técnicas (Habilidade Técnica)** para Data Engineers. Para competências comportamentais (Results, Direction, Talent, Culture), consulte os arquivos em [`/levels/`](../levels/).
 
 ---
 
@@ -229,7 +229,7 @@
 ### Expertise Profunda
 - Expert em pelo menos um domínio (ex: streaming, ML pipelines, data lakehouse)
 - Referência técnica para Data Engineers do time
-- Contribui para comunidade (blog posts, talks, open source)
+- Contribui para comunidade (blog posts, talks, código aberto)
 
 ---
 
@@ -283,8 +283,8 @@
 - Identifica tendências tecnológicas e posiciona empresa
 - Cria frameworks que transformam capacidades da empresa
 
-### Industry Leadership
-- Publica pesquisa, contribui para open source significativo
+### Liderança da Indústria
+- Publica pesquisa, contribui para código aberto significativo
 - Palestras em conferências principais
 - Representa empresa como líder de pensamento em dados
 
@@ -318,4 +318,4 @@
 5. **Pratique** através de projetos reais no time
 6. **Busque mentoria** de engineers mais seniores em áreas específicas
 
-**Lembre-se**: Craft técnico é importante, mas não é suficiente para promoção. Você também precisa demonstrar crescimento nas 4 dimensões: Results, Direction, Talent e Culture.
+**Lembre-se**: Habilidade Técnica técnico é importante, mas não é suficiente para promoção. Você também precisa demonstrar crescimento nas 4 dimensões: Results, Direction, Talent e Culture.

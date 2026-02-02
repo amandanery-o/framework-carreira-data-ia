@@ -30,7 +30,7 @@ Capacidade de traduzir objetivos em trabalho executável, priorizando o que gera
 
 **Métricas de sucesso:**
 - Sprint commitment accuracy (target: 80-90%)
-- Predictability de entregas quarter-over-quarter
+- Predictability de entregas trimestre-over-trimestre
 - Balanceamento: ~60-70% features, ~15-20% tech debt, ~15-20% sustentação
 
 ### 2. Gestão de Entrega
@@ -66,7 +66,7 @@ Garantia de que entregas mantêm alta barra de qualidade sem sacrificar velocida
 
 **Comportamentos esperados:**
 - Garantir qualidade mínima: testes, monitoramento, logs úteis
-- Promover cultura de ownership e reliability
+- Promover cultura de responsabilidade e reliability
 - Investir em práticas que melhoram qualidade sistematicamente
 - Realizar post-mortems focados em aprendizado
 - Celebrar melhorias de qualidade e reliability
@@ -80,7 +80,7 @@ Garantia de que entregas mantêm alta barra de qualidade sem sacrificar velocida
 
 **Métricas de sucesso:**
 - Production bugs per sprint (tendência decrescente)
-- Incident frequency e severity (target: <1 P0 por quarter)
+- Incident frequency e severity (target: <1 P0 por trimestre)
 - MTTR (target: <1h P0, <4h P1)
 - Code coverage (target: >80% para código crítico)
 
@@ -109,7 +109,7 @@ Identificação e gestão proativa de dependências, mantendo stakeholders alinh
 - Stakeholder satisfaction (target: >4/5)
 - Número de surpresas negativas para leadership (target: próximo a 0)
 
-### 5. Ownership & Responsabilidade
+### 5. Responsabilidade & Responsabilidade
 
 **O que é:**
 Atuar com senso de dono sobre resultados, não apenas tarefas.
@@ -124,7 +124,7 @@ Atuar com senso de dono sobre resultados, não apenas tarefas.
 
 **Evolução por nível:**
 - **SE I-II**: Responsável por tarefas, pede ajuda quando precisa, cumpre combinados
-- **SE III**: Responsável por projetos end-to-end, age com ownership
+- **SE III**: Responsável por projetos end-to-end, age com responsabilidade
 - **Lead**: Responsável por entregas e saúde técnica do time
 - **Staff**: Responsável por sistemas críticos e iniciativas estratégicas
 - **Staff II-Principal**: Responsável por visão técnica e execução de estratégia organizacional

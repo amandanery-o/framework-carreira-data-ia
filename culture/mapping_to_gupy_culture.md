@@ -128,9 +128,9 @@
 |------------|----------------------|---------|
 | **Obsessão pelo Cliente** | Results (Impact, Decision Making) | Decisões técnicas orientadas por valor ao cliente |
 | **Paixão por Inovar** | Direction (Innovation, Strategy) | Experimentação e melhoria contínua |
-| **Agilidade para Resultado** | Results (Impact, Ownership) | Entrega consistente com qualidade |
+| **Agilidade para Resultado** | Results (Impact, Responsabilidade) | Entrega consistente com qualidade |
 | **Fazer Mais com Menos** | Results, Direction (Strategy) | Eficiência, simplicidade, otimização |
-| **Juntos!** | Talent, Culture (Collaboration, Team Development) | Desenvolvimento de pessoas e trabalho colaborativo |
+| **Juntos!** | Talent, Culture (Collaboration, Desenvolvimento do Time) | Desenvolvimento de pessoas e trabalho colaborativo |
 
 ---
 

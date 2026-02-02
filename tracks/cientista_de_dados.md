@@ -1,17 +1,17 @@
 # Trilha Técnica – Cientista de Dados (Data Scientist / ML Engineer)
 
-> Esta trilha foca exclusivamente em **habilidades técnicas (Craft)** para Cientistas de Dados e ML Engineers. Para competências comportamentais (Results, Direction, Talent, Culture), consulte os arquivos em [`/levels/`](../levels/).
+> Esta trilha foca exclusivamente em **habilidades técnicas (Habilidade Técnica)** para Cientistas de Dados e ML Engineers. Para competências comportamentais (Results, Direction, Talent, Culture), consulte os arquivos em [`/levels/`](../levels/).
 
 ---
 
 ## Visão Geral
 
-**Cientistas de Dados** são responsáveis por construir modelos de Machine Learning, sistemas de IA, experimentação e análises avançadas que geram valor de negócio. Consolidam expertise de **AI Engineering** (soluções de IA/LLM) e **MLOps/DRE** (operação e confiabilidade de ML).
+**Cientistas de Dados** são responsáveis por construir modelos de Machine Aprendizado, sistemas de IA, experimentação e análises avançadas que geram valor de negócio. Consolidam expertise de **AI Engineering** (soluções de IA/LLM) e **MLOps/DRE** (operação e confiabilidade de ML).
 
 ### Tech Stack & Tools
 - **Languages**: Python (expert), SQL (avançado), R (opcional)
 - **ML Frameworks**: scikit-learn, XGBoost, LightGBM
-- **Deep Learning**: PyTorch, TensorFlow, Keras
+- **Deep Aprendizado**: PyTorch, TensorFlow, Keras
 - **GenAI/LLM**: OpenAI API, LangChain, LlamaIndex, Anthropic
 - **Embeddings & Vector DBs**: OpenAI embeddings, Pinecone, Chroma, Weaviate
 - **MLOps**: MLflow, Weights & Biases, Vertex AI
@@ -49,7 +49,7 @@
 - Conhece **distribuições** básicas (normal, binomial)
 - Aplica **testes de hipótese** simples (t-test, chi-square)
 
-### Machine Learning Básico
+### Machine Aprendizado Básico
 - Entende conceitos fundamentais: 
   - **Supervised** vs **Unsupervised** learning
   - **Regression** vs **Classification**
@@ -85,7 +85,7 @@
 - Implementa pipelines (sklearn Pipeline)
 - Trabalha com APIs para deploy de modelos
 
-### Machine Learning (SE I+)
+### Machine Aprendizado (SE I+)
 - Domina **feature engineering**:
   - Encoding categóricos (one-hot, target, embedding)
   - Scaling/normalization
@@ -132,7 +132,7 @@
 - Define estratégia de experimentação
 - Implementa MLOps end-to-end
 
-### Machine Learning Avançado (SE II+)
+### Machine Aprendizado Avançado (SE II+)
 - Expert em algoritmos e quando usar cada um
 - Domina **ensemble methods** (stacking, blending)
 - Implementa **custom loss functions**
@@ -141,7 +141,7 @@
 - Implementa **recommendation systems**
 - Conhece **anomaly detection** methods
 
-### Deep Learning
+### Deep Aprendizado
 - Treina redes neurais com **PyTorch** ou **TensorFlow**
 - Implementa **architectures**:
   - MLP (Multilayer Perceptron)
@@ -247,7 +247,7 @@
 
 ### Expertise Profunda
 - Expert em domínio específico (NLP, Computer Vision, Recommender Systems, etc.)
-- Contribui para open source (libraries, papers)
+- Contribui para código aberto (libraries, papers)
 - Referência técnica em ML/IA
 
 ---
@@ -301,10 +301,10 @@
 ### Research & Innovation
 - Publica **research papers** em conferências (NeurIPS, ICML, ICLR, etc.)
 - Cria **novel algorithms** ou **architectures**
-- Contribui significativamente para **open source** (frameworks influentes)
+- Contribui significativamente para **código aberto** (frameworks influentes)
 - **Patents** em ML/IA
 
-### Industry Leadership
+### Liderança da Indústria
 - Keynotes em conferências principais
 - Advisory para startups ou investidores
 - Representa empresa como líder em ML/IA
@@ -314,9 +314,9 @@
 ## 📚 Recursos de Aprendizado
 
 ### Fundamentos
-- **[Coursera: Machine Learning (Andrew Ng)](https://www.coursera.org/learn/machine-learning)** - Clássico
-- **[Fast.ai](https://www.fast.ai/)** - Practical Deep Learning
-- **[Kaggle Learn](https://www.kaggle.com/learn)** - Hands-on courses
+- **[Coursera: Machine Aprendizado (Andrew Ng)](https://www.coursera.org/learn/machine-learning)** - Clássico
+- **[Fast.ai](https://www.fast.ai/)** - Practical Deep Aprendizado
+- **[Kaggle Learn](https://www.kaggle.com/learn)** - Prático courses
 
 ### Intermediário/Avançado
 - **[Made With ML](https://madewithml.com/)** - MLOps e Engineering
@@ -329,13 +329,13 @@
 - **[Prompt Engineering Guide](https://www.promptingguide.ai/)** - Comprehensive
 
 ### Livros
-- **Hands-On Machine Learning (Aurélien Géron)** - Prático
-- **Deep Learning (Goodfellow, Bengio, Courville)** - Teórico
-- **Designing Machine Learning Systems (Chip Huyen)** - MLOps
+- **Hands-On Machine Aprendizado (Aurélien Géron)** - Prático
+- **Deep Aprendizado (Goodfellow, Bengio, Courville)** - Teórico
+- **Designing Machine Aprendizado Systems (Chip Huyen)** - MLOps
 
 ### Certificações
 - **Google Cloud Professional ML Engineer**
-- **AWS Certified Machine Learning – Specialty**
+- **AWS Certified Machine Aprendizado – Specialty**
 - **TensorFlow Developer Certificate**
 
 ---
@@ -345,7 +345,7 @@
 1. **Identifique seu nível atual** nos arquivos de `/levels/`
 2. **Compare** suas habilidades de ML, DL, GenAI com as expectativas
 3. **Identifique gaps**:
-   - Preciso aprender Deep Learning?
+   - Preciso aprender Deep Aprendizado?
    - Preciso dominar RAG e LLMs?
    - Preciso entender MLOps melhor?
 4. **Crie plano de desenvolvimento**:

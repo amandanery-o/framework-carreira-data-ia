@@ -24,9 +24,9 @@ Garantir que decisões de promoção sejam:
 2. ✅ **Colete feedback** de múltiplas fontes:
    - Gestor direto (você)
    - Tech Lead / Staff Engineer
-   - 2-3 peers
+   - 2-3 pares
    - 1-2 stakeholders cross-funcionais
-3. ✅ **Compare com peers do próximo nível**:
+3. ✅ **Compare com pares do próximo nível**:
    - A pessoa performa similarmente a quem já está no próximo nível?
    - Liste 2-3 pessoas do próximo nível como benchmark
 4. ✅ **Valide consistência temporal**:
@@ -65,7 +65,7 @@ Garantir que decisões de promoção sejam:
 **1. Apresentação do Gestor (5-7 min)**
 - Resumo executivo do caso
 - Highlights das 4 dimensões
-- Comparação com peers do próximo nível
+- Comparação com pares do próximo nível
 - Consistência temporal
 
 **2. Perguntas Clarificadoras (3-5 min)**
@@ -100,24 +100,24 @@ Use esta rubrica para avaliar cada dimensão:
 
 Para cada candidato, avalie cada dimensão:
 
-#### 🏆 Results (Resultados)
+#### 🏆 Resultados
 
 **Perguntas-chave:**
 - O impacto é proporcional ao próximo nível? (escopo, complexidade, autonomia)
-- Ownership é maior que o esperado para nível atual?
+- Responsabilidade é maior que o esperado para nível atual?
 - Decisões são apropriadas ao próximo nível?
 
 **Sinais de PRONTO** ✅:
 - 3+ projetos demonstrando impacto do próximo nível
-- Assume ownership proativamente em escopo maior
+- Assume responsabilidade proativamente em escopo maior
 - Toma decisões corretas sem precisar escalar
 
 **Red flags** 🚩:
 - Impacto limitado ao escopo do nível atual
-- Espera direção para assumir ownership
+- Espera direção para assumir responsabilidade
 - Decisões frequentemente revertidas ou incorretas
 
-#### 🌟 Direction (Direção)
+#### 🌟 Direção
 
 **Perguntas-chave:**
 - Navega ambiguidade apropriadamente para o próximo nível?
@@ -134,7 +134,7 @@ Para cada candidato, avalie cada dimensão:
 - Inovação é incremental ou superficial
 - Foco apenas no curto prazo
 
-#### 🌳 Talent (Talento)
+#### 🌳 Talento
 
 **Perguntas-chave:**
 - Crescimento técnico/profissional é significativo?
@@ -151,7 +151,7 @@ Para cada candidato, avalie cada dimensão:
 - Não mentora ou mentoria é inefetiva
 - Resistente a feedback
 
-#### 🌈 Culture (Cultura)
+#### 🌈 Cultura
 
 **Perguntas-chave:**
 - Colaboração é efetiva com múltiplos stakeholders?
@@ -169,7 +169,7 @@ Para cada candidato, avalie cada dimensão:
 - Contribui negativamente para cultura
 - Comunicação confusa ou inefetiva
 
-#### 🛠️ Craft (Técnico)
+#### 🛠️ Habilidade Técnica (Técnico)
 
 **Perguntas-chave:**
 - Domina habilidades técnicas do próximo nível?
@@ -179,7 +179,7 @@ Para cada candidato, avalie cada dimensão:
 **Sinais de PRONTO** ✅:
 - Domínio claro de skills técnicas do próximo nível
 - Evidências em projetos reais (não apenas cursos)
-- Peers reconhecem expertise
+- Pares reconhecem expertise
 
 **Red flags** 🚩:
 - Gaps técnicos significativos
@@ -194,24 +194,24 @@ Para cada candidato, avalie cada dimensão:
 
 #### Critério 1: Performance nas 4 Dimensões
 - [ ] **Todas as 4 dimensões** avaliadas como 🟢 Pronto ou 🟢+ Excede
-- [ ] Craft técnico compatível com próximo nível
+- [ ] Habilidade Técnica técnico compatível com próximo nível
 - [ ] Nenhuma dimensão avaliada como 🔴 Não Pronto
 
-> ⚠️ **Importante**: Excelência técnica (Craft) sozinha NÃO é suficiente. Todas as dimensões importam igualmente.
+> ⚠️ **Importante**: Excelência técnica (Habilidade Técnica) sozinha NÃO é suficiente. Todas as dimensões importam igualmente.
 
 #### Critério 2: Consistência Temporal
 - [ ] Mínimo **6 meses** demonstrando capacidades do próximo nível
 - [ ] Evidências em **múltiplos projetos** (não apenas 1-2)
 - [ ] Performance **consistente**, não pontual
 
-#### Critério 3: Comparação com Peers
+#### Critério 3: Comparação com Pares
 - [ ] Performance é **comparável** a pessoas já no próximo nível
 - [ ] Passa no "teste do cheiro": "Se eu não soubesse o nível desta pessoa, em que nível eu a colocaria?"
 
 #### Critério 4: Feedback Multi-Fonte
 - [ ] Gestor direto apoia fortemente
 - [ ] Tech Lead / Staff Engineer confirma capacidade técnica
-- [ ] Peers reconhecem colaboração e impacto
+- [ ] Pares reconhecem colaboração e impacto
 - [ ] Stakeholders confirmam valor entregue
 
 #### Critério 5: Sem Red Flags Críticos
@@ -233,7 +233,7 @@ Para cada candidato, avalie cada dimensão:
 - Feedback claro sobre o que precisa
 
 ### Cenário 2: "Forte em algumas dimensões, fraco em outras"
-**Situação**: Excelente em Results e Craft, mas gaps em Talent ou Culture.
+**Situação**: Excelente em Results e Habilidade Técnica, mas gaps em Talent ou Culture.
 
 **Decisão**: 🟡 Não promover ainda  
 **Ação**:
@@ -259,12 +259,12 @@ Para cada candidato, avalie cada dimensão:
 - Focar em crescer no nível atual
 - Considerar em 12-18 meses
 
-### Cenário 5: "Falta comparação com peers"
-**Situação**: Performance parece boa isoladamente, mas não há comparação com peers do próximo nível.
+### Cenário 5: "Falta comparação com pares"
+**Situação**: Performance parece boa isoladamente, mas não há comparação com pares do próximo nível.
 
 **Decisão**: 🟡 Adiar decisão  
 **Ação**:
-- Gestor deve fazer benchmark com peers
+- Gestor deve fazer benchmark com pares
 - Trazer evidências comparativas
 - Reagendar calibração
 
@@ -280,7 +280,7 @@ Para cada candidato, avalie cada dimensão:
 
 **Mantenha foco em evidências:**
 - "O que vimos de concreto que demonstra capacidade do próximo nível?"
-- "Como isso se compara com [peer do próximo nível]?"
+- "Como isso se compara com [par do próximo nível]?"
 
 **Faça perguntas difíceis:**
 - "Se essa pessoa não fosse do seu time, você ainda recomendaria a promoção?"
@@ -317,7 +317,7 @@ Para cada candidato, avalie cada dimensão:
 
 Use esta tabela para comparar candidatos:
 
-| Nome | Nível Atual → Proposto | Results | Direction | Talent | Culture | Craft | Tempo demonstrando | Recomendação |
+| Nome | Nível Atual → Proposto | Results | Direction | Talent | Culture | Habilidade Técnica | Tempo demonstrando | Recomendação |
 |------|----------------------|---------|-----------|--------|---------|-------|-------------------|--------------|
 | [Nome] | SE II → SE III | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 8 meses | Promover |
 | [Nome] | SE II → SE III | 🟢 | 🟡 | 🟢 | 🟢 | 🟢 | 4 meses | Aguardar 3 meses |
@@ -327,7 +327,7 @@ Use esta tabela para comparar candidatos:
 
 **Results:**
 - Qual foi o projeto de maior impacto? Como se compara ao próximo nível?
-- Como a pessoa lida com ownership quando as coisas dão errado?
+- Como a pessoa lida com responsabilidade quando as coisas dão errado?
 - Que decisões críticas tomou? Foram as decisões certas?
 
 **Direction:**
@@ -345,7 +345,7 @@ Use esta tabela para comparar candidatos:
 - Que contribuições fez para cultura do time?
 - Como comunica com diferentes audiências?
 
-**Craft:**
+**Habilidade Técnica:**
 - Quais são as habilidades técnicas mais fortes?
 - Onde ainda tem gaps técnicos?
 - Como resolve problemas técnicos complexos?
@@ -370,7 +370,7 @@ Parabéns! Após sessão de calibração, aprovamos sua promoção para [nível]
 Esta decisão foi baseada em:
 - [Resumo das evidências]
 - Demonstração consistente das 4 dimensões
-- Comparação positiva com peers do próximo nível
+- Comparação positiva com pares do próximo nível
 
 Próximos passos:
 - [Timeline de efetivação]
@@ -420,7 +420,7 @@ Você está no caminho certo, só precisamos de mais tempo e evidências.
 
 3. **Colete evidências continuamente**: Não espere até a calibração. Documente ao longo do ano.
 
-4. **Compare frequentemente**: Calibre informalmente com peers ao longo do ano.
+4. **Compare frequentemente**: Calibre informalmente com pares ao longo do ano.
 
 5. **Dê feedback contínuo**: Não guarde surpresas para a calibração.
 
@@ -474,7 +474,7 @@ Você está no caminho certo, só precisamos de mais tempo e evidências.
 
 ### 8. "False Comparisons"
 ❌ **Erro**: Comparar apenas com time próprio  
-✅ **Correto**: Comparar com peers cross-time do próximo nível
+✅ **Correto**: Comparar com pares cross-time do próximo nível
 
 ---
 

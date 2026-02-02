@@ -1,6 +1,6 @@
 # Trilha Técnica – Analytics Engineering
 
-> Esta trilha foca exclusivamente em **habilidades técnicas (Craft)** para Analytics Engineers. Para competências comportamentais (Results, Direction, Talent, Culture), consulte os arquivos em [`/levels/`](../levels/).
+> Esta trilha foca exclusivamente em **habilidades técnicas (Habilidade Técnica)** para Analytics Engineers. Para competências comportamentais (Results, Direction, Talent, Culture), consulte os arquivos em [`/levels/`](../levels/).
 
 ---
 
@@ -222,7 +222,7 @@
 ### Expertise Profunda
 - Expert em modelagem dimensional (Kimball, Data Vault)
 - Referência em dbt avançado (macros, packages, performance)
-- Contribui para comunidade (blog posts, dbt packages open source)
+- Contribui para comunidade (blog posts, dbt packages código aberto)
 
 ---
 
@@ -271,8 +271,8 @@
 - Influencia decisões de build vs buy para analytics stack
 - Alinha analytics strategy com estratégia de negócio
 
-### Industry Leadership
-- Contribui para dbt open source ou cria ferramentas influentes
+### Liderança da Indústria
+- Contribui para dbt código aberto ou cria ferramentas influentes
 - Palestras em conferências (Coalesce, dbt Meetups)
 - Publica artigos técnicos influentes
 - Define o que é state-of-the-art em analytics engineering

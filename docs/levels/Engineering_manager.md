@@ -6,17 +6,17 @@
 
 ## 📋 Definição do Papel
 
-### Scope (Escopo de atuação)
+### Escopo de Atuação
 - Responsável pelo desenvolvimento, bem-estar e desempenho de um time de engenharia (5-10 pessoas)
 - Garanto que o time entregue valor de forma sustentável
 - Accountable pelos resultados do time e pela saúde organizacional
 
-### Collaborative Reach (Alcance colaborativo)
+### Alcance Colaborativo
 - Trabalho com meu time direto, Tech Lead (se houver), e partes interessadas (PM, Design, etc.)
 - Colaboro com outros Engineering Managers e Senior Leadership
 - Influencio práticas e cultura além do meu time
 
-### Impact Levers (Alavancas de impacto)
+### Alavancas de Impacto
 - **People Development** - Desenvolvo pessoas através de coaching, feedback e oportunidades
 - **Team desempenho** - Garanto entregas consistentes e de qualidade
 - **Organizational Health** - Construo cultura de time saudável e de alto desempenho
@@ -31,25 +31,25 @@
 
 1. **People First** - O time é seu produto principal
 2. **Servant Leadership** - Você existe para servir e desbloquear o time
-3. **Accountability** - Você responde pelos resultados, o time recebe o crédito
+3. **Prestação de Contas** - Você responde pelos resultados, o time recebe o crédito
 4. **Context over Control** - Provê contexto para decisões autônomas
 5. **Sustainable desempenho** - Resultados de longo prazo, não sprints heroicos
 
 ---
 
-## 🏆 Results (Resultados)
+## 🏆 Resultados
 
-### Impact (Impacto)
+### Impacto
 - Entrego valor de negócio consistente através de entregas do time
 - Garanto que o time atinja objetivos trimestrais/anuais com qualidade
 - Traduzo estratégia de produto/negócio em planos executáveis
 - Meço e comunico impacto do time em métricas de negócio
 - Identifico e removo impedimentos que bloqueiam progresso
-- Mantenho predictabilidade de entregas quarter-over-quarter
+- Mantenho predictabilidade de entregas trimestre-over-trimestre
 - Balanço velocidade com sustentabilidade (evito burnout do time)
 
-### Ownership (Responsabilidade)
-- Assumo accountability total por resultados, desempenho e saúde do time
+### Responsabilidade
+- Assumo prestação de contas total por resultados, desempenho e saúde do time
 - Possuo decisões difíceis (contratação, promoção, desempenho issues, desligamentos)
 - Gerencio capacidade do time realisticamente evitando over-commitment
 - Protejo time de thrash e mudanças constantes de prioridade
@@ -57,8 +57,8 @@
 - Garanto que o time mantém barra alta de qualidade sem sacrificar velocidade
 - Escalo problemas críticos apropriadamente (timing certo, contexto completo)
 
-### Decision Making (Tomada de decisão)
-- Tomo decisões de people management (promoções, PIPs, compensação)
+### Tomada de Decisão
+- Tomo decisões de gestão de pessoas (promoções, PIPs, compensação)
 - Balanço necessidades individuais com necessidades do time e negócio
 - Decido prioridades em colaboração com PM e Tech Lead
 - Gerencio trade-offs de escopo, qualidade e timeline
@@ -68,16 +68,16 @@
 
 ---
 
-## 🌟 Direction (Direção)
+## 🌟 Direção
 
-### Agility (Agilidade)
+### Agilidade
 - Adapto planos rapidamente baseado em mudanças de estratégia ou mercado
 - Mantenho time focado e produtivo mesmo em períodos de mudança
 - Facilito decisões rápidas quando necessário
 - Rebalanceio prioridades e capacidade dinamicamente
 - Comunico mudanças de forma clara e com contexto
 
-### Innovation (Inovação)
+### Inovação
 - Promovo cultura de experimentação, aprendizado e melhoria contínua
 - Crio espaço para time explorar novas tecnologias e abordagens
 - Implemento melhorias em processos e práticas baseado em feedback
@@ -85,7 +85,7 @@
 - Celebro aprendizados, incluindo "falhas inteligentes"
 - Ajo em action items de retrospectivas consistentemente
 
-### Strategy (Estratégia)
+### Estratégia
 - Defino e comunico visão clara de médio-longo prazo (6-18 meses) para o time
 - Alineo visão do time com estratégia de produto e objetivos de negócio
 - Traduzo estratégia em roadmap executável com milestones claros
@@ -96,17 +96,17 @@
 
 ---
 
-## 🌳 Talent (Talento)
+## 🌳 Talento
 
-### Personal Growth (Crescimento pessoal)
-- Busco feedback de meu time, peers e liderança sobre minha gestão
+### Crescimento Pessoal
+- Busco feedback de meu time, pares e liderança sobre minha gestão
 - Reflito sobre decisões e aprendo continuamente
 - Invisto em desenvolvimento como líder (leitura, cursos, coaching)
 - Mantenho network de outros EMs para aprender e compartilhar
 - Reconheço minhas limitações e busco suporte quando necessário
 - Modelo humildade e aprendizado contínuo
 
-### Team Development (Desenvolvimento do time)
+### Desenvolvimento do Time
 
 #### Desenvolvimento Individual & Crescimento de Carreira
 - **Entendo aspirações, forças e áreas de desenvolvimento** de cada membro do time
@@ -160,9 +160,9 @@
 
 ---
 
-## 🌈 Culture (Cultura)
+## 🌈 Cultura
 
-### Collaboration (Colaboração)
+### Colaboração
 - Trabalho efetivamente com Tech Lead (se houver) na saúde técnica e do time
 - Colaboro próximo com Product Manager para alinhar produto e engenharia
 - Construo relacionamentos produtivos com partes interessadas (Design, Data, Marketing, etc.)
@@ -171,7 +171,7 @@
 - Negocia trade-offs de forma colaborativa, não adversarial
 - Facilita comunicação efetiva dentro e fora do time
 
-### Organizational Health (Saúde organizacional)
+### Saúde Organizacional
 - Construo **cultura de time positiva, inclusiva e de alto desempenho**
 - Habilito outros a trazerem seus eus autênticos ao trabalho
 - Garanto que **perspectivas diversas** sejam incluídas e valorizadas
@@ -181,7 +181,7 @@
 - Identifica e endereça problemas culturais ou interpessoais proativamente
 - Aja como role model de liderança para outros
 
-### Communication (Comunicação)
+### Comunicação
 
 #### Comunicação com o Time
 - Comunico de forma **clara, transparente e frequente**
@@ -205,7 +205,7 @@
 - Construo relacionamentos produtivos com partes interessadas
 - Representa engenharia em discussões multidisciplinares
 
-### Culture Leader (Liderança cultural)
+### Liderança Cultural
 - Modelo valores da Gupy consistentemente em todas as ações
 - Construo ambiente de segurança psicológica, confiança e colaboração
 - Defendo valores mesmo quando difícil
@@ -239,7 +239,7 @@
 
 ### 1. Planejamento & Priorização
 - Traduzir estratégia de produto/negócio em planos executáveis
-- Facilitar planejamento colaborativo (sprints, quarters)
+- Facilitar planejamento colaborativo (sprints, trimestres)
 - Balancear features (60-70%), débito técnico (15-20%), sustentação (15-20%)
 - Gerenciar capacidade realisticamente evitando over-commitment
 - Proteger time de thrash e mudanças de prioridade
@@ -255,7 +255,7 @@
 
 ### 3. Gestão de Qualidade & Excelência Operacional
 - Garantir barra alta de qualidade sem sacrificar velocidade
-- Promover cultura de ownership e reliability
+- Promover cultura de responsabilidade e reliability
 - Monitorar métricas de qualidade (bugs, incidents, tech debt)
 - Participar de post-mortems e garantir follow-up
 
@@ -274,7 +274,7 @@
 ### 6. Gestão de Recursos & Capacidade
 - Planejar capacidade considerando férias, sustentação, etc.
 - Identificar gaps e propor soluções (hiring, redistribuição)
-- Manter capacity planning atualizado (2-3 quarters)
+- Manter capacity planning atualizado (2-3 trimestres)
 - Identificar necessidade de hiring com 3-6 meses antecedência
 
 ---
@@ -282,7 +282,7 @@
 ## 🎯 Conexão com a Cultura Gupy
 
 ### 🎯 Obsessão pelo Cliente
-Conecto desenvolvimento do time e decisões de people management ao impacto em clientes e valor gerado para o negócio.
+Conecto desenvolvimento do time e decisões de gestão de pessoas ao impacto em clientes e valor gerado para o negócio.
 
 ### 💡 Paixão por Inovar
 Promovo experimentação segura, aprendizado contínuo, feedback e melhoria constante na forma como o time trabalha.
@@ -303,22 +303,22 @@ Construo ambiente de segurança psicológica, confiança, colaboração e cresci
 | Aspecto | Tech Lead | **Engineering Manager** |
 |---------|-----------|-------------------------|
 | **Foco Principal** | Direção técnica + execução | **Pessoas + processos + resultados** |
-| **Gestão Formal** | Não (liderança técnica) | **Sim (people management)** |
-| **Hands-on Código** | 50-70% | **Pouco ou nenhum** |
+| **Gestão Formal** | Não (liderança técnica) | **Sim (gestão de pessoas)** |
+| **Prático Código** | 50-70% | **Pouco ou nenhum** |
 | **Responsabilidade** | Entrega e qualidade técnica | **desempenho, crescimento, engajamento** |
 | **1:1s** | Técnicos (mentoria) | **Carreira, desenvolvimento, feedback** |
 | **Decisões** | Técnicas (arquitetura, tech) | **People (promoções, PIPs, hiring)** |
 | **Avaliações** | Contribui tecnicamente | **Conduz desempenho reviews** |
 | **Crescimento Time** | Desenvolve tecnicamente | **Desenvolve profissionalmente (PDIs)** |
-| **Track** | Management Track (liderança técnica) | **Management Track** |
+| **Track** | Trilha de Gestão (liderança técnica) | **Trilha de Gestão** |
 | **Reporta a** | Engineering Manager | **Senior EM / Head / Director** |
 
 **Engineering Manager** é para quem quer:
 - ✅ Desenvolver pessoas e construir times de alta desempenho
-- ✅ Fazer gestão formal de people management (1:1s, PDIs, reviews, promoções)
+- ✅ Fazer gestão formal de gestão de pessoas (1:1s, PDIs, reviews, promoções)
 - ✅ Criar ambiente onde engenheiros prosperam
 - ✅ Impactar negócio através de resultados do time
-- ❌ **Não** manter hands-on significativo em código
+- ❌ **Não** manter prático significativo em código
 
 ---
 
@@ -334,7 +334,7 @@ Construo ambiente de segurança psicológica, confiança, colaboração e cresci
 
 ### 🚀 Entrega
 - **sprint commitment accuracy**: 80-90%
-- **Predictability quarter-over-quarter**: variação <20%
+- **Predictability trimestre-over-trimestre**: variação <20%
 - **Velocity**: estável e sustentável (não crescente artificialmente)
 - **Quality metrics**: bugs, incidents em tendência saudável
 - **Balanceamento**: ~60-70% features, ~15-20% tech debt, ~15-20% sustentação
