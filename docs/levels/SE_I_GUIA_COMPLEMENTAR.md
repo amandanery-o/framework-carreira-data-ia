@@ -24,9 +24,9 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 
 ## EXEMPLOS PRÁTICOS POR PILAR
 
-### 1. RESULTS (Resultados)
+### 1. Resultados
 
-#### Impact (Impacto)
+#### Impacto
 
 **Framework diz:**
 > "Entrego tarefas simples e bem definidas dentro do prazo acordado"
@@ -44,7 +44,7 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 
 ---
 
-#### Ownership
+#### Responsabilidade
 
 **Framework diz:**
 > "Sinalizo impedimentos e bloqueios proativamente"
@@ -63,9 +63,9 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 
 ---
 
-### 2. DIRECTION (Direção)
+### 2. Direção
 
-#### Agility (Agilidade)
+#### Agilidade
 
 **Framework diz:**
 > "Mantenho foco nas tarefas mesmo com ambiguidade, pedindo clarificação quando necessário"
@@ -77,7 +77,7 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 
 ---
 
-#### Innovation
+#### Inovação
 
 **Framework diz:**
 > "Faço sugestões de pequenas melhorias no meu escopo de trabalho"
@@ -89,9 +89,9 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 
 ---
 
-### 3. TALENT (Talento)
+### 3. Talento
 
-#### Personal Growth
+#### Crescimento Pessoal
 
 **Framework diz:**
 > "Busco feedback ativamente e ajo sobre ele"
@@ -111,14 +111,14 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 
 ---
 
-### 4. CULTURE (Cultura)
+### 4. Cultura
 
-#### Communication
+#### Comunicação
 
 **Framework diz:**
 > "Comunico status e impedimentos com clareza e objetividade"
 
-**Na prática - diária reunião diária:**
+**Na prática - reunião diária:**
 ```
 ❌ "Tô trabalhando na task"
 
