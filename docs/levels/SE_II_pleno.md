@@ -1,4 +1,3 @@
-# Software Engineer II - Pleno (SE II)
 
 > **"Consigo conduzir entregas e decisões técnicas relevantes dentro das iniciativas do squad, do design ao lançamento, atuando com autonomia e apoio do Tech Lead e de pares mais seniores."**
 

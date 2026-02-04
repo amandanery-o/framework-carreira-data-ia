@@ -1,4 +1,3 @@
-# Engineering Manager (EM)
 
 > **"Eu desenvolvo pessoas e construo um time que entrega sem se esgotar"**
 

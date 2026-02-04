@@ -1,4 +1,3 @@
-# Principal Engineer
 
 > **"Eu estabeleço direção técnica para a empresa e destravo impacto em escala"**
 

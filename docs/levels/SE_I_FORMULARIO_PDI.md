@@ -1,4 +1,3 @@
-# Acompanhamento de Jornada & PDI: SE I
 
 Este formulário serve para alinharmos as expectativas do seu nível (SE I) e mapearmos os próximos passos do seu desenvolvimento para os próximos meses.
 

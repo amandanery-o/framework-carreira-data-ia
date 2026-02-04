@@ -1,4 +1,3 @@
-# Staff Engineer (Staff I)
 
 > **"Eu defino direção técnica de longo prazo e faço isso acontecer com o time"**
 

@@ -1,4 +1,3 @@
-# Tech Lead (TL)
 
 > **"Eu lidero tecnicamente um time e destravo entregas com qualidade e clareza"**
 

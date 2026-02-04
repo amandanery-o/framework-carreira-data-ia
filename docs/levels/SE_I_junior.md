@@ -1,4 +1,3 @@
-# Software Engineer I - Junior (SE I)
 
 > **"Eu entrego tarefas com qualidade e ganho autonomia com apoio do time"**
 

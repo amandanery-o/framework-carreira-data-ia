@@ -1,4 +1,3 @@
-# Lead Engineer
 
 > **"Eu entrego impacto contínuo guiando decisões técnicas que mudam o jogo do time"**
 

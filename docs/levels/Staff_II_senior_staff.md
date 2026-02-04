@@ -1,4 +1,3 @@
-# Staff II Engineer (Senior Staff)
 
 > **"Eu defino e conduzo estratégia técnica de longo prazo para múltiplos times e domínios"**
 

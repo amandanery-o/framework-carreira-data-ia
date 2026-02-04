@@ -1,4 +1,3 @@
-# Software Engineer III - Senior (SE III)
 
 > **"Atuo como referência técnica em problemas complexos e ambíguos, influenciando decisões que geram impacto claro e sustentável para o negócio."**
 
