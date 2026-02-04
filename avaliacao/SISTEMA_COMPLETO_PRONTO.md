@@ -1,5 +1,3 @@
-# 🎉 SISTEMA COMPLETO DE AVALIAÇÃO 360º - PRONTO!
-
 > Amanda, criei um sistema completo e funcional para você! Aqui está tudo resumido.
 
 ---

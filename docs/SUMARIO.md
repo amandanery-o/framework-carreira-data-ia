@@ -1,5 +1,3 @@
-# 📚 Sumário - Data & AI Engineering Career Ladder
-
 > Framework completo de carreira baseado em 4 dimensões de impacto
 
 ---

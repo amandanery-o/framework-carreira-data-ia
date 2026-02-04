@@ -1,5 +1,3 @@
-# 🔄 Setup: Sincronização Automática com Confluence
-
 Este guia configura a sincronização automática: **sempre que você fizer push no git, o Confluence será atualizado automaticamente!**
 
 ---

@@ -1,5 +1,3 @@
-# 📈 Performance Management
-
 > **Como lidar com performance de forma proativa, justa e empática**
 
 ---

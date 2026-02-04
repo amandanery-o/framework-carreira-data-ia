@@ -1,5 +1,3 @@
-# Trilha de Carreira Data & IA - Resumo Executivo
-
 > **Framework completo de carreira baseado em 4 dimensões de impacto**  
 > **Status:** Pronto para implementação  
 > **Preparado por:** Amanda Nery | Novembro 2024

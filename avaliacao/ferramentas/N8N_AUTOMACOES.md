@@ -1,5 +1,3 @@
-# 🤖 Automatizações com n8n - Sistema 360º
-
 > Como usar n8n para automatizar ainda mais o sistema de avaliação
 
 ---

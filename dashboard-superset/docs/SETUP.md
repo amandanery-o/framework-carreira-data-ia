@@ -1,5 +1,3 @@
-# 🚀 Setup do Dashboard Superset
-
 > Guia passo-a-passo para colocar o dashboard no ar
 
 ---

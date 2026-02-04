@@ -1,5 +1,3 @@
-# 🛠️ Sistema Semi-Automatizado - Pronto para Implementar!
-
 > Google Forms + Google Sheets + Fórmulas = Sistema 360º Completo
 
 ---

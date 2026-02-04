@@ -1,5 +1,3 @@
-# 📁 Templates Práticos - EM Operating System
-
 > **Templates prontos para copiar e usar no dia a dia**
 
 ---

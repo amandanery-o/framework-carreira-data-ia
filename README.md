@@ -1,5 +1,3 @@
-# Data & AI Engineering – Career Ladder
-
 Framework de progressão de carreira para Data & AI Engineering na Gupy.
 
 ## 📖 Visualizar a Documentação

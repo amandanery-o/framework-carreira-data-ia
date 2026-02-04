@@ -1,5 +1,3 @@
-# Agenda 1:1 - [Nome] - [Data]
-
 **Duração:** 30-45min
 
 ---

@@ -1,5 +1,3 @@
-# Template de Case de Promoção
-
 > Use este template para documentar evidências de prontidão para o próximo nível
 
 ---

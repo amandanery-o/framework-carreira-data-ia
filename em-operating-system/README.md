@@ -1,5 +1,3 @@
-# 🎯 EM Operating System
-
 > **Sistema completo de organização para Engineering Managers recuperarem controle, reduzir sobrecarga mental e focar no que importa**
 
 ---

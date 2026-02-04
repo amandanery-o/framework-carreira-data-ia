@@ -1,5 +1,3 @@
-# 🤝 Gestão de Stakeholders
-
 > **Como mapear, comunicar e manter stakeholders alinhados e satisfeitos**
 
 ---

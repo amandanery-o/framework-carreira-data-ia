@@ -1,5 +1,3 @@
-# Avaliação de Par - Radar de Competências
-
 > Template para colega avaliar outro colega (versão simplificada)
 
 ---

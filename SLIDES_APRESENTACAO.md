@@ -1,5 +1,3 @@
-# Trilha de Carreira Data & IA - Apresentação Executiva
-
 > **Slide Deck** para apresentação ao líder  
 > **Duração:** 30-40 minutos  
 > **Formato:** Apresentação + Demo + Q&A

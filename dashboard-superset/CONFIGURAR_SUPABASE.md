@@ -1,5 +1,3 @@
-# 🔗 Configurar Supabase
-
 ## Passo 1: Pegar suas credenciais
 
 1. Entre em: https://supabase.com

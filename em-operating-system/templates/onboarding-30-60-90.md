@@ -1,5 +1,3 @@
-# Plano de Onboarding 30-60-90 Dias
-
 **Novo membro:** [Nome]
 **Role:** [ex: Software Engineer II]
 **Start date:** [Data]

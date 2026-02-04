@@ -1,5 +1,3 @@
-# 📐 Fórmulas Prontas - Google Sheets
-
 > Copie e cole estas fórmulas direto na sua planilha!
 
 ---

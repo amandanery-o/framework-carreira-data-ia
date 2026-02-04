@@ -1,5 +1,3 @@
-# Exemplo Prático: Radar de Maria (SE II → SE III)
-
 > Caso real de uso do sistema de avaliação 360º com radares
 
 ---

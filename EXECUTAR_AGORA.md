@@ -1,5 +1,3 @@
-# 🚀 Execute Agora - Teste de Conexão
-
 ## ✅ Você já tem:
 - ✅ API Token gerado
 - ✅ Dependências instaladas

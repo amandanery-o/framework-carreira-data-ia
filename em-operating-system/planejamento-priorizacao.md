@@ -1,5 +1,3 @@
-# 🎯 Planejamento & Priorização
-
 > **Como planejar capacidade, priorizar trabalho e dizer não quando necessário**
 
 ---

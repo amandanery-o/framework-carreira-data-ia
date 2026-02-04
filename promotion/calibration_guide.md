@@ -1,5 +1,3 @@
-# Guia de Calibração de Promoções
-
 > Para líderes (EMs, Tech Leads, Head, Staff+) usarem em sessões de calibração
 
 ---

@@ -1,5 +1,3 @@
-# Referência de Níveis - Carreira IC (Individual Contributor)
-
 Este documento define **Scope**, **Collaborative Reach** e **Impact Levers** para todos os níveis IC do time de Data & IA.
 
 ---

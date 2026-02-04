@@ -1,5 +1,3 @@
-# 🚀 Setup Confluence - Passo a Passo Completo
-
 Vamos configurar a sincronização automática juntos! Siga cada passo.
 
 ---

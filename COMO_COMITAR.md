@@ -1,5 +1,3 @@
-# 📦 Guia de Commit - Framework de Carreira
-
 > Como preparar o repositório para mostrar ao chefe
 
 ---

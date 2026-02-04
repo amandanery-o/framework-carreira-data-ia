@@ -1,5 +1,3 @@
-# 🗓️ Rotinas & Rituais do EM
-
 > **Time management específico para Engineering Managers: como organizar seu tempo para ser proativo ao invés de só reativo**
 
 ---

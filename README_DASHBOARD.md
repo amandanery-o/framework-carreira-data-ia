@@ -1,5 +1,3 @@
-# 📊 Dashboard Interativo - Framework de Carreira
-
 Dashboard Streamlit para visualização interativa do Framework de Carreira Data & IA.
 
 ## 🌐 Acesso Online

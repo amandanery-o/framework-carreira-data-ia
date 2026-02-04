@@ -1,5 +1,3 @@
-# Revisão Pré-Apresentação - Trilha de Carreira Data & IA
-
 > **Preparação para apresentação ao líder**  
 > **Data:** Novembro 2024  
 > **Status:** Pronto para apresentação

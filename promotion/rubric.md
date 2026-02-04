@@ -1,5 +1,3 @@
-# Rubrica de Avaliação de Nível
-
 ## Dimensões principais
 
 - Escopo

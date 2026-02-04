@@ -1,5 +1,3 @@
-# 🚀 Implementação Prática - Sistema de Avaliação 360º
-
 > Como transformar a documentação em ferramentas usáveis
 
 ---

@@ -1,5 +1,3 @@
-# Promotion Packet – Template
-
 Use este template como base para documentar casos de promoção.
 
 ---

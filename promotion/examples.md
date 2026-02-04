@@ -1,5 +1,3 @@
-# Exemplos de Evidências por Nível
-
 ## E3 – Senior Engineer
 
 - Liderou o redesign de um pipeline crítico que reduziu em 40% o tempo de processamento e eliminou falhas recorrentes.

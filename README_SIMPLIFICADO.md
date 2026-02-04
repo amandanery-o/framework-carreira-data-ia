@@ -1,5 +1,3 @@
-# Data & AI Engineering – Career Ladder
-
 > Framework de carreira baseado em impacto, transparente e alinhado com a cultura Gupy
 
 Este repositório contém o framework de carreira da área de Data & IA Engineering, estruturado em **4 dimensões de impacto**:

@@ -1,5 +1,3 @@
-# 📤 Upload para Confluence - Guia Rápido
-
 Este guia te ajuda a fazer upload dos arquivos de **docs/levels/** para o Confluence de forma automatizada.
 
 ---

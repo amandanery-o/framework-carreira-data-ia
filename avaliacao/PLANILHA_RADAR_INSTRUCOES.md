@@ -1,5 +1,3 @@
-# Planilha de Radar de Competências - Instruções
-
 > Como criar e usar a planilha que gera os radares visuais automaticamente
 
 ---

@@ -1,5 +1,3 @@
-# Auto-Avaliação - Radar de Competências
-
 > Template para a pessoa avaliar a si mesma
 
 ---

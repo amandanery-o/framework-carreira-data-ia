@@ -1,5 +1,3 @@
-# Guia de Avaliação 360º - Radar de Competências
-
 > Sistema de avaliação visual baseado em 4 dimensões + Craft + Valores Gupy
 
 ---

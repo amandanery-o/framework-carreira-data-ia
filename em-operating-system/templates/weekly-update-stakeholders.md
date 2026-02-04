@@ -1,5 +1,3 @@
-# Weekly Update - [Nome do Time] - [Data]
-
 **De:** [Seu nome - EM]
 **Para:** [Lista de stakeholders]
 

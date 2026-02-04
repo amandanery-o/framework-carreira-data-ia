@@ -1,5 +1,3 @@
-# Sistema de Avaliação 360º com Radares Visuais
-
 > Transforme o framework de carreira em avaliações visuais e acionáveis
 
 ---

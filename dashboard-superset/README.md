@@ -1,5 +1,3 @@
-# 📊 Dashboard Superset - Framework de Carreira Interativo
-
 > Transforme os markdowns do framework em um dashboard interativo no Superset
 
 ---

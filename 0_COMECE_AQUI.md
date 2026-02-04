@@ -1,5 +1,3 @@
-# 🚀 COMECE AQUI - Preparação para Apresentação
-
 > **Guia rápido** para apresentar a Trilha de Carreira ao seu líder
 
 ---

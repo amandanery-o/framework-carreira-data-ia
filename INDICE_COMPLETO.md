@@ -1,5 +1,3 @@
-# Índice Completo - Trilha de Carreira Data & IA
-
 > Navegação rápida por todos os documentos do framework
 
 ---

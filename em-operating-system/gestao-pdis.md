@@ -1,5 +1,3 @@
-# 🌱 Gestão de PDIs (Planos de Desenvolvimento Individual)
-
 > **Sistema para acompanhar e acelerar o crescimento de cada pessoa do seu time**
 
 ---

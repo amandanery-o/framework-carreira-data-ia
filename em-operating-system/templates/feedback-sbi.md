@@ -1,5 +1,3 @@
-# Template de Feedback (SBI Framework)
-
 ## ✅ Feedback Positivo
 
 **Para:** [Nome]

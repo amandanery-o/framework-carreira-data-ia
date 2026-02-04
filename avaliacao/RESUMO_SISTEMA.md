@@ -1,5 +1,3 @@
-# 🎉 Sistema de Avaliação 360º - PRONTO!
-
 > Amanda, criei um sistema completo de avaliação visual para você! 🚀
 
 ---

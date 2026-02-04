@@ -1,5 +1,3 @@
-# Avaliação do Gestor - Radar de Competências
-
 > Template completo para o gestor avaliar o membro do time
 
 ---

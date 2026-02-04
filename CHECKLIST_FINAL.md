@@ -1,5 +1,3 @@
-# ✅ Checklist Final Pré-Apresentação
-
 > Revisão completa antes da apresentação ao líder
 
 ---

@@ -1,5 +1,3 @@
-# 📊 Dashboard Semanal do EM
-
 > **Seu checklist semanal para ter visão completa do time e não deixar nada cair**
 
 ---

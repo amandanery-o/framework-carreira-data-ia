@@ -1,5 +1,3 @@
-# 🔐 Suas Credenciais Supabase
-
 ## Criar arquivo .env
 
 No terminal, execute:

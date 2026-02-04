@@ -1,5 +1,3 @@
-# Plano de Ação - Performance Improvement
-
 **Nome:** [Nome da pessoa]
 **Manager:** [Seu nome]
 **Data de início:** [Data]

@@ -1,5 +1,3 @@
-# ⚡ START HERE - Sistema 360º Semi-Automatizado
-
 > **TL;DR:** 30 minutos para implementar, 5 minutos por avaliação, $0 de custo, radares automáticos! 🚀
 
 ---

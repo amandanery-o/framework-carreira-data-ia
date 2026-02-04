@@ -1,5 +1,3 @@
-# 👥 Sistema de 1:1s Efetivos
-
 > **Estrutura completa para 1:1s que geram crescimento, engajamento e resultados**
 
 ---

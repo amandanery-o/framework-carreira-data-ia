@@ -1,5 +1,3 @@
-# ✅ Configurar Secrets no GitHub - Passo a Passo
-
 O teste manual funcionou! Agora vamos configurar para funcionar automaticamente.
 
 ---

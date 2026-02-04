@@ -1,5 +1,3 @@
-# 🚀 Setup do Sistema 360º - Guia Rápido
-
 > Coloque o sistema no ar em 10 passos (30 minutos)
 
 ---
