@@ -1,4 +1,3 @@
-# Conexão com o Culture Code Gupy
 
 > Este framework de carreira está profundamente alinhado aos valores da Gupy. Cada nível demonstra os valores com crescente escopo, autonomia, impacto e influência.
 

@@ -1,4 +1,3 @@
-# Competência: Liderança
 
 ## Descrição
 

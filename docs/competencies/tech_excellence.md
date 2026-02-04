@@ -1,4 +1,3 @@
-# Competência: Excelência Técnica
 
 ## Descrição
 

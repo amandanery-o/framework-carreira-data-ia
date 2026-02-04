@@ -1,4 +1,3 @@
-# Trilha Técnica – Cientista de Dados (Data Scientist / ML Engineer)
 
 > Esta trilha foca exclusivamente em **habilidades técnicas (Habilidade Técnica)** para Cientistas de Dados e ML Engineers. Para competências comportamentais (Results, Direction, Talent, Culture), consulte os arquivos em [`/levels/`](../levels/).
 

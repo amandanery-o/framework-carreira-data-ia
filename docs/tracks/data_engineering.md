@@ -1,4 +1,3 @@
-# Trilha Técnica – Data Engineering
 
 > Esta trilha foca exclusivamente em **habilidades técnicas (Habilidade Técnica)** para Data Engineers. Para competências comportamentais (Results, Direction, Talent, Culture), consulte os arquivos em [`/levels/`](../levels/).
 

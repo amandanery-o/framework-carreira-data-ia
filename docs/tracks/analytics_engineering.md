@@ -1,4 +1,3 @@
-# Trilha Técnica – Analytics Engineering
 
 > Esta trilha foca exclusivamente em **habilidades técnicas (Habilidade Técnica)** para Analytics Engineers. Para competências comportamentais (Results, Direction, Talent, Culture), consulte os arquivos em [`/levels/`](../levels/).
 
