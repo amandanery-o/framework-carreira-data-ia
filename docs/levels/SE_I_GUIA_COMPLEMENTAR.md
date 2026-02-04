@@ -134,7 +134,7 @@ SE I trabalha em **tarefas menores com orientação**, SE II trabalha em **featu
 ```
 ❌ "Como faz isso?"
 
-✅ "Preciso buscar dados de usuários. Vi que temos tabela users e 
+✅ "Preciso buscar dados de usuários. Vi que temos tabela users e
     user_profiles. Qual eu uso? Ou preciso fazer JOIN?"
 ```
 

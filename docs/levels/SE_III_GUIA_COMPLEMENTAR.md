@@ -91,12 +91,12 @@
 
 ✅ "Boa implementação! Algumas sugestões:
 
-1. [Aspecto técnico]: [Explicação do problema] 
+1. [Aspecto técnico]: [Explicação do problema]
    Sugestão: [Como melhorar]
-   
+
 2. [Padrão]: [Por que é importante]
    Ref: [Link para documentação]
-   
+
 3. Posso fazer programação em par se quiser discutir!"
 ```
 
