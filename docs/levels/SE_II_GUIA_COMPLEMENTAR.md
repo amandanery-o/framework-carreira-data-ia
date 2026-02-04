@@ -1,7 +1,7 @@
 # GUIA COMPLEMENTAR: SE II (PLENO) NA PRÁTICA
 
 Material de apoio ao Framework Oficial  
-Leia primeiro: Framework SE II – Documento Oficial
+Leia primeiro: [Framework SE II – Documento Oficial](https://github.com/amandanery-o/framework-carreira-data-ia/blob/main/docs/levels/SE_II_pleno.md)
 
 Este documento ajuda a interpretar o papel de SE II no dia a dia, sem prescrever “como fazer”, mas oferecendo sinais de atuação, situações recorrentes e perguntas de reflexão.
 
@@ -132,3 +132,56 @@ A transição para SE II não é sobre fazer tudo sozinho,
 - SE I: aprender a executar
 - SE II: aprender a decidir
 - SE III: aprender a influenciar
+
+---
+
+## CHECK-IN DE JORNADA & PDI: SE II (CHECKLIST)
+
+Este formulário serve para apoiar sua reflexão sobre o seu momento atual como SE II, identificar pontos fortes, oportunidades de desenvolvimento e alinhar próximos passos para os próximos meses.
+
+Não é uma avaliação formal.  
+É um instrumento de autoconhecimento e conversa.  
+Este check-in não define quem você é.  
+Ele ajuda a entender onde você está agora e para onde faz sentido evoluir.
+
+**Nome:** _____________________________  
+**Data:** _____________________________
+
+### Onde estou agora? (Autoavaliação)
+
+**Escala:**  
+Não faço / Não tive oportunidade · Faço com apoio · Faço com autonomia · Sou referência · Gostaria de fazer mais
+
+- Conduzo entregas relevantes do squad do início ao fim  
+- Assumo decisões técnicas dentro do meu escopo  
+- Avalio alternativas antes de escolher uma abordagem técnica  
+- Sei quando decidir sozinho e quando validar com o Tech Lead ou pares mais seniores  
+- Comunico progresso, riscos e bloqueios com clareza  
+- Consigo me adaptar quando prioridades ou contexto mudam  
+- Me preocupo com qualidade e impacto de longo prazo do que entrego  
+- Documento decisões técnicas importantes  
+- Apoio SE I ou novos membros no dia a dia  
+- Consigo explicar minhas decisões técnicas de forma clara para outras pessoas  
+
+### Quais são seus principais desafios hoje?
+- Decidir sem ter certeza absoluta  
+- Saber quando decidir sozinho vs. quando validar  
+- Comunicar riscos cedo sem parecer insegurança  
+- Lidar com ambiguidade de requisitos ou prioridades  
+- Pensar além da tarefa imediata  
+- Manter qualidade sob pressão de prazo  
+- Conectar decisões técnicas a impacto de negócio  
+- Outro: ______________________________  
+
+### Qual habilidade técnica ou comportamental você quer desenvolver nos próximos 3-6 meses?
+_________________________________________________
+
+### Existe algum tipo de entrega, decisão ou área técnica que você gostaria de se expor mais?
+_________________________________________________
+
+### O que você precisa de mim ou do time para crescer melhor?
+_________________________________________________
+
+### Onde você se vê daqui a 12 meses?
+(não precisa ser cargo, pode ser tipo de problema, autonomia, impacto etc.)
+_________________________________________________
