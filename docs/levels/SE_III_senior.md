@@ -1,194 +1,177 @@
 # Software Engineer III - Senior (SE III)
 
-> **"Eu lidero soluções complexas do problema ao resultado, com impacto claro no negócio"**
+> **"Atuo como referência técnica em problemas complexos e ambíguos, influenciando decisões que geram impacto claro e sustentável para o negócio."**
+
+No nível SE III, a pessoa desenvolvedora amplia sua atuação para além da própria execução.  
+Ela absorve complexidade, influencia decisões técnicas difíceis e ajuda o squad a navegar ambiguidade, mantendo foco em impacto real e sustentável.
+
+Não é um papel de liderança formal.  
+É um papel de influência técnica consistente, construído por credibilidade, contexto e histórico de decisões bem sustentadas.
 
 ---
 
 ## 📋 Definição do Nível
 
 ### Escopo de Atuação
-- Possuo e entrego projetos em apoio aos objetivos trimestrais do time
-- Identifico independentemente as soluções certas para resolver problemas ambíguos e abertos
-- Lidero tecnicamente projetos relevantes no domínio, tomando decisões técnicas com autonomia
+- Contribuo para iniciativas técnicas de alta complexidade, alinhadas aos objetivos do squad, do time e da área.
+- Identifico, avalio e proponho soluções para problemas ambíguos e abertos, considerando impactos técnicos, de negócio e organizacionais.
+- Atuo como referência técnica no domínio, tomando decisões com autonomia e envolvendo as pessoas certas quando o risco ou o impacto aumentam.
 
 ### Alcance Colaborativo
-- Trabalho principalmente com meu time direto e parceiros cross-funcionais
-- Conduzo colaboração entre times para meus projetos
-- Influencio decisões técnicas e de produto além do meu time imediato
+- Atuo principalmente no meu squad, influenciando decisões técnicas e de produto de forma consistente.
+- Colaboro com outros squads e áreas quando existem dependências técnicas reais ou impactos sistêmicos.
+- Influencio decisões além do meu time imediato por meio de contexto, argumentação técnica sólida e histórico de entregas.
 
 ### Alavancas de Impacto
-- **Liderança de Projeto** - Defino marcos claros e mantenho o time alinhado no que realmente precisa entregar
-- **Expertise de Produto** - Uso contexto de clientes e negócio para escolher a solução certa, não só a mais elegante
-- **Mentoria** - Elevo pessoas menos experientes com orientação concreta e revisões que ensinam
-- **Excelência Técnica** - Estabeleço o padrão técnico com decisões sólidas e exemplos de referência
+- **Influência Técnica**  
+  Destravo decisões complexas, ajudo a explicitar trade-offs e reduzo incerteza técnica para o time.
+- **Contexto de Produto e Negócio**  
+  Uso entendimento profundo do problema para orientar escolhas técnicas mais eficazes, não apenas mais elegantes.
+- **Mentoria**  
+  Desenvolvo outras pessoas por meio de orientação prática, feedback contínuo e exemplo no dia a dia.
+- **Excelência Técnica**  
+  Estabeleço padrões por meio de decisões bem fundamentadas e soluções de referência, não por autoridade formal.
 
 ---
 
 ## 🏆 Resultados
 
 ### Impacto
-- Entrego projetos completos de alta complexidade no prazo e com alto padrão de qualidade
-- Compreendo profundamente o contexto de negócio e uso isso para maximizar impacto nas decisões técnicas
-- Identifico quando os resultados não estão movendo a agulha para objetivos de negócio/time e trabalho com o gestor para redirecionar foco
-- Simplifico problemas focando no cerne da questão e priorizando o que realmente importa
-- Melhoro como nosso time mede e comunica impacto no cliente
-- Tomo decisões técnicas com clareza de argumentação e documentação
+- Contribuo para entregas de alta complexidade com qualidade consistente e impacto mensurável.
+- Uso contexto de negócio para priorizar decisões técnicas que realmente movem os objetivos do squad e do time.
+- Identifico quando iniciativas não estão gerando o impacto esperado e ajudo a redirecionar foco e abordagem.
+- Simplifico problemas complexos, ajudando o time a focar no que realmente importa.
+- Apoio o time a medir e comunicar impacto técnico e de produto de forma mais clara.
 
 ### Responsabilidade
-- Identifico proativamente novas oportunidades e advogo por melhorias no estado atual de projetos
-- Assumo responsabilidade por minhas decisões e falhas, tomando ações para preveni-las no futuro e compartilhando aprendizados
-- Quando encontro barreiras, desbloqueo a mim e ao time avaliando e eliminando a causa raiz, focando em soluções
-- Respondo com urgência a problemas operacionais (incidentes), assumindo resolução dentro da minha esfera de responsabilidade
-- Busco ativamente e elimino fontes de retrabalho operacional no time
-- Garanto qualidade, confiabilidade, testabilidade e documentação das soluções sob minha responsabilidade
+- Assumo responsabilidade pelas decisões técnicas que influencio, aprendendo com falhas e compartilhando aprendizados.
+- Identifico e proponho melhorias no estado atual de sistemas, processos ou arquitetura.
+- Atuo na resolução de incidentes complexos dentro da minha esfera de influência.
+- Busco reduzir retrabalho técnico e operacional de forma sustentável.
+- Zelo pela qualidade, confiabilidade, testabilidade e clareza das soluções sob minha influência.
 
 ### Tomada de Decisão
-- Tomo decisões informadas através de debate produtivo com partes interessadas certas, buscando perspectivas diversas
-- Equilibro detalhes com visão geral, otimizando para a empresa
-- Entendo as implicações das minhas decisões e ajusto abordagem baseado em impacto e risco
-- Uso insights sobre clientes para informar decisões, balanceando valor para cliente com outros objetivos de negócio
-- Tomo decisões no timing certo e não corto cantos que comprometeriam confiança do cliente
-- Articulo decisões técnicas com clareza e transparência, facilitando consenso
+- Tomo decisões técnicas por meio de debate produtivo, buscando diversidade de perspectivas.
+- Equilibro profundidade técnica com visão sistêmica, otimizando para o todo.
+- Avalio impacto e risco antes de decidir, ajustando abordagem conforme o contexto muda.
+- Uso sinais de clientes e negócio para informar decisões técnicas.
+- Comunico decisões com clareza, facilitando alinhamento e consenso.
 
 ---
 
 ## 🌟 Direção
 
 ### Agilidade
-- Me adapto a mudanças sem perder o ritmo do time
-- Mantenho calma sob pressão e cuido do meu bem-estar para não virar gargalo
-- Navego ambiguidade focando no objetivo e no próximo passo que destrava
+- Me adapto a mudanças sem perder o foco do squad.
+- Mantenho estabilidade emocional sob pressão, evitando virar gargalo.
+- Navego ambiguidade focando no próximo passo que destrava progresso.
 
 ### Inovação
-- Experimento novas abordagens, aprendo rápido e compartilho o que funcionou (ou não)
-- Tomo riscos calculados quando há benefício claro para o produto
-- Uso feedback de clientes e práticas da indústria para destravar melhorias reais
-- Melhoro continuamente sistemas, pipelines e processos
+- Experimento novas abordagens de forma responsável.
+- Aprendo rápido com erros e sucessos e compartilho aprendizados.
+- Uso práticas da indústria e feedback real para orientar melhorias.
+- Evoluo continuamente sistemas, pipelines e processos.
 
 ### Estratégia
-- Defino roadmap técnico para projetos de múltiplas fases e reviso quando o contexto muda
-- Garanto valor cedo, mesmo em projetos longos
-- Dou direção para quem executa o projeto sem microgerenciar
-- Contribuo de forma consistente para padrões, boas práticas e referências da área
-- Sou referência técnica em pelo menos um subdomínio
+- Contribuo para decisões técnicas de médio e longo prazo da área.
+- Ajudo a garantir valor incremental mesmo em iniciativas longas.
+- Ofereço direção técnica por meio de contexto, critérios e trade-offs, sem microgerenciar.
+- Contribuo para padrões, boas práticas e referências técnicas da área.
+- Sou referência técnica em pelo menos um subdomínio relevante.
 
 ---
 
 ## 🌳 Talento
 
 ### Crescimento Pessoal
-- Peço feedback proativamente do meu gestor, time e partes interessadas cross-funcionais
-- Conheço minhas forças e deixo claro onde preciso evoluir
-- Tenho auto-consciência e me conecto com empatia
-- Alinho objetivos com meu gestor e busco oportunidades que me tiram da zona de conforto
-- Participo de comunidades de prática e grupos de estudo
+- Busco feedback de forma ativa e diversa.
+- Tenho clareza sobre meus pontos fortes e áreas de evolução.
+- Atuo com empatia e autoconsciência.
+- Alinho objetivos de desenvolvimento com meu gestor.
+- Participo de comunidades técnicas e de prática.
 
 ### Desenvolvimento do Time
-- Modelo integridade e alto padrão de excelência no meu trabalho
-- Mantenho a barra de qualidade em code/design reviews com exemplos claros
-- Apoio áreas de crescimento considerando forças e estilos diferentes
-- Ofereço feedback honesto e acionável com empatia
-- Mentoro SE I/SE II na prática, com acompanhamento real
-- Contribuo em entrevistas trazendo visão do dia a dia do time
+- Modelo padrões elevados por meio do meu próprio trabalho.
+- Elevo a qualidade das decisões em code e design reviews.
+- Apoio o crescimento das pessoas considerando estilos e contextos diferentes.
+- Ofereço feedback honesto, respeitoso e acionável.
+- Mentoro SE I e SE II de forma consistente.
+- Contribuo em entrevistas trazendo visão prática do dia a dia.
 
 ---
 
 ## 🌈 Cultura
 
 ### Colaboração
-- Promovo e modelo valores da Gupy, liderando pelo exemplo
-- Construo relacionamentos e coordeno entre times quando há dependências reais
-- Comunico requisitos do meu time cedo para evitar retrabalho
-- Trabalho com partes interessadas cross-funcionais para revelar pontos cegos técnicos
-- Entro em conflito produtivo com respeito e clareza
-- Evito blame e ajudo o time a decidir e seguir em frente
+- Modelo valores da Gupy no dia a dia.
+- Construo pontes entre times quando há dependências reais.
+- Trago riscos e requisitos cedo para evitar retrabalho.
+- Promovo conflitos produtivos com respeito e clareza.
+- Evito blame e foco em aprendizado coletivo.
 
 ### Saúde Organizacional
-- Trabalho com meu gestor para alavancar as forças e skills únicas dos membros do time
-- Ajudo a identificar gaps de talento necessários para sucesso do time
-- Habilito outros a trazerem seus eus autênticos ao trabalho e contribuo para construir comunidade
-- Garanto que perspectivas diversas sejam incluídas, usando práticas inclusivas de reunião
-- Pratico os compromissos de diversidade regularmente
-- Modelo boas práticas de trabalho virtual/híbrido que ajudam meu time a colaborar efetivamente
+- Contribuo para ambientes seguros, inclusivos e sustentáveis.
+- Apoio práticas que ampliam diversidade de perspectivas.
+- Modelo formas saudáveis de trabalho remoto ou híbrido.
+- Ajudo o time a crescer sem sobrecarga estrutural.
 
 ### Comunicação
-- Comunico com clareza e foco, no nível certo para cada audiência
-- Compartilho informação cedo para manter partes interessadas alinhadas
-- Conduzo conversas difíceis sem evitar o tema
-- Influencio partes interessadas com argumentos e dados
-- Escuto antes de responder
-- Facilito discussões técnicas e ajudo o time a chegar em acordos
-- Dou feedback construtivo e específico, ajudando no crescimento de outras pessoas
+- Comunico com clareza, intenção e foco.
+- Compartilho contexto cedo para alinhar expectativas.
+- Conduzo conversas difíceis com maturidade.
+- Influencio partes interessadas com argumentos e dados.
+- Escuto antes de responder.
+- Facilito discussões técnicas e ajudo o time a chegar em decisões.
 
 ### Liderança Cultural
-- Atuo como parceiro do meu gestor em estabelecer o tom cultural para o time
-- Apoio ambiente de segurança psicológica onde todos são incluídos e ouvidos
-- Suporto conexão, empatia e conflito produtivo onde opiniões dissidentes são valorizadas e endereçadas
-- Ajudo meu time a criar rede de relacionamentos através da empresa, criando conexão e inclusão
-- Trabalho de forma colaborativa, promovo conflitos produtivos, ensino e aprendo com o time
+- Atuo como referência cultural, não como autoridade formal.
+- Contribuo para segurança psicológica e aprendizado contínuo.
+- Valorizo opiniões divergentes e ajudo o time a integrá-las.
+- Fortaleço conexões dentro e fora do squad.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-As habilidades técnicas específicas variam por trilha. Consulte:
+As habilidades técnicas específicas variam por trilha:
 - [Data Engineering](../tracks/data_engineering.md#se-iii---senior)
 - [Analytics Engineering](../tracks/analytics_engineering.md#se-iii---senior)
-- [Cientista de Dados](../tracks/cientista_de_dados.md#se-iii---senior)
+- [Ciência de Dados](../tracks/cientista_de_dados.md#se-iii---senior)
 
-**Expectativas gerais de Habilidade Técnica para SE III:**
+**Expectativas Gerais de Habilidade Técnica (SE III)**
 
-### Fluência Técnica
-- Domínio sólido do stack de Data & IA da área (ex: dbt, pipelines, arquitetura de dados, qualidade, observabilidade)
-- Quando aplicável: expertise em LLM, RAG, embeddings e ferramentas de IA Generativa
-- Encontro formas de melhorar eficiência de desenvolvimento medida por cycle time, ramp-up time ou métricas similares
-- Evito reinventar a roda usando soluções existentes ou off-the-shelf com possíveis trade-offs em mente
+**Fluência Técnica**  
+- Domínio sólido do stack da área e seus trade-offs  
+- Capacidade de melhorar eficiência de desenvolvimento (ex: cycle time, confiabilidade, qualidade)  
+- Uso consciente de soluções existentes, evitando reinvenção desnecessária
 
-### Design Técnico
-- Ofereço feedback de qualidade em designs escritos por outros membros do time
-- Faço perguntas instigantes e perspicazes que solidificam escolhas e trazem à tona suposições errôneas
-- Debug efetiva e rapidamente issues cross-module
-- Posso intuir onde bugs podem estar devido ao conhecimento profundo de bibliotecas, plataformas e sistemas
+**Design e Arquitetura**  
+- Contribui com feedback de alta qualidade em designs  
+- Identifica riscos e inconsistências em boundaries de sistema  
+- Desenha soluções com múltiplos componentes e rollout confiável  
+- Garante monitoramento, alertas e métricas de sucesso claras
 
-### Arquitetura
-- Sou capaz de criar designs coerentes com múltiplos componentes interagindo através de APIs ou boundaries de sistema
-- Bugs não aparecem nos limites entre componentes devido a incompatibilidades de expectativas
-- Sou capaz de fazer rollout de componente ou feature maior de forma confiável
-- Monitoramento, alertas, etc estão no lugar, e domínios de falha são entendidos adequadamente
-- Desenho métricas de sucesso claras e acompanho até alcançar resultados pós-lançamento
-
-### Estratégia Técnica
-- Propõe melhorias significativas em arquitetura, desempenho, custo ou qualidade
-- Oriento o time na adoção de padrões técnicos
-- Trabalho ponta a ponta: entendimento do problema, solução, entrega e acompanhamento
-- Decomponho problemas grandes em etapas menores, priorizando o que gera mais impacto
+**Estratégia Técnica**  
+- Propõe melhorias relevantes em arquitetura, desempenho, custo ou qualidade  
+- Orienta adoção de padrões técnicos  
+- Trabalha ponta a ponta: problema → solução → entrega → acompanhamento  
+- Decompõe problemas grandes priorizando impacto
 
 ---
 
-## 🎯 Conexão com a Cultura Gupy
+## 🎯 Indicadores de Progresso para Lead Engineer
 
-### 🎯 Obsessão pelo Cliente
-Compreendo profundamente o contexto dos clientes internos e externos. Antecipo dores e proponho soluções que geram impacto real para o negócio.
-
-### 💡 Paixão por Inovar
-Experimento novas abordagens com responsabilidade. Aprendo rápido com o que funciona ou não. Melhoro continuamente sistemas, pipelines e processos.
-
-### ⚡ Agilidade para Resultado
-Fecho ciclos com consistência, reduzo retrabalho e tomo decisões técnicas com foco em impacto, não em perfeccionismo.
-
-### 💰 Fazer Mais com Menos
-Simplifico fluxos, reduzo complexidade técnica desnecessária e busco eficiência em desempenho, custo e manutenção.
-
-### 🤝 Juntos!
-Trabalho de forma colaborativa, promovo conflitos produtivos, ensino e aprendo com o time, ajudando a criar um ambiente de confiança.
+Você começa a se aproximar do papel de Lead Engineer quando:
+- Sustenta decisões técnicas complexas com impacto consistente no squad
+- Torna-se referência técnica para temas críticos
+- Alinha decisões técnicas com objetivos de negócio e prioridades do time
+- Desenvolve outros engenheiros seniores por meio de mentoria e feedback
+- Contribui para direções técnicas de médio e longo prazo da área
+- Passa a se preocupar não só com a decisão técnica, mas com como o time decide
 
 ---
 
-## 📈 Indicadores de Progresso para Lead Engineer
+**Lembrete final**
 
-Você está pronto(a) para evoluir para Lead Engineer quando:
-- Lidera tecnicamente projetos complexos em paralelo quando necessário
-- Influencia roadmap técnico do time baseado em visão de longo prazo
-- Mentora de forma consistente outros engenheiros seniores
-- Toma decisões arquiteturais que impactam múltiplos times
-- Tem profunda expertise em um domínio técnico crítico para o time/empresa
+SE III não é sobre cargo, controle ou volume de projetos.  
+É sobre influência técnica, maturidade de decisão e impacto sustentável.
