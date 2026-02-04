@@ -1,6 +1,6 @@
 # Staff II Engineer (Senior Staff)
 
-> **"Eu defino e conduzo a estratégia técnica organizacional de multi-ano através de múltiplos times e domínios"**
+> **"Eu defino e conduzo estratégia técnica de longo prazo para múltiplos times e domínios"**
 
 ---
 
@@ -17,17 +17,17 @@
 - Sou reconhecido como autoridade técnica dentro e fora da organização
 
 ### Alavancas de Impacto
-- **Organizational Strategy** - Defino estratégia técnica organizacional e influencio decisões de investimento
-- **Domain Expertise** - Sou reconhecido como expert em múltiplos domínios críticos
-- **Technical Vision** - Articulo e evangelizo visão técnica de longo prazo que influencia múltiplos times
-- **Talent Multiplier** - Elevo a capacidade técnica de múltiplos times através de mentoria, padrões e frameworks
+- **Estratégia Organizacional** - Defino estratégia técnica e influencio decisões de investimento
+- **Expertise de Domínio** - Sou referência em múltiplos domínios críticos
+- **Visão Técnica** - Articulo visão técnica de longo prazo que influencia múltiplos times
+- **Multiplicador de Talento** - Elevo a capacidade técnica de múltiplos times através de mentoria, padrões e frameworks
 
 ---
 
 ## 🏆 Resultados
 
 ### Impacto
-- Identifico e executo em iniciativas que têm impacto organizacional significativo
+- Identifico e executo iniciativas com impacto organizacional significativo
 - Defino e conduzo projetos técnicos de escala organizacional com múltiplas dependências e partes interessadas
 - Entendo profundamente o contexto de negócio e uso isso para priorizar e conduzir as iniciativas técnicas mais impactantes
 - Crio novas capacidades técnicas que permitem múltiplos times entregar mais valor
@@ -35,12 +35,12 @@
 - Identifico problemas sistêmicos e conduzo soluções que beneficiam toda a organização
 
 ### Responsabilidade
-- Assumo responsabilidade de áreas técnicas críticas que impactam múltiplos times
-- Identifico proativamente iniciativas estratégicas que podem transformar capacidades da empresa
-- Crio alinhamento e momentum para mudanças técnicas significativas
+- Assumo responsabilidade por áreas técnicas críticas que impactam múltiplos times
+- Identifico iniciativas estratégicas que podem transformar capacidades da empresa
+- Crio alinhamento e ritmo para mudanças técnicas significativas
 - Não espero permissão para agir em oportunidades de alto impacto
-- Possuo decisões e outcomes em nível organizacional
-- Quando falhas acontecem, conduzo post-mortems que resultam em melhorias sistêmicas
+- Assumo decisões e resultados em nível organizacional
+- Quando falhas acontecem, conduzo pós-mortems que resultam em melhorias sistêmicas
 
 ### Tomada de Decisão
 - Tomo decisões técnicas com implicações organizacionais de longo prazo
@@ -56,23 +56,23 @@
 
 ### Agilidade
 - Navego e conduzo mudanças organizacionais significativas
-- Adapto estratégia baseado em mudanças de mercado, tecnologia e negócio
-- Mantenho múltiplas iniciativas avançando em paralelo
-- Priorizo impiedosamente focando no que importa mais
+- Adapto estratégia com base em mudanças de mercado, tecnologia e negócio
+- Mantenho poucas iniciativas críticas avançando em paralelo
+- Priorizo com rigor focando no que importa mais
 
 ### Inovação
 - Identifico e promovo tecnologias emergentes que podem transformar o negócio
-- Crio espaço e incentivos para experimentação e inovação em escala organizacional
-- Balanço inovação com estabilidade e confiabilidade
-- Compartilho conhecimento e aprendizados amplamente para elevar toda a organização
-- Contribuo para indústria através de publicações, talks e código aberto
+- Crio espaço para experimentação e inovação em escala organizacional
+- Equilibro inovação com estabilidade e confiabilidade
+- Compartilho conhecimento para elevar toda a organização
+- Contribuo para a indústria através de publicações, talks e código aberto
 
 ### Estratégia e Gestão de Mudança
 - Defino estratégia técnica de 2-3 anos para múltiplos domínios
 - Alineo estratégia técnica com roadmap de produto e objetivos de negócio
 - Conduzo mudanças técnicas significativas (ex: migração de plataforma, adoção de nova arquitetura)
-- Crio buy-in através de comunicação efetiva, demonstrações e construção de coalizões
-- Antecipo resistência e endereço preocupações proativamente
+- Crio alinhamento com comunicação efetiva, demonstrações e construção de coalizões
+- Antecipo resistência e abordo preocupações proativamente
 - Estabeleço métricas e marcos para medir progresso de iniciativas estratégicas
 
 ---
@@ -179,7 +179,7 @@ Influencio estratégia de produto baseado em compreensão profunda de clientes. 
 Conduzo inovação técnica transformacional. Estabeleço capacidades que abrem novas possibilidades de produto.
 
 ### ⚡ Agilidade para Resultado
-Entrego resultados organizacionais complexos. Mantenho múltiplas iniciativas estratégicas avançando em paralelo.
+Entrego resultados organizacionais complexos. Mantenho poucas iniciativas estratégicas avançando em paralelo.
 
 ### 💰 Fazer Mais com Menos
 Crio plataformas e frameworks que multiplicam produtividade de múltiplos times.

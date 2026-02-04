@@ -49,7 +49,7 @@
 #### Responsabilidade
 
 **Framework diz:**
-> "Busco ativamente e elimino fontes de toil no time"
+> "Busco ativamente e elimino fontes de retrabalho operacional no time"
 
 **Na prática:**
 - Time perde 2h/semana em tarefa manual repetitiva

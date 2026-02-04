@@ -1,6 +1,6 @@
 # Staff Engineer (Staff I)
 
-> **"Eu defino a estratégia técnica e de dados multi-ano e multi-time e a entrego através de implementação direta ou liderança técnica ampla"**
+> **"Eu defino direção técnica de longo prazo e faço isso acontecer com o time"**
 
 ---
 
@@ -16,18 +16,18 @@
 - Exerço julgamento que favorece as prioridades da org de engenharia mais ampla ao invés de resultados localmente ótimos
 
 ### Alavancas de Impacto
-- **Domain Expertise** - Demonstro alto nível de profundidade em uma plataforma ou categoria de produto particular que traz valor único ao negócio
-- **Technical Strategy** - Excel em definir a visão e entregar projetos grandes de impacto no negócio com múltiplas restrições
-- **Product Expertise** - Influencio cada vez mais ou tomo decisões de produto/escopo e determino os trade-offs técnicos certos
-- **Mentoria** - Sirvo como modelo para outros engenheiros da empresa
+- **Expertise de Domínio** - Profundidade em uma plataforma ou categoria de produto que traz valor único ao negócio
+- **Estratégia Técnica** - Defino visão e entrego projetos grandes com múltiplas restrições
+- **Expertise de Produto** - Influencio decisões de produto/escopo e determino trade-offs técnicos
+- **Mentoria** - Sirvo como referência prática para outros engenheiros
 
 ---
 
 ## 🏆 Resultados
 
 ### Impacto
-- Identifico e executo em oportunidades que têm impacto em área/grupo inteiro
-- Executo projetos grandes com padrão muito alto (ex: contra deadline apertado com consequências significativas de falha, ou de forma que permite aprendizado rápido para clarificar ambiguidade significativa, ou a um padrão de qualidade muito excedente ao sistema atual)
+- Identifico e executo oportunidades que têm impacto em área/grupo inteiro
+- Executo projetos grandes com padrão muito alto, mesmo sob prazo apertado e ambiguidade relevante
 - Sei quais alavancas puxar para conduzir resultados significativos e entendo implicações cross-funcionais mais amplas
 - Calculo riscos proativamente e monitoro sua probabilidade
 - Planejamento de projeto conta com novas capacidades necessárias para entregar impacto em larga escala
@@ -35,18 +35,18 @@
 - Identifico proativamente e ajudo a refocar esforços quando projetos estão fora de curso ou não viáveis tecnicamente
 
 ### Responsabilidade
-- Tenho senso de responsabilidade e obrigação de agir em oportunidades
-- Crio alinhamento através da org de engenharia/empresa para melhorar outcomes para clientes
-- Possuo minhas decisões e erros e tomo ação para prevenir erros similares no futuro, compartilhando learnings
-- Quando eu ou meu time encontramos barreiras, desbloqueo avaliando e eliminando causa raiz, incluindo recomendando melhorias de processo e escala
+- Tenho senso de responsabilidade e ajo em oportunidades relevantes
+- Crio alinhamento na engenharia/empresa para melhorar resultados para clientes
+- Assumo minhas decisões e erros e tomo ação para evitar repetição, compartilhando aprendizados
+- Quando eu ou meu time encontramos barreiras, destravo com análise de causa raiz
 
 ### Tomada de Decisão
-- Tenho visão holística da org de engenharia, insights de clientes e objetivos da empresa
+- Tenho visão holística da engenharia, insights de clientes e objetivos da empresa
 - Uso experiência e julgamento para tomar decisões otimizadas para a org mais ampla
 - Ajo cuidadosa e decisivamente em situações críticas
 - Ao invés de tentar construir consenso, busco perspectivas diversas e encorajo debate produtivo
 - Lidero tomada de decisão em situações críticas mesmo quando fazendo decisões impopulares
-- Consigo chegar à decisão certa apesar de perspectivas conflitantes, discordando e commitando quando necessário
+- Consigo chegar à decisão certa apesar de perspectivas conflitantes, discordando e seguindo a decisão quando necessário
 
 ---
 
@@ -57,15 +57,15 @@
 - Navego ambiguidade focando no propósito maior, objetivos e impacto desejado para avançar passo a passo
 
 ### Inovação
-- Empurro limites usando melhores práticas da indústria e feedback de clientes para gerar e implementar ideias breakthrough
-- Crio produtos novos ou avanço produtos existentes e conduzo nossas ferramentas para frente
-- Crio segurança psicológica e encorajo growth mindset com colegas
-- Apoio experimentação e sprint em direção a objetivos audaciosos
+- Uso práticas da indústria e feedback de clientes para gerar e implementar ideias relevantes
+- Avanço produtos existentes e conduzo ferramentas para frente
+- Crio segurança psicológica e incentivo aprendizado com colegas
+- Apoio experimentação com objetivos claros
 
 ### Estratégia e Gestão de Mudança
-- Quando necessário, consigo ajudar gestor a introduzir mudança na organização
-- Ajudo outros a entender o business case para mudança e crio entusiasmo para conduzir adoção
-- Defino estratégia de longo prazo para meu time que considera prioridades company-wide, necessidades dos clientes e limitações/possibilidades técnicas
+- Quando necessário, ajudo o gestor a introduzir mudança na organização
+- Ajudo outros a entender o motivo da mudança e crio adesão
+- Defino estratégia de longo prazo que considera prioridades da empresa, necessidades dos clientes e limitações técnicas
 - Inspiro time e partes interessadas cross-discipline a trabalhar em direção a essa estratégia
 - Antecipo desafios e consigo influenciar direção técnica do time/org para executar nessa visão mesmo diante de potencial desalinhamento significativo
 - Encontro formas novas e criativas de usar insights de clientes e incluir vozes de clientes para influenciar estratégia
@@ -96,11 +96,11 @@
 ## 🌈 Cultura
 
 ### Colaboração
-- Promovo e modelo valores core, liderando pelo exemplo
+- Promovo e modelo valores centrais, liderando pelo exemplo
 - Ajudo a quebrar silos dentro e através de funções e influencio outros para alcançar melhor outcome independente do meu nível/título
 - Construo relacionamentos cross-funcionais profundos, facilito conversas certas e resolvo desacordos gerenciando diferentes pontos de vista
 - Me engajo em conflito produtivo com questionamento atencioso e tenho coragem de expressar ponto de vista
-- Balanço múltiplas perspectivas e discordo e commito quando necessário para mover decisões chave da empresa
+- Balanço múltiplas perspectivas e discordo e sigo a decisão quando necessário para mover decisões chave da empresa
 
 ### Saúde Organizacional
 - Alavanco forças e skills únicas dos membros do time e ajudo a identificar gaps de talento
@@ -110,9 +110,9 @@
 - Construo relacionamentos e conexões, usando práticas inclusivas de reunião para apoiar ambiente inclusivo
 
 ### Comunicação
-- Adapto mensagem à audiência, apresentando claramente e concisamente na altitude certa
-- Se solicitado, escrevo narrativas claras para criar entendimento, influenciar outros e habilitar tomada de decisão efetiva
-- Ajusto fino minha abordagem para obter buy-in e influenciar partes interessadas através de variedade de audiências
+- Adapto mensagem à audiência, apresentando de forma clara e concisa no nível certo
+- Quando necessário, escrevo narrativas claras para criar entendimento e apoiar decisões
+- Ajusto minha abordagem para obter alinhamento e influenciar partes interessadas
 - Lidero pelo exemplo mantendo conversas cruciais mesmo quando desconfortáveis
 - Busco ouvir e entender outros
 
@@ -121,7 +121,7 @@
 - Ajudo a criar ambiente inclusivo de segurança psicológica para apoiar conexão, empatia e conflito produtivo
 - Lidero pelo exemplo. Estou ciente da minha presença pública e ações e minha influência nas pessoas ao redor e na cultura
 - Ajudo time a criar rede de relacionamentos, criando conexão e inclusão
-- Personifico valores core e apoio comunidade
+- Personifico valores centrais e apoio comunidade
 - Aponto quando ações ou decisões contradizem valores e sugiro alternativas mais alinhadas
 
 ---

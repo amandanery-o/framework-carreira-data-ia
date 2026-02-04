@@ -1,6 +1,6 @@
 # Software Engineer II - Pleno (SE II)
 
-> **"Eu sou prolífico em entregar projetos resilientes e sustentáveis de dados e software do design à implementação e rollout"**
+> **"Eu entrego projetos completos de dados e software com autonomia do design ao lançamento"**
 
 ---
 
@@ -16,7 +16,7 @@
 - Começo a colaborar com parceiros cross-funcionais em meus projetos
 
 ### Alavancas de Impacto
-- **Habilidade Técnica** - Estou cada vez mais dominando meu craft e o uso para maior impacto (ex: design de software e modelos de dados)
+- **Habilidade Técnica** - Domino minha habilidade técnica e uso isso para gerar mais impacto (ex: design de software e modelos de dados)
 - **Mentoria** - Posso mentorar novos membros, estagiários ou engenheiros mais juniores
 
 ---
@@ -25,9 +25,8 @@
 
 ### Impacto
 - Entrego projetos completos de complexidade média no prazo e com qualidade
-- Trabalho com meu gestor para priorizar tarefas que adicionam mais valor e entrego resultados de alta qualidade para o cliente
-- Entendo e participo efetivamente dos processos core do meu time (planning, on-call, bug triage, revisão de métricas)
-- Com orientação do gestor e Tech Lead, entrego trabalho de alta qualidade no prazo que adiciona mais valor
+- Negocio prioridades com o gestor quando novas demandas entram, sem perder o foco do que já foi combinado
+- Participo de processos do time com responsabilidade (planejamento, plantão, triagem de bugs, revisão de métricas)
 
 ### Responsabilidade
 - Assumo responsabilidade de partes significativas de projetos
@@ -47,15 +46,14 @@
 ## 🌟 Direção
 
 ### Agilidade
-- Me adapto rapidamente a mudanças de prioridade e requisitos
-- Mantenho produtividade mesmo com algum grau de ambiguidade
-- Ajudo o time a responder rapidamente a feedback e mudanças de mercado
+- Replanejo sem travar quando prioridades mudam
+- Mantenho produtividade mesmo com ambiguidade moderada
+- Compartilho aprendizados de clientes e ajustes necessários para o time reagir melhor
 
 ### Inovação
-- Experimento com novas ferramentas e abordagens dentro do meu escopo
-- Proponho melhorias em processos, ferramentas e práticas do time
-- Aprendo rapidamente com sucessos e falhas
-- Compartilho conhecimento e aprendizados com o time
+- Testo novas abordagens no meu escopo e explico o porquê da escolha
+- Proponho melhorias em processos, ferramentas e práticas do time com exemplos do dia a dia
+- Aprendo com sucessos e falhas e compartilho o que mudaria numa próxima vez
 
 ### Estratégia
 - Entendo profundamente os objetivos do time e como meu trabalho contribui
@@ -68,16 +66,16 @@
 ## 🌳 Talento
 
 ### Crescimento Pessoal
-- Busco feedback ativamente e demonstro crescimento contínuo
+- Busco feedback ativamente e mostro evolução em pontos específicos
 - Identifico áreas de desenvolvimento e tomo ações concretas para melhorar
-- Expando minhas habilidades além do meu escopo imediato
-- Participo de comunidades de prática e aprendizado
+- Expando minhas habilidades além do meu escopo imediato quando isso ajuda o time
+- Participo de comunidades de prática e trago aprendizados para o time
 - Estabeleço metas de carreira claras com meu gestor
 
 ### Desenvolvimento do Time
-- Mentoro ativamente SE I, estagiários e novos membros do time
+- Mentoro SE I, estagiários e novos membros com exemplos do trabalho real
 - Compartilho conhecimento através de programação em par, revisões de código e documentação
-- Contribuo para integração de novos membros
+- Contribuo para integração de novos membros com contexto e referências úteis
 - Ajudo a elevar o nível técnico do time através de exemplos e feedback
 - Participo de entrevistas e avaliação de candidatos
 
@@ -87,9 +85,9 @@
 
 ### Colaboração
 - Trabalho efetivamente com membros do time e parceiros cross-funcionais
-- Comunico progresso, desafios e necessidades claramente
-- Contribuo ativamente em revisões de código com feedback construtivo
-- Participo produtivamente de reuniões e discussões técnicas
+- Comunico progresso, desafios e necessidades com antecedência
+- Contribuo em revisões de código com feedback construtivo e objetivo
+- Participo de reuniões e discussões técnicas trazendo propostas e perguntas úteis
 - Ajudo a resolver conflitos e mal-entendidos no time
 
 ### Saúde Organizacional
@@ -100,10 +98,10 @@
 - Ajudo a criar ambiente de segurança psicológica
 
 ### Comunicação
-- Comunico ideias técnicas claramente para audiências variadas
-- Escrevo documentação clara e útil
-- Faço perguntas efetivas que avançam discussões
-- Adapto estilo de comunicação ao contexto e audiência
+- Comunico ideias técnicas de forma que alguém consiga agir sem me chamar de novo
+- Escrevo documentação clara e útil, com passos e exemplos
+- Faço perguntas que destravam decisões
+- Adapto meu nível de detalhe ao contexto e audiência
 - Compartilho contexto e raciocínio por trás de decisões
 
 ### Liderança Cultural
@@ -153,7 +151,7 @@ Entendo profundamente necessidades dos clientes e tomo decisões que maximizam v
 Busco constantemente formas melhores de resolver problemas e não tenho medo de experimentar.
 
 ### ⚡ Agilidade para Resultado
-Entrego consistentemente com qualidade e no prazo, balanceando velocidade com sustentabilidade.
+Entrego com qualidade e no prazo, balanceando velocidade com sustentabilidade.
 
 ### 💰 Fazer Mais com Menos
 Busco soluções eficientes que maximizam impacto com recursos disponíveis.
@@ -166,8 +164,8 @@ Colaboro efetivamente, ajudo o time a crescer e construo relacionamentos fortes.
 ## 📈 Indicadores de Progresso para SE III
 
 Você está pronto(a) para evoluir para SE III quando:
-- Lidera tecnicamente projetos complexos com autonomia completa
+- Lidera tecnicamente projetos complexos com autonomia consistente
 - Resolve problemas ambíguos e de alta complexidade
-- Mentora consistentemente outros engenheiros
+- Mentora de forma consistente outros engenheiros
 - Influencia decisões técnicas significativas do time
 - É referência técnica em um ou mais domínios

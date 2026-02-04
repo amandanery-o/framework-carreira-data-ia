@@ -1,6 +1,6 @@
 # Software Engineer I - Junior (SE I)
 
-> **"Eu entrego código e soluções de dados de alta qualidade com direcionamento do time"**
+> **"Eu entrego tarefas com qualidade e ganho autonomia com apoio do time"**
 
 ---
 
@@ -9,15 +9,15 @@
 ### Escopo de Atuação
 - Executo tarefas definidas e contribuo para resolver problemas com soluções conhecidas
 - Trabalho em partes menores de projetos sob orientação
-- Foco em aprender fundamentos e ganhar autonomia consistentemente
+- Foco em aprender fundamentos e ganhar autonomia de forma consistente
 
 ### Alcance Colaborativo
 - Trabalho dentro do meu time com orientação específica do meu gestor/Tech Lead
 - Começo a entender como meu trabalho se conecta com outros times
 
 ### Alavancas de Impacto
-- **Habilidade Técnica** - Foco principal em melhorar minhas habilidades técnicas de engenharia e dados
-- **Aprendizado** - Absorvo conhecimento rapidamente através de feedback e mentoria
+- **Habilidade Técnica** - Foco em dominar o básico e reduzir erros repetidos
+- **Aprendizado** - Transformo feedback em ajustes práticos na próxima entrega
 
 ---
 
@@ -34,8 +34,8 @@
 - Assumo responsabilidade pelas minhas tarefas e comunico status com transparência
 - Sinalizo impedimentos e bloqueios proativamente
 - Peço ajuda quando necessário e busco aprender com quem tem mais experiência
-- Testo meu código/queries e me preocupo em não quebrar o que já existe
-- Busco entender o "porquê" antes de implementar, fazendo perguntas objetivas
+- Testo meu código/queries antes de entregar e verifico impacto no que já existe
+- Busco entender o "porquê" antes de implementar, fazendo perguntas claras
 
 ### Tomada de Decisão
 - Busco orientação antes de tomar decisões técnicas significativas
@@ -49,17 +49,17 @@
 ### Agilidade
 - Adapto-me a mudanças de prioridade com suporte do time
 - Mantenho foco nas tarefas mesmo com ambiguidade, pedindo clarificação quando necessário
-- Respondo a feedback rapidamente e ajusto minha abordagem
+- Respondo a feedback com ajustes claros na próxima entrega
 
 ### Inovação
 - Experimento com novas ferramentas e abordagens em tarefas supervisionadas
 - Faço sugestões de pequenas melhorias no meu escopo de trabalho
-- Aprendo com erros e compartilho learnings com o time
+- Aprendo com erros e compartilho o que mudou na minha prática
 
 ### Estratégia
 - Entendo como minhas tarefas se conectam aos objetivos do time
 - Busco compreender o roadmap e as prioridades do produto/área
-- Começo a pensar além da task individual, considerando o contexto maior
+- Começo a conectar a minha tarefa com o objetivo maior do time
 
 ---
 
@@ -76,7 +76,7 @@
 - Estou aberto a receber mentoria e coaching
 - Faço perguntas que ajudam outros a também aprenderem
 - Compartilho conhecimento adquirido através de documentação
-- Participo ativamente de revisões de código para aprender com o time
+- Participo de revisões de código para aprender padrões e decisões do time
 - Contribuo para criar um ambiente de segurança psicológica
 
 ---
@@ -98,7 +98,7 @@
 - Adoto práticas de trabalho remoto/híbrido efetivas
 
 ### Comunicação
-- Comunico status e impedimentos com clareza e objetividade
+- Comunico status e impedimentos com clareza, sem esperar o fim do prazo
 - Faço perguntas contextualizadas antes de implementar
 - Escuto ativamente em reuniões e discussões técnicas
 - Documento decisões e aprendizados de forma clara
@@ -122,7 +122,7 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 
 **Expectativas gerais de Habilidade Técnica para SE I:**
 - Entendo conceitos básicos do stack da área (dados, pipelines, SQL, Python/R)
-- Evoluo rapidamente quando recebo feedback técnico
+- Evoluo de forma consistente quando recebo feedback técnico
 - Escrevo código/queries legíveis e com testes básicos
 - Sigo padrões e convenções estabelecidas pelo time
 - Uso ferramentas de versionamento (git) e colaboração efetivamente
@@ -135,7 +135,7 @@ As habilidades técnicas específicas variam por trilha. Consulte:
 Começo a entender como meu trabalho impacta clientes internos e externos, fazendo perguntas sobre contexto de negócio.
 
 ### 💡 Paixão por Inovar
-Experimento, testo e aprendo com pequenos ajustes, buscando sempre melhorar.
+Experimento, testo e aprendo com pequenos ajustes, buscando melhorar continuamente.
 
 ### ⚡ Agilidade para Resultado
 Cumpro prazos acordados e aviso proativamente quando não conseguirei, sugerindo alternativas.
@@ -154,5 +154,5 @@ Você está pronto(a) para evoluir para SE II quando:
 - Entrega tarefas de complexidade média com mínima supervisão
 - Faz trade-offs técnicos simples de forma autônoma
 - Participa ativamente de revisões de código dando feedback construtivo
-- Ajuda no integração de novos membros do time
+- Ajuda na integração de novos membros do time
 - Identifica e propõe melhorias técnicas no seu escopo

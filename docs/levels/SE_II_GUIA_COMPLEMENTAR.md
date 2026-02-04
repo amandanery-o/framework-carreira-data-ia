@@ -50,7 +50,7 @@
 > "Participo de rotações de on-call e respondo a incidentes de forma efetiva"
 
 **Na prática:**
-- ❌ Fica perdido durante incidentes, sempre escala
+- ❌ Fica perdido durante incidentes, quase sempre escala
 - ✅ Investiga, resolve problemas comuns, documenta, escala quando necessário
 
 **Exemplo de resposta a incidente:**
@@ -316,7 +316,7 @@ Antes de preencher a autoavaliação, reflita:
 
 ## SINAIS DE QUE ESTÁ PRONTO PARA SE III
 
-Você está consistentemente (6+ meses):
+Você vem fazendo isso de forma consistente (6+ meses):
 - ✅ Liderando projetos tecnicamente (não só implementando)
 - ✅ Influenciando decisões arquiteturais
 - ✅ Mentorando juniores e plenos com impacto visível

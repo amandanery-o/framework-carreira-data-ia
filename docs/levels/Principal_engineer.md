@@ -1,6 +1,6 @@
 # Principal Engineer
 
-> **"Eu estabeleço direção técnica para a empresa e impulsiono impacto através de múltiplas organizações"**
+> **"Eu estabeleço direção técnica para a empresa e destravo impacto em escala"**
 
 ---
 
@@ -17,17 +17,17 @@
 - Sou reconhecido como líder de pensamento na indústria
 
 ### Alavancas de Impacto
-- **Company-Wide Strategy** - Defino direção técnica que impacta toda a empresa
-- **Liderança da Indústria** - Represento a empresa como líder de pensamento através de palestras, papers, código aberto
-- **Technical Vision** - Articulo visão técnica de 3-5 anos que alinha tecnologia e negócio
-- **Organizational Transformation** - Conduzo mudanças organizacionais através de liderança técnica e influência
+- **Estratégia de Empresa** - Defino direção técnica que impacta toda a empresa
+- **Liderança da Indústria** - Represento a empresa como referência através de palestras, artigos e código aberto
+- **Visão Técnica** - Articulo visão técnica de 3-5 anos que alinha tecnologia e negócio
+- **Transformação Organizacional** - Conduzo mudanças organizacionais através de liderança técnica e influência
 
 ---
 
 ## 🏆 Resultados
 
 ### Impacto
-- Defino e executo em iniciativas que transformam capacidades técnicas da empresa
+- Defino e executo iniciativas que transformam capacidades técnicas da empresa
 - Identifico oportunidades estratégicas que criam vantagem competitiva significativa
 - Conduzo impacto mensurável em métricas de negócio de nível de empresa (receita, eficiência, satisfação de cliente)
 - Estabeleço novas capacidades técnicas que abrem mercados ou linhas de produto inteiras
@@ -36,12 +36,12 @@
 - Influencio decisões estratégicas de produto e negócio através de liderança técnica
 
 ### Responsabilidade
-- Assumo responsabilidade de direção técnica de longo prazo da empresa
+- Assumo responsabilidade pela direção técnica de longo prazo da empresa
 - Identifico riscos técnicos ou de negócio em nível de empresa e conduzo mitigação
-- Possuo decisões com implicações de milhões de dólares com confiança e responsabilidade
-- Não espero direção - crio direção para outros seguirem
-- Quando problemas críticos surgem, sou chamado para resolvê-los
-- Conduzo post-mortems de issues críticos que resultam em mudanças organizacionais
+- Tomo decisões de alto impacto com responsabilidade e transparência
+- Não espero direção: crio direção para outros seguirem
+- Quando problemas críticos surgem, sou acionado para apoiar a resolução
+- Conduzo pós-mortems de incidentes críticos que resultam em mudanças organizacionais
 - Modelo o mais alto nível de responsabilidade e prestação de contas
 
 ### Tomada de Decisão
@@ -60,17 +60,17 @@
 ### Agilidade
 - Conduzo transformação organizacional em resposta a mudanças de mercado ou tecnologia
 - Adapto estratégia da empresa baseado em sinais emergentes
-- Mantenho múltiplas iniciativas estratégicas de longo prazo avançando
+- Mantenho poucas iniciativas estratégicas de longo prazo avançando
 - Permaneço efetivo mesmo em períodos de mudança organizacional significativa
 - Ajudo empresa a pivotar rapidamente quando necessário
 
 ### Inovação
 - Identifico e promovo tecnologias e abordagens que podem transformar a indústria
 - Crio cultura de inovação responsável e experimentação em escala de empresa
-- Balanço inovação breakthrough com excelência operacional
-- Invento novas soluções para problemas que indústria ainda não resolveu
-- Publico pesquisa, contribuo para código aberto significativo, ou patenteia invenções
-- Posiciono empresa como líder de inovação na indústria
+- Equilibro inovação com excelência operacional
+- Invento novas soluções para problemas que a indústria ainda não resolveu
+- Publico pesquisa, contribuo para código aberto significativo ou patenteio invenções
+- Posiciono a empresa como líder de inovação na indústria
 - Influencio direção da indústria através de liderança de pensamento
 
 ### Estratégia e Gestão de Mudança
@@ -78,9 +78,9 @@
 - Trabalho com CEO/CTO/CPO para alinhar tecnologia, produto e negócio
 - Conduzo transformações técnicas de impacto na empresa (ex: adoção de IA, mudança de arquitetura, modernização de plataforma)
 - Articulo estratégia de forma que inspira e alinha toda a organização
-- Antecipo e endereço resistência organizacional proativamente
+- Antecipo e abordo resistência organizacional proativamente
 - Estabeleço frameworks de governança para decisões técnicas de alto impacto
-- Avalio e influencia decisões de M&A do ponto de vista técnico
+- Avalio e influencio decisões de M&A do ponto de vista técnico
 
 ---
 
@@ -110,7 +110,7 @@
 - Construo e mantenho relacionamentos fortes com C-level e diretoria
 - Represento tecnologia em conversas estratégicas de negócio
 - Facilito alinhamento entre engenharia, produto, vendas, marketing e outras funções
-- Trabalho efetivamente com founders, investidores e diretoria members
+- Trabalho efetivamente com founders, investidores e membros da diretoria
 - Resolvo os conflitos mais difíceis que ninguém mais consegue resolver
 - Modelo colaboração excepcional mesmo sob pressão extrema
 

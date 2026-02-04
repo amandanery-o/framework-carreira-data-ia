@@ -1,6 +1,6 @@
 # Engineering Manager (EM)
 
-> **"Eu desenvolvo pessoas, construo times de alta desempenho e entrego valor de negócio de forma sustentável"**
+> **"Eu desenvolvo pessoas e construo um time que entrega sem se esgotar"**
 
 ---
 
@@ -9,48 +9,48 @@
 ### Escopo de Atuação
 - Responsável pelo desenvolvimento, bem-estar e desempenho de um time de engenharia (5-10 pessoas)
 - Garanto que o time entregue valor de forma sustentável
-- Accountable pelos resultados do time e pela saúde organizacional
+- Respondo pelos resultados do time e pela saúde organizacional
 
 ### Alcance Colaborativo
-- Trabalho com meu time direto, Tech Lead (se houver), e partes interessadas (PM, Design, etc.)
-- Colaboro com outros Engineering Managers e Senior Leadership
+- Trabalho com meu time direto, Tech Lead (se houver) e partes interessadas (PM, Design, etc.)
+- Colaboro com outros Engineering Managers e liderança
 - Influencio práticas e cultura além do meu time
 
 ### Alavancas de Impacto
-- **People Development** - Desenvolvo pessoas através de coaching, feedback e oportunidades
-- **Team desempenho** - Garanto entregas consistentes e de qualidade
-- **Organizational Health** - Construo cultura de time saudável e de alto desempenho
-- **Strategic Alignment** - Alineo trabalho do time com objetivos de negócio
+- **Desenvolvimento de Pessoas** - Desenvolvo pessoas através de coaching, feedback e oportunidades
+- **Desempenho do Time** - Garanto entregas consistentes e de qualidade
+- **Saúde Organizacional** - Construo cultura de time saudável e de alto desempenho
+- **Alinhamento Estratégico** - Alineo trabalho do time com objetivos de negócio
 
 ### Papel na Carreira
-**Engineering Manager** é o **management track** da carreira de engenharia. É para quem quer desenvolver pessoas, construir times de alta desempenho e criar ambiente onde engenheiros prosperam.
+**Engineering Manager** é a **trilha de gestão** da carreira de engenharia. É para quem quer desenvolver pessoas, construir times de alta desempenho e criar ambiente onde engenheiros prosperam.
 
 ---
 
 ## 🎯 Princípios Fundamentais do EM
 
-1. **People First** - O time é seu produto principal
-2. **Servant Leadership** - Você existe para servir e desbloquear o time
+1. **Pessoas em Primeiro Lugar** - O time é seu produto principal
+2. **Liderança Servidora** - Você existe para servir e desbloquear o time
 3. **Prestação de Contas** - Você responde pelos resultados, o time recebe o crédito
-4. **Context over Control** - Provê contexto para decisões autônomas
-5. **Sustainable desempenho** - Resultados de longo prazo, não sprints heroicos
+4. **Contexto acima de Controle** - Dá contexto para decisões autônomas
+5. **Desempenho Sustentável** - Resultados de longo prazo, não sprints heroicos
 
 ---
 
 ## 🏆 Resultados
 
 ### Impacto
-- Entrego valor de negócio consistente através de entregas do time
+- Entrego valor de negócio consistente através das entregas do time
 - Garanto que o time atinja objetivos trimestrais/anuais com qualidade
 - Traduzo estratégia de produto/negócio em planos executáveis
 - Meço e comunico impacto do time em métricas de negócio
 - Identifico e removo impedimentos que bloqueiam progresso
-- Mantenho predictabilidade de entregas trimestre-over-trimestre
+- Mantenho previsibilidade de entregas trimestre a trimestre
 - Balanço velocidade com sustentabilidade (evito burnout do time)
 
 ### Responsabilidade
 - Assumo prestação de contas total por resultados, desempenho e saúde do time
-- Possuo decisões difíceis (contratação, promoção, desempenho issues, desligamentos)
+- Conduzo decisões difíceis (contratação, promoção, desempenho, desligamentos)
 - Gerencio capacidade do time realisticamente evitando over-commitment
 - Protejo time de thrash e mudanças constantes de prioridade
 - Respondo por falhas do time e aprendo com elas
@@ -61,8 +61,8 @@
 - Tomo decisões de gestão de pessoas (promoções, PIPs, compensação)
 - Balanço necessidades individuais com necessidades do time e negócio
 - Decido prioridades em colaboração com PM e Tech Lead
-- Gerencio trade-offs de escopo, qualidade e timeline
-- Tomo decisões difíceis sobre desempenho issues com empatia e profissionalismo
+- Gerencio trade-offs de escopo, qualidade e prazo
+- Tomo decisões difíceis sobre desempenho com empatia e profissionalismo
 - Negocio com partes interessadas baseado em capacidade real e dados
 - Não evito conversas difíceis, mas as preparo cuidadosamente
 
@@ -79,9 +79,9 @@
 
 ### Inovação
 - Promovo cultura de experimentação, aprendizado e melhoria contínua
-- Crio espaço para time explorar novas tecnologias e abordagens
+- Crio espaço para o time explorar novas tecnologias e abordagens
 - Implemento melhorias em processos e práticas baseado em feedback
-- Encorajo ideias e testa novas formas de trabalhar
+- Encorajo ideias e testo novas formas de trabalhar
 - Celebro aprendizados, incluindo "falhas inteligentes"
 - Ajo em action items de retrospectivas consistentemente
 

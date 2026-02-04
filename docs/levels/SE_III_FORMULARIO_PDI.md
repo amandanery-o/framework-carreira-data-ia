@@ -235,7 +235,7 @@ _________________________________________________________
 - Melhorar desempenho de sistema crítico
 - Implementar padrão de observabilidade
 - Simplificar processo de integração
-- Eliminar fonte de toil recorrente
+- Eliminar fonte de retrabalho operacional recorrente
 
 **Sua resposta:**
 

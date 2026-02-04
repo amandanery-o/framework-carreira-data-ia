@@ -1,6 +1,6 @@
 # Tech Lead (TL)
 
-> **"Eu lidero tecnicamente um time, garantindo excelência técnica, desenvolvendo pessoas e entregando valor de forma sustentável"**
+> **"Eu lidero tecnicamente um time e destravo entregas com qualidade e clareza"**
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### Escopo de Atuação
 - Lidero tecnicamente um time (5-10 pessoas), definindo direção arquitetural e técnica
-- Garanto qualidade, confiabilidade e excelência operacional das entregas do time
+- Garanto qualidade e confiabilidade das entregas do time, sem virar gargalo
 - Atuo como ponte entre executores (SE I/II/III) e partes interessadas
 
 ### Alcance Colaborativo
@@ -23,7 +23,7 @@
 - **Excelência Técnica** - Estabeleço e mantenho padrões de qualidade e arquitetura
 
 ### Papel na Carreira
-**Tech Lead** é uma **bifurcação do trilha IC** para liderança técnica de time. É para quem quer liderar tecnicamente um time, desenvolvendo pessoas através de liderança técnica, **sem gestão formal de gestão de pessoas**.
+**Tech Lead** é uma **bifurcação da trilha IC (Individual Contributor)** para liderança técnica de time. É para quem quer liderar tecnicamente um time, desenvolvendo pessoas através de liderança técnica, **sem gestão formal de pessoas**.
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### Impacto
 - Entrego valor de negócio consistente através de entregas técnicas de alta qualidade do time
-- Garanto que o time entrega sprints/trimestres on-time com qualidade
+- Garanto que o time entrega no prazo com qualidade, sem apagar incêndio
 - Tomo decisões técnicas que maximizam impacto e minimizam risco
 - Traduzo roadmap de produto/plataforma em trabalho técnico executável
 - Projeto arquitetura de sistemas considerando escalabilidade, confiabilidade e developer experience
@@ -40,9 +40,9 @@
 
 ### Responsabilidade
 - Assumo responsabilidade pela saúde técnica e arquitetural dos sistemas do time
-- Garanto qualidade através de revisões de código atentos em 100% dos PRs críticos
+- Garanto qualidade através de revisões de código atentas nos PRs críticos
 - Gerencio débito técnico de forma consciente, balanceando com features
-- Respondo a incidentes críticos e conduzo post-mortems blameless
+- Respondo a incidentes críticos e conduzo pós-mortems sem caça às bruxas
 - Mantenho documentação arquitetural atualizada e acessível
 - Defino e monitoro SLIs/SLOs para serviços do time
 - Crio design docs para features significativas (>1 semana de trabalho)
@@ -61,17 +61,17 @@
 ## 🌟 Direção
 
 ### Agilidade
-- Adapto planos técnicos rapidamente baseado em mudanças de requisitos
+- Adapto planos técnicos rapidamente com base em mudanças de requisitos
 - Balanço necessidades de curto prazo (features) com saúde técnica de longo prazo
 - Desbloqueo time rapidamente através de programação em par ou decisões técnicas
-- Identifico slippage antecipadamente e ajusto plano com Engineering Manager
+- Identifico deslizamentos de prazo antecipadamente e ajusto plano com Engineering Manager
 - Mantenho foco em entregas mesmo com ambiguidade de requisitos
 
 ### Inovação
 - Identifico oportunidades de melhoria técnica que geram valor
 - Experimento novas tecnologias através de POCs antes de adoção
 - Promovo cultura de experimentação segura no time
-- Implemento automação para reduzir toil operacional
+- Implemento automação para reduzir retrabalho operacional
 - Simplifico arquiteturas e reduzo complexidade desnecessária
 - Compartilho conhecimento através de lunch & learns ou workshops internos
 
@@ -91,7 +91,7 @@
 - Busco feedback sobre minha liderança técnica do time e Engineering Manager
 - Desenvolvo habilidades de liderança técnica e comunicação
 - Mantenho-me atualizado com tecnologias e práticas relevantes
-- Participo de comunidades técnicas e grupos de Tech Leads
+- Participo de comunidades técnicas e grupos de Tech Leads quando faz sentido para o time
 - Reflito sobre decisões técnicas e aprendo com outcomes
 - Invisto em crescimento em áreas técnicas e de liderança
 
@@ -111,13 +111,13 @@
 ## 🌈 Cultura
 
 ### Colaboração
-- Colaboro efetivamente com Engineering Manager na saúde do time
+- Colaboro com Engineering Manager na saúde do time
 - Trabalho próximo com Product Manager para alinhar técnico e produto
 - Coordeno com outros Tech Leads para resolver dependências
 - Facilito comunicação saudável e produtiva dentro do time
-- Traduzo jargão técnico para linguagem acessível aos partes interessadas
-- Participo de sync meetings com times dependentes
-- Promovo cultura de revisões de código construtivos e educativos
+- Traduzo jargão técnico para linguagem acessível às partes interessadas
+- Participo de reuniões de alinhamento com times dependentes
+- Promovo cultura de revisões de código construtivas e educativas
 
 ### Saúde Organizacional
 - Construo **cultura de time saudável, colaborativa e de alto desempenho**
@@ -154,7 +154,7 @@
 - Mantenho **contexto técnico profundo** dos sistemas do time
 - Realizo troubleshooting e debugging de issues complexos
 - Participo de on-call rotation quando aplicável
-- Faço revisões de código em 100% dos PRs críticos do time
+- Faço revisões de código nos PRs críticos do time
 - Uso mesmas ferramentas e stack que o time
 
 ### Arquitetura & Design
@@ -171,14 +171,14 @@
 - Estabeleço e atualizo **guias de estilo, linters e ferramentas** de análise estática
 - Garanto alta cobertura de testes (unitários, integração, E2E)
 - Promovo práticas de **CI/CD** e automation
-- Reviso 100% dos PRs críticos com feedback educativo
+- Reviso os PRs críticos com feedback educativo
 - Aloco tempo dedicado para redução de débito técnico (ex: 20% do sprint)
 
 ### Operação & Confiabilidade
 - Defino **SLIs/SLOs** para serviços do time
 - Crio e mantenho **runbooks** atualizados
 - Implemento **observabilidade** (logs, metrics, traces, alerts)
-- Automatizo trabalho repetitivo (toil reduction)
+- Automatizo trabalho repetitivo (redução de retrabalho operacional)
 - Participo de on-call rotation e post-mortems
 
 ### Planejamento Técnico
@@ -239,7 +239,7 @@ Facilito comunicação saudável dentro do time, promovo segurança psicológica
 - Considerar backward compatibility
 
 ### 2. Code Quality & Best Practices
-- Realizar revisões de código em 100% dos PRs críticos
+- Realizar revisões de código nos PRs críticos
 - Estabelecer guias de estilo e ferramentas
 - Criar exemplos de código como referência
 - Alocar tempo para débito técnico (20% do sprint)
@@ -260,7 +260,7 @@ Facilito comunicação saudável dentro do time, promovo segurança psicológica
 - Definir SLIs/SLOs
 - Criar e manter runbooks
 - Participar de on-call rotation
-- Implementar automação para reduzir toil
+- Implementar automação para reduzir retrabalho operacional
 
 ### 6. Mentoria & Desenvolvimento do Time
 - programação em par regularmente (2-3x por semana)

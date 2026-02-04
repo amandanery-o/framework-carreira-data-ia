@@ -1,6 +1,6 @@
 # Lead Engineer
 
-> **"Eu entrego impacto de negócio contínuo através de um time, domínio de dados ou sistema técnico"**
+> **"Eu entrego impacto contínuo guiando decisões técnicas que mudam o jogo do time"**
 
 ---
 
@@ -12,40 +12,38 @@
 - Defino soluções técnicas ou processos operacionais eficientes que elevam meu time
 
 ### Alcance Colaborativo
-- Sou um líder forte para meu time com meu impacto começando a se estender fora do meu time
-- Otimizo cada vez mais além do meu time conduzindo iniciativas cross-team ou cross-discipline
+- Sou um líder forte para meu time e meu impacto começa a se estender além dele
+- Conduzo iniciativas cross-team ou cross-discipline quando há dependências reais
 
 ### Alavancas de Impacto
-- **Technical Strategy** - Tenho papel chave em definir estratégia de médio a longo prazo para projetos de impacto no negócio
-- **Project Leadership** - Defino e entrego autonomamente roadmaps técnicos de projetos maiores, frequentemente envolvendo dependências cross-team
-- **Product Expertise** - Mantenho necessidades dos clientes em mente e cada vez mais influencio decisões de produto
-- **Mentoria** - Elevo ativamente membros menos experientes do time, incluindo outros seniors
+- **Estratégia Técnica** - Defino estratégia de médio a longo prazo para projetos que mexem no negócio
+- **Liderança de Projeto** - Defino e entrego roadmaps técnicos de projetos maiores, com dependências cross-team
+- **Expertise de Produto** - Mantenho necessidades dos clientes em mente e influencio decisões de produto
+- **Mentoria** - Elevo membros menos experientes do time, incluindo outros seniors
 
 ---
 
 ## 🏆 Resultados
 
 ### Impacto
-- Entrego muitos dos objetivos do meu time no prazo e com alto padrão de qualidade
-- Minha compreensão do contexto de negócio e objetivos do time me permitem ter o maior impacto no cliente
+- Entrego objetivos do meu time no prazo e com alto padrão de qualidade
+- Uso o contexto de negócio para escolher o que realmente move a agulha para o cliente
 - Tomo decisões técnicas independentes diante de requisitos abertos
-- Identifico quando meus resultados não estão movendo a agulha e trabalho com gestor para redirecionar foco
-- Simplifico chegando ao cerne do problema e priorizando as coisas certas
+- Identifico quando meus resultados não estão movendo a agulha e redireciono o foco com o gestor
+- Simplifico chegando ao cerne do problema e priorizando o que destrava o time
 - Melhoro como nosso time mede e comunica impacto no cliente
 
 ### Responsabilidade
-- Identifico proativamente novas oportunidades e advogo por melhorias que podem ter impacto amplo no negócio
-- Assumo responsabilidade por minhas decisões e falhas no meu projeto e tomo ação para preveni-las no futuro
-- Abraço e compartilho aprendizados dessas falhas
-- Quando encontro barreiras, desbloqueo a mim e ao time avaliando e eliminando a causa raiz
-- Respondo com urgência a issues operacionais, possuindo resolução dentro da minha esfera de responsabilidade
-- Busco ativamente e elimino fontes de toil no time e ajudo a reduzir impacto de KTLO e SEVs
-- Não tenho medo de declarar um SEV quando necessário
-- Crio e atualizo proativamente playbooks para componentes que possuo
+- Identifico oportunidades e advogo por melhorias com impacto real no negócio
+- Assumo responsabilidade por decisões e falhas e tomo ação para evitar repetição
+- Quando encontro barreiras, destravo com análise de causa raiz
+- Respondo com urgência a incidentes operacionais dentro da minha esfera de responsabilidade
+- Reduzo retrabalho operacional e impacto de sustentação crítica
+- Crio e atualizo playbooks para componentes que possuo
 
 ### Tomada de Decisão
-- Tomo decisões informadas através de debate produtivo com partes interessadas certos
-- Busco perspectivas diversas, balanceando detalhes com big picture
+- Tomo decisões informadas através de debate produtivo com partes interessadas certas
+- Busco perspectivas diversas, equilibrando detalhes com visão geral
 - Otimizo para a empresa, não apenas meu time
 - Entendo implicações das minhas decisões e ajusto abordagem baseado em impacto e risco
 - Uso insights sobre clientes para informar decisões
@@ -56,23 +54,21 @@
 ## 🌟 Direção
 
 ### Agilidade
-- Abraço mudança e me adapto rapidamente
-- Permaneço resiliente através de mudança mantendo calma sob pressão
-- Navego ambiguidade focando no propósito maior e objetivos
+- Me adapto a mudanças sem perder o foco do time
+- Mantenho calma sob pressão para não virar gargalo
+- Navego ambiguidade focando no propósito e no próximo passo
 
 ### Inovação
-- Tenho growth mindset e experimento com novas abordagens
-- Estabeleço objetivos audaciosos, tomo riscos e compartilho lições
-- Começo a empurrar limites usando melhores práticas da indústria e feedback de clientes
-- Implemento estratégias que movem produtos, ferramentas ou serviços para frente
+- Experimento novas abordagens com responsabilidade e compartilho lições
+- Tomo riscos calculados quando há ganho real para o produto
+- Uso feedback de clientes e práticas da indústria para destravar melhorias
 
 ### Estratégia
-- Defino roadmap técnico para projetos impactantes de múltiplas fases
-- Refino roadmap conforme projetos progridem para entregar valor rapidamente
-- Forneço liderança para pessoas executando o projeto
-- Em parceria com meu gestor, defino prioridades do time e garanto buy-in
-- Engajo partes interessadas e alinhe com prioridades da empresa e necessidades dos clientes
-- Gero entusiasmo pela estratégia do meu/nosso time
+- Defino roadmap técnico para projetos de múltiplas fases
+- Refino roadmap conforme projetos progridem para entregar valor cedo
+- Dou direção para quem executa o projeto sem microgerenciar
+- Em parceria com meu gestor, defino prioridades do time e garanto alinhamento
+- Engajo partes interessadas com contexto e riscos claros
 
 ---
 
@@ -97,12 +93,12 @@
 ## 🌈 Cultura
 
 ### Colaboração
-- Promovo e modelo valores core, liderando pelo exemplo
+- Promovo e modelo valores centrais, liderando pelo exemplo
 - Construo relacionamentos e conduzo coordenação entre times e disciplinas
 - Comunico proativamente e coordeno requisitos do time com outros grupos
 - Sou efetivo trabalhando com partes interessadas cross-funcionais
 - Me engajo em conflito produtivo com questionamento atencioso
-- Evito blame e resolvo problemas certos, discordando e commitando quando necessário
+- Evito blame e resolvo problemas certos, discordando e seguindo a decisão quando necessário
 
 ### Saúde Organizacional
 - Trabalho com gestor para alavancar forças únicas dos membros do time
@@ -173,7 +169,7 @@ Profunda compreensão de clientes e antecipo necessidades. Influencio decisões 
 Empurro limites técnicos e de produto. Experimento com novas abordagens e compartilho aprendizados amplamente.
 
 ### ⚡ Agilidade para Resultado
-Entrego consistentemente objetivos de alto impacto. Simplifico e priorizo impiedosamente.
+Entrego consistentemente objetivos de alto impacto. Simplifico e priorizo com rigor.
 
 ### 💰 Fazer Mais com Menos
 Otimizo para eficiência em escala de time. Crio soluções que podem ser reusadas e adaptadas.
