@@ -93,9 +93,6 @@ DIRETORIOS_PRIORITARIOS = [
     'docs/competencies/',
     'docs/culture/',
     'docs/tracks/',
-    'tracks/',
-    'competencies/',
-    'culture/',
     'promotion/',
 ]
 

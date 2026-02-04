@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Script para fazer upload de arquivos Markdown para Confluence
-Foca inicialmente nos arquivos de levels/
+Foca inicialmente nos arquivos de docs/levels/
 """
 
 import os
@@ -157,7 +157,7 @@ def create_or_update_page(title, content_html, space_key, parent_id=None):
 
 def upload_levels_to_confluence():
     """
-    Faz upload de todos os arquivos de levels/ para Confluence
+    Faz upload de todos os arquivos de docs/levels/ para Confluence
     """
     levels_dir = Path(__file__).parent.parent / "levels"
     

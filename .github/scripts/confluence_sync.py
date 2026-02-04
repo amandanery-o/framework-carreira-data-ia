@@ -240,20 +240,14 @@ def main():
     auth = HTTPBasicAuth(CONFLUENCE_USERNAME, CONFLUENCE_API_TOKEN)
     parent_id = CONFLUENCE_PARENT_PAGE_ID if CONFLUENCE_PARENT_PAGE_ID else None
     
-    # Busca arquivos para sincronizar
-    # Primeiro tenta docs/levels/, depois levels/
-    levels_dirs = [
-        Path("docs/levels"),
-        Path("levels")
-    ]
-    
+    # Busca arquivos para sincronizar (fonte única)
+    levels_dir = Path("docs/levels")
     md_files = []
-    for levels_dir in levels_dirs:
-        if levels_dir.exists():
-            md_files.extend(list(levels_dir.glob("*.md")))
+    if levels_dir.exists():
+        md_files.extend(list(levels_dir.glob("*.md")))
     
     if not md_files:
-        print("⚠️  Nenhum arquivo .md encontrado em levels/ ou docs/levels/")
+        print("⚠️  Nenhum arquivo .md encontrado em docs/levels/")
         return
     
     print(f"📤 Encontrados {len(md_files)} arquivos para sincronizar\n")

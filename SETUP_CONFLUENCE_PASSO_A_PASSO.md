@@ -142,17 +142,17 @@ Value: 123456789
 
 ### **6.1 Fazer alteração de teste**
 
-Edite qualquer arquivo em `levels/`:
+Edite qualquer arquivo em `docs/levels/`:
 
 ```bash
 cd "/Users/amandanery/Workspace/trilha de carreira data & ia"
-# Edite levels/SE_I_junior.md (adicione um espaço ou comentário)
+# Edite docs/levels/SE_I_junior.md (adicione um espaço ou comentário)
 ```
 
 ### **6.2 Commit e Push**
 
 ```bash
-git add levels/
+git add docs/levels/
 git commit -m "test: sincronização automática Confluence"
 git push origin main
 ```
@@ -187,7 +187,7 @@ Se quiser testar sem fazer push:
 
 ## 🎉 Pronto!
 
-Agora **sempre que você fizer push** em arquivos de `levels/`, o Confluence será atualizado automaticamente!
+Agora **sempre que você fizer push** em arquivos de `docs/levels/`, o Confluence será atualizado automaticamente!
 
 ---
 

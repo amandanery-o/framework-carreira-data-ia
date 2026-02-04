@@ -1,6 +1,6 @@
 # 📤 Upload para Confluence - Guia Rápido
 
-Este guia te ajuda a fazer upload dos arquivos de **levels/** para o Confluence de forma automatizada.
+Este guia te ajuda a fazer upload dos arquivos de **docs/levels/** para o Confluence de forma automatizada.
 
 ---
 
@@ -38,7 +38,7 @@ CONFLUENCE_PARENT_PAGE_ID = None  # Ou ID da página pai se quiser organizar
 python scripts/confluence_upload.py
 ```
 
-**Pronto!** Todos os arquivos de `levels/` serão criados/atualizados no Confluence.
+**Pronto!** Todos os arquivos de `docs/levels/` serão criados/atualizados no Confluence.
 
 ---
 
@@ -63,7 +63,7 @@ python scripts/confluence_upload.py
 
 ### **Passo a passo:**
 
-1. **Abra arquivo** em `levels/` (ex: `SE_I_junior.md`)
+1. **Abra arquivo** em `docs/levels/` (ex: `SE_I_junior.md`)
 2. **Copie conteúdo** completo
 3. **No Confluence:**
    - Criar nova página
@@ -107,8 +107,8 @@ python scripts/confluence_upload.py
 
 Depois de fazer upload dos levels, você pode:
 
-1. Fazer upload de `competencies/`
-2. Fazer upload de `tracks/`
+1. Fazer upload de `docs/competencies/`
+2. Fazer upload de `docs/tracks/`
 3. Criar índice/página principal
 4. Organizar em hierarquia
 

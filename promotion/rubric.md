@@ -20,6 +20,6 @@ Cada nível (E1–E5) aumenta o grau esperado em cada dimensão:
 
 Use esta rubrica em conjunto com:
 
-- os One-Pagers de cada nível (`levels/`),
-- as trilhas técnicas (`tracks/`),
+- os One-Pagers de cada nível (`docs/levels/`),
+- as trilhas técnicas (`docs/tracks/`),
 - os templates de promoção (`promotion_packet_template.md`).

@@ -301,7 +301,7 @@ Para cada candidato, avalie cada dimensão:
 - "Como isso se compara com [pessoa X]?"
 
 **Compare com padrões, não pessoas:**
-- Use os arquivos de `/levels/` como referência
+- Use os arquivos de `/docs/levels/` como referência
 - Não compare personalidades, compare performance
 
 **Considere viés:**
@@ -481,9 +481,9 @@ Você está no caminho certo, só precisamos de mais tempo e evidências.
 ## 📚 Recursos Adicionais
 
 - [`template_promotion.md`](./template_promotion.md) - Template para documentar caso
-- [`/levels/`](../levels/) - Descrições detalhadas de cada nível
+- [`/docs/levels/`](../docs/levels/) - Descrições detalhadas de cada nível
 - [`NIVEIS_REFERENCIA.md`](../NIVEIS_REFERENCIA.md) - Matriz de Scope/Reach/Impact
-- [`/tracks/`](../tracks/) - Expectativas técnicas por trilha
+- [`/docs/tracks/`](../docs/tracks/) - Expectativas técnicas por trilha
 
 ---
 

@@ -7,7 +7,7 @@ Este guia configura a sincronização automática: **sempre que você fizer push
 ## 🎯 Como Funciona
 
 1. Você faz push no git (ex: `git push origin main`)
-2. GitHub Actions detecta mudanças em `levels/` ou `docs/levels/`
+2. GitHub Actions detecta mudanças em `docs/levels/`
 3. Script Python roda automaticamente
 4. Páginas são criadas/atualizadas no Confluence
 5. ✅ Pronto! Confluence sempre sincronizado com git
@@ -75,10 +75,10 @@ Value: 123456789
 
 ### **Teste 1: Push manual**
 
-1. Faça uma pequena alteração em qualquer arquivo de `levels/`
+1. Faça uma pequena alteração em qualquer arquivo de `docs/levels/`
 2. Commit e push:
    ```bash
-   git add levels/
+   git add docs/levels/
    git commit -m "test: sincronização Confluence"
    git push origin main
    ```
@@ -142,16 +142,15 @@ Value: 123456789
 ## 📋 O que é sincronizado
 
 **Arquivos sincronizados automaticamente:**
-- ✅ Todos os `.md` em `levels/`
 - ✅ Todos os `.md` em `docs/levels/`
 
 **Quando sincroniza:**
 - ✅ Push para branch `main`
-- ✅ Mudanças em arquivos de `levels/` ou `docs/levels/`
+- ✅ Mudanças em arquivos de `docs/levels/`
 - ✅ Execução manual via GitHub Actions
 
 **O que NÃO sincroniza automaticamente:**
-- ❌ Arquivos em outras pastas (competencies, tracks, etc)
+- ❌ Arquivos em outras pastas (docs/competencies, docs/tracks, etc)
 - ❌ Mudanças em outras branches
 
 ---
@@ -164,10 +163,9 @@ Edite `.github/workflows/confluence-sync.yml`:
 
 ```yaml
 paths:
-  - 'levels/**'
   - 'docs/levels/**'
-  - 'competencies/**'      # Adicione aqui
-  - 'tracks/**'           # Adicione aqui
+  - 'docs/competencies/**'      # Adicione aqui
+  - 'docs/tracks/**'           # Adicione aqui
 ```
 
 ### **Sincronizar em outras branches:**

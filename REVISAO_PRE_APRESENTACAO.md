@@ -28,7 +28,7 @@
 ### 1. **Estrutura Sólida e Profissional**
 - Framework de 4 dimensões inspirado em melhores práticas (Dropbox)
 - Níveis bem definidos com progressão clara de Scope/Reach/Impact
-- Separação limpa entre competências comportamentais (`/levels/`) e técnicas (`/tracks/`)
+- Separação limpa entre competências comportamentais (`/docs/levels/`) e técnicas (`/docs/tracks/`)
 
 ### 2. **Completude e Detalhamento**
 - **9 níveis de carreira** totalmente documentados
@@ -55,7 +55,7 @@
 
 ### 🟡 Prioridade Média
 
-1. **Arquivos de Competências (`/competencies/`)**
+1. **Arquivos de Competências (`/docs/competencies/`)**
    - Status: Apenas `tech_excellence.md` está detalhado
    - Faltam: `execution.md`, `communication.md`, `leadership.md`
    - **Ação:** Opcional - Podem ser desenvolvidos após lançamento inicial
@@ -66,7 +66,7 @@
    - **Ação:** Verificar se há duplicação e consolidar se necessário
 
 3. **Arquivo de Cultura**
-   - `culture/mapping_to_gupy_culture.md` está muito básico (8 linhas)
+   - `docs/culture/mapping_to_gupy_culture.md` está muito básico (8 linhas)
    - **Ação:** Pode ser expandido, mas integração já existe nos arquivos de níveis
 
 ### 🟢 Prioridade Baixa

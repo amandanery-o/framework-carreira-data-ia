@@ -17,35 +17,35 @@
 
 ### 📁 Níveis (9 arquivos):
 ```
-✅ levels/SE_I_junior.md
-✅ levels/SE_II_pleno.md
-✅ levels/SE_III_senior.md
-✅ levels/Lead_engineer.md
-✅ levels/Staff_engineer.md
-✅ levels/Staff_II_senior_staff.md
-✅ levels/Principal_engineer.md
-✅ levels/Tech_lead.md
-✅ levels/Engineering_manager.md
+✅ docs/levels/SE_I_junior.md
+✅ docs/levels/SE_II_pleno.md
+✅ docs/levels/SE_III_senior.md
+✅ docs/levels/Lead_engineer.md
+✅ docs/levels/Staff_engineer.md
+✅ docs/levels/Staff_II_senior_staff.md
+✅ docs/levels/Principal_engineer.md
+✅ docs/levels/Tech_lead.md
+✅ docs/levels/Engineering_manager.md
 ```
 
 ### 📁 Competências (4 arquivos):
 ```
-✅ competencies/tech_excellence.md
-✅ competencies/execution.md
-✅ competencies/communication.md
-✅ competencies/leadership.md
+✅ docs/competencies/tech_excellence.md
+✅ docs/competencies/execution.md
+✅ docs/competencies/communication.md
+✅ docs/competencies/leadership.md
 ```
 
 ### 📁 Trilhas Técnicas (3 arquivos):
 ```
-✅ tracks/data_engineering.md
-✅ tracks/analytics_engineering.md
-✅ tracks/cientista_de_dados.md
+✅ docs/tracks/data_engineering.md
+✅ docs/tracks/analytics_engineering.md
+✅ docs/tracks/cientista_de_dados.md
 ```
 
 ### 📁 Cultura (1 arquivo):
 ```
-✅ culture/mapping_to_gupy_culture.md
+✅ docs/culture/mapping_to_gupy_culture.md
 ```
 
 ### 📁 Promoção (2 arquivos):
@@ -131,10 +131,10 @@ git status
 
 **Deve mostrar:**
 - ✅ README.md, SUMARIO.md, etc.
-- ✅ levels/
-- ✅ competencies/
-- ✅ tracks/
-- ✅ culture/
+- ✅ docs/levels/
+- ✅ docs/competencies/
+- ✅ docs/tracks/
+- ✅ docs/culture/
 - ✅ promotion/
 - ❌ avaliacao/ (ignorado)
 - ❌ em-operating-system/ (ignorado)
@@ -247,24 +247,24 @@ framework-carreira-data-ia/
 ├── 📄 SUMARIO.md
 ├── 📄 NIVEIS_REFERENCIA.md
 │
-├── 📂 levels/ (9 níveis)
+├── 📂 docs/levels/ (9 níveis)
 │   ├── SE_I_junior.md
 │   ├── SE_II_pleno.md
 │   ├── SE_III_senior.md
 │   └── ...
 │
-├── 📂 competencies/ (4 competências)
+├── 📂 docs/competencies/ (4 competências)
 │   ├── tech_excellence.md
 │   ├── execution.md
 │   ├── communication.md
 │   └── leadership.md
 │
-├── 📂 tracks/ (3 trilhas)
+├── 📂 docs/tracks/ (3 trilhas)
 │   ├── data_engineering.md
 │   ├── analytics_engineering.md
 │   └── cientista_de_dados.md
 │
-├── 📂 culture/
+├── 📂 docs/culture/
 │   └── mapping_to_gupy_culture.md
 │
 ├── 📂 promotion/

@@ -179,7 +179,7 @@ Se executar o PDI → Culture sobe para 4.0 → **PRONTA PARA PROMOÇÃO!** 🚀
    - Gráficos de radar automatizados
 
 2. **Rubricas de Craft por Trilha**
-   - Já tenho as trilhas técnicas (`/tracks/`)
+   - Já tenho as trilhas técnicas (`/docs/tracks/`)
    - Poderia criar rubricas mais detalhadas
    - Avaliação de skills específicas (SQL, Python, dbt...)
 

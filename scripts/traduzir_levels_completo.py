@@ -74,7 +74,7 @@ TRADUCOES = {
 
 # Arquivos para processar
 ARQUIVOS_PRIORITARIOS = [
-    'levels/',
+    'docs/levels/',
 ]
 
 def traduzir_arquivo(caminho_arquivo):

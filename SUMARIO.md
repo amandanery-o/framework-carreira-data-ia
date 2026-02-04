@@ -22,7 +22,7 @@ Este repositório contém um **framework completo de carreira** para times de Da
 ├── 📄 NIVEIS_REFERENCIA.md               # Matriz Scope/Reach/Impact
 ├── 📄 SUMARIO.md                         # Este arquivo
 │
-├── 📂 levels/                             # 9 arquivos de níveis
+├── 📂 docs/levels/                        # 9 arquivos de níveis
 │   ├── SE_I_junior.md                    # ✅ Completo com 4 dimensões
 │   ├── SE_II_pleno.md                    # ✅ Completo com 4 dimensões
 │   ├── SE_III_senior.md                  # ✅ Completo com 4 dimensões
@@ -33,7 +33,7 @@ Este repositório contém um **framework completo de carreira** para times de Da
 │   ├── Tech_lead.md                      # ✅ Completo com 4 dimensões
 │   └── Engineering_manager.md            # ✅ Completo com 4 dimensões
 │
-├── 📂 tracks/                             # 3 trilhas técnicas
+├── 📂 docs/tracks/                        # 3 trilhas técnicas
 │   ├── data_engineering.md               # ✅ Reorganizado (foco em Craft)
 │   ├── analytics_engineering.md          # ✅ Reorganizado (foco em Craft)
 │   └── cientista_de_dados.md            # ✅ Reorganizado (foco em Craft)
@@ -42,13 +42,13 @@ Este repositório contém um **framework completo de carreira** para times de Da
 │   ├── template_promotion.md             # ✅ Template completo
 │   └── calibration_guide.md              # ✅ Guia para gestores
 │
-├── 📂 competencies/                       # Competências transversais
+├── 📂 docs/competencies/                  # Competências transversais
 │   ├── tech_excellence.md
 │   ├── execution.md
 │   ├── communication.md
 │   └── leadership.md
 │
-└── 📂 culture/                            # Cultura Gupy
+└── 📂 docs/culture/                       # Cultura Gupy
     └── gupy_values.md
 ```
 
@@ -60,11 +60,11 @@ Este repositório contém um **framework completo de carreira** para times de Da
 
 **Quero entender meu nível atual:**
 1. Leia [`README.md`](README.md) - Visão geral
-2. Leia [`levels/[SEU_NIVEL].md`](levels/) - Expectativas completas
-3. Revise [`tracks/[SUA_TRILHA].md`](tracks/) - Skills técnicas
+2. Leia [`docs/levels/[SEU_NIVEL].md`](docs/levels/) - Expectativas completas
+3. Revise [`docs/tracks/[SUA_TRILHA].md`](docs/tracks/) - Skills técnicas
 
 **Quero me preparar para promoção:**
-1. Compare com [`levels/[PROXIMO_NIVEL].md`](levels/)
+1. Compare com [`docs/levels/[PROXIMO_NIVEL].md`](docs/levels/)
 2. Identifique gaps nas 4 dimensões
 3. Use [`promotion/template_promotion.md`](promotion/template_promotion.md)
 4. Converse com seu gestor
@@ -76,7 +76,7 @@ Este repositório contém um **framework completo de carreira** para times de Da
 
 **Quero fazer 1:1 de carreira:**
 1. Use as 4 dimensões como framework
-2. Compare com [`levels/`](levels/) para dar feedback específico
+2. Compare com [`docs/levels/`](docs/levels/) para dar feedback específico
 3. Cite exemplos concretos de comportamentos
 
 **Quero propor uma promoção:**
@@ -142,13 +142,13 @@ Staff I → Staff II → Principal
 | Principal | Direção company-wide | 3-5 anos | 10-30% |
 
 **Documentos:**
-- [`SE_I_junior.md`](levels/SE_I_junior.md)
-- [`SE_II_pleno.md`](levels/SE_II_pleno.md)
-- [`SE_III_senior.md`](levels/SE_III_senior.md)
-- [`Lead_engineer.md`](levels/Lead_engineer.md)
-- [`Staff_engineer.md`](levels/Staff_engineer.md)
-- [`Staff_II_senior_staff.md`](levels/Staff_II_senior_staff.md)
-- [`Principal_engineer.md`](levels/Principal_engineer.md)
+- [`SE_I_junior.md`](docs/levels/SE_I_junior.md)
+- [`SE_II_pleno.md`](docs/levels/SE_II_pleno.md)
+- [`SE_III_senior.md`](docs/levels/SE_III_senior.md)
+- [`Lead_engineer.md`](docs/levels/Lead_engineer.md)
+- [`Staff_engineer.md`](docs/levels/Staff_engineer.md)
+- [`Staff_II_senior_staff.md`](docs/levels/Staff_II_senior_staff.md)
+- [`Principal_engineer.md`](docs/levels/Principal_engineer.md)
 
 ### Management Track
 
@@ -169,8 +169,8 @@ SE III → Tech Lead (liderança técnica)
 | Director | Múltiplas áreas | <5% | Executivo |
 
 **Documentos:**
-- [`Tech_lead.md`](levels/Tech_lead.md)
-- [`Engineering_manager.md`](levels/Engineering_manager.md)
+- [`Tech_lead.md`](docs/levels/Tech_lead.md)
+- [`Engineering_manager.md`](docs/levels/Engineering_manager.md)
 
 ---
 
@@ -181,21 +181,21 @@ SE III → Tech Lead (liderança técnica)
 
 **Stack:** BigQuery, Fivetran, Airflow, dbt, SQL, Python
 
-**Documento:** [`data_engineering.md`](tracks/data_engineering.md)
+**Documento:** [`data_engineering.md`](docs/tracks/data_engineering.md)
 
 ### 2. Analytics Engineering
 **Foco:** Modelagem dimensional, dbt, métricas, BI
 
 **Stack:** dbt (core), SQL (expert), BigQuery, Looker
 
-**Documento:** [`analytics_engineering.md`](tracks/analytics_engineering.md)
+**Documento:** [`analytics_engineering.md`](docs/tracks/analytics_engineering.md)
 
 ### 3. Cientista de Dados (Data Scientist / ML Engineer)
 **Foco:** ML, IA, GenAI/LLMs, experimentação
 
 **Stack:** Python, PyTorch, scikit-learn, LangChain, Vertex AI
 
-**Documento:** [`cientista_de_dados.md`](tracks/cientista_de_dados.md)
+**Documento:** [`cientista_de_dados.md`](docs/tracks/cientista_de_dados.md)
 
 ---
 
@@ -313,8 +313,8 @@ Este framework foi construído combinando:
 ## 🚀 Próximos Passos
 
 ### Se você é um IC:
-1. ✅ Leia seu nível atual em [`levels/`](levels/)
-2. ✅ Revise sua trilha técnica em [`tracks/`](tracks/)
+1. ✅ Leia seu nível atual em [`docs/levels/`](docs/levels/)
+2. ✅ Revise sua trilha técnica em [`docs/tracks/`](docs/tracks/)
 3. ✅ Identifique áreas de crescimento
 4. ✅ Converse com seu gestor sobre desenvolvimento
 

@@ -208,11 +208,11 @@ def parse_skills() -> List[Dict[str, Any]]:
 # Parse de Valores Gupy
 # ============================================
 def parse_valores_gupy() -> List[Dict[str, Any]]:
-    """Parse valores Gupy por nível do arquivo culture/mapping_to_gupy_culture.md."""
+    """Parse valores Gupy por nível do arquivo docs/culture/mapping_to_gupy_culture.md."""
     valores = []
     id_counter = 1
     
-    cultura_file = REPO_ROOT / "culture" / "mapping_to_gupy_culture.md"
+    cultura_file = REPO_ROOT / "docs" / "culture" / "mapping_to_gupy_culture.md"
     
     if not cultura_file.exists():
         print(f"⚠️  Arquivo não encontrado: {cultura_file}")

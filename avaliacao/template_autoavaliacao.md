@@ -250,7 +250,7 @@
 **Nota (0-5):** ____
 
 **Considere:**
-- Domínio do stack da sua trilha (ver `tracks/[sua_trilha].md`)
+- Domínio do stack da sua trilha (ver `docs/tracks/[sua_trilha].md`)
 - Design técnico e arquitetura
 - Qualidade de código/queries/modelos
 - Práticas de engenharia (testes, CI/CD, observabilidade)

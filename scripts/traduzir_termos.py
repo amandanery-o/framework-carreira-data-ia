@@ -73,7 +73,6 @@ TRADUCOES = {
 
 # Arquivos para processar (focando nos principais do framework)
 ARQUIVOS_PRIORITARIOS = [
-    'levels/',
     'docs/levels/',
     'docs/competencies/',
     'docs/culture/',

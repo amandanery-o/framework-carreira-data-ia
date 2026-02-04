@@ -19,7 +19,7 @@
 
 1. **Base-se em observações ao longo do ciclo** (3-6 meses)
 2. **Use exemplos concretos** de projetos, situações, comportamentos
-3. **Compare com expectativas do nível** (ver `/levels/[nivel].md`)
+3. **Compare com expectativas do nível** (ver `/docs/levels/[nivel].md`)
 4. **Considere feedback de stakeholders** (pares, PM, outros times)
 5. **Seja justo e construtivo**: Esta avaliação vai gerar o radar visual e PDI
 6. **Tempo estimado:** 30-45 minutos
@@ -283,7 +283,7 @@
 
 **Nota (0-5):** ____
 
-**Referência:** Ver `/tracks/[trilha].md` para expectativas técnicas do nível
+**Referência:** Ver `/docs/tracks/[trilha].md` para expectativas técnicas do nível
 
 **Evidências:**
 - Conquistas técnicas significativas:

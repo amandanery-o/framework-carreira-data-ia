@@ -429,7 +429,7 @@ Marque com ✅ se você tem evidências concretas:
 4. **Demonstre consistência**: Um projeto isolado não é suficiente
 5. **Seja honesto**: Reconheça gaps se houver, com plano de desenvolvimento
 6. **Peça feedback cedo**: Não espere até preencher o documento todo
-7. **Compare com o nível alvo**: Use os arquivos de `/levels/` como referência
+7. **Compare com o nível alvo**: Use os arquivos de `/docs/levels/` como referência
 8. **Revise com seu gestor**: Valide periodicamente se está no caminho certo
 
 **Lembre-se**: Promoção é sobre demonstrar **consistentemente** que você JÁ opera no próximo nível, não sobre potencial futuro.

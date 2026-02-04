@@ -322,13 +322,13 @@ Este sistema de radares usa **exatamente** as mesmas dimensões do framework:
 
 | Radar | Framework |
 |-------|-----------|
-| Results | [`/levels/[nivel].md`](../levels/) - Seção Results |
-| Direction | [`/levels/[nivel].md`](../levels/) - Seção Direction |
-| Talent | [`/levels/[nivel].md`](../levels/) - Seção Talent |
-| Culture | [`/levels/[nivel].md`](../levels/) - Seção Culture |
-| Craft | [`/tracks/[trilha].md`](../tracks/) - Skills por nível |
+| Results | [`/docs/levels/[nivel].md`](../docs/levels/) - Seção Results |
+| Direction | [`/docs/levels/[nivel].md`](../docs/levels/) - Seção Direction |
+| Talent | [`/docs/levels/[nivel].md`](../docs/levels/) - Seção Talent |
+| Culture | [`/docs/levels/[nivel].md`](../docs/levels/) - Seção Culture |
+| Craft | [`/docs/tracks/[trilha].md`](../docs/tracks/) - Skills por nível |
 
-**Valores Gupy:** [`/culture/mapping_to_gupy_culture.md`](../culture/mapping_to_gupy_culture.md)
+**Valores Gupy:** [`/docs/culture/mapping_to_gupy_culture.md`](../docs/culture/mapping_to_gupy_culture.md)
 
 ---
 
@@ -339,8 +339,8 @@ Este sistema de radares usa **exatamente** as mesmas dimensões do framework:
 2. [`PLANILHA_RADAR_INSTRUCOES.md`](PLANILHA_RADAR_INSTRUCOES.md) - Setup técnico
 
 ### Para Entender Expectativas por Nível
-3. [`/levels/`](../levels/) - Expectativas completas por nível
-4. [`/tracks/`](../tracks/) - Skills técnicas por trilha
+3. [`/docs/levels/`](../docs/levels/) - Expectativas completas por nível
+4. [`/docs/tracks/`](../docs/tracks/) - Skills técnicas por trilha
 5. [`/NIVEIS_REFERENCIA.md`](../NIVEIS_REFERENCIA.md) - Matriz Scope/Reach/Impact
 
 ### Para Promoções

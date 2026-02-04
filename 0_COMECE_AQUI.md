@@ -60,7 +60,7 @@ Tenha estes documentos abertos em abas para referência:
 - [ ] Ter abas prontas:
   - SLIDES_APRESENTACAO.md
   - README.md
-  - levels/SE_III_senior.md (exemplo)
+  - docs/levels/SE_III_senior.md (exemplo)
   - promotion/template_promotion.md (exemplo)
 
 ---
@@ -137,11 +137,11 @@ Reforce estas mensagens durante a apresentação:
 │   ├── SUMARIO.md                  ← Guia de navegação
 │   └── NIVEIS_REFERENCIA.md        ← Matriz de níveis
 │
-├── 📂 levels/                      ← 9 níveis completos
-├── 📂 tracks/                      ← 3 trilhas técnicas
+├── 📂 docs/levels/                 ← 9 níveis completos
+├── 📂 docs/tracks/                 ← 3 trilhas técnicas
 ├── 📂 promotion/                   ← Processo de promoção
-├── 📂 competencies/                ← Competências
-└── 📂 culture/                     ← Cultura Gupy
+├── 📂 docs/competencies/           ← Competências
+└── 📂 docs/culture/                ← Cultura Gupy
 ```
 
 **Inspiração:** [Dropbox Engineering Career Framework](https://github.com/dropbox/dbx-career-framework)

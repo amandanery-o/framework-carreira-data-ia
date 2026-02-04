@@ -3,7 +3,7 @@
 
 ---
 
-**Leia primeiro:** [Framework SE II - Documento Oficial](https://github.com/amandanery-o/framework-carreira-data-ia/blob/main/levels/SE_II_pleno.md)
+**Leia primeiro:** [Framework SE II - Documento Oficial](https://github.com/amandanery-o/framework-carreira-data-ia/blob/main/docs/levels/SE_II_pleno.md)
 
 **Este documento:** Exemplos práticos para facilitar o entendimento do framework oficial
 

@@ -55,11 +55,11 @@
 
 ### Links Internos
 - [x] Links entre arquivos funcionam (relativo)
-- [x] Referências a `/levels/` corretas
-- [x] Referências a `/tracks/` corretas
+- [x] Referências a `/docs/levels/` corretas
+- [x] Referências a `/docs/tracks/` corretas
 - [x] Referências a `/promotion/` corretas
-- [x] Referências a `/culture/` corretas
-- [x] Referências a `/competencies/` corretas
+- [x] Referências a `/docs/culture/` corretas
+- [x] Referências a `/docs/competencies/` corretas
 
 ### Consistência de Nomenclatura
 - [x] Níveis nomenclados consistentemente (SE I, SE II, SE III, Lead, Staff, Staff II, Principal)
@@ -244,7 +244,7 @@
 - Timeline de implementação realista
 
 **Melhorias Opcionais (pós-lançamento):**
-- Expandir arquivos de competências (`/competencies/`)
+- Expandir arquivos de competências (`/docs/competencies/`)
 - Criar mais exemplos de casos de promoção
 - Desenvolver materiais de treinamento interativos
 

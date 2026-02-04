@@ -93,7 +93,7 @@ SE III (Senior) → Tech Lead (TL)
 ├── SUMARIO.md                   # Resumo executivo do framework
 ├── NIVEIS_REFERENCIA.md         # Matriz detalhada Scope/Reach/Impact
 │
-├── levels/                      # Descrições detalhadas de cada nível
+├── docs/levels/                 # Descrições detalhadas de cada nível
 │   ├── SE_I_junior.md
 │   ├── SE_II_pleno.md
 │   ├── SE_III_senior.md
@@ -104,13 +104,13 @@ SE III (Senior) → Tech Lead (TL)
 │   ├── Tech_lead.md
 │   └── Engineering_manager.md
 │
-├── competencies/                # Competências transversais detalhadas
+├── docs/competencies/           # Competências transversais detalhadas
 │   ├── tech_excellence.md       # Excelência técnica
 │   ├── execution.md             # Execução e entrega
 │   ├── communication.md         # Comunicação eficaz
 │   └── leadership.md            # Liderança e influência
 │
-└── culture/                     # Conexão com cultura organizacional
+└── docs/culture/                # Conexão com cultura organizacional
     └── mapping_to_gupy_culture.md  # Mapeamento dos 5 valores Gupy
 ```
 
@@ -120,7 +120,7 @@ SE III (Senior) → Tech Lead (TL)
 
 ### Para Individual Contributors (ICs):
 
-1. **Identifique seu nível atual**: Leia a descrição do seu nível em `/levels/`
+1. **Identifique seu nível atual**: Leia a descrição do seu nível em `/docs/levels/`
 2. **Entenda as 4 dimensões**: Veja como cada dimensão se manifesta no seu nível
 3. **Identifique gaps**: Compare expectativas vs. sua atuação atual
 4. **Planeje desenvolvimento**: Foque em 2-3 áreas prioritárias
@@ -155,7 +155,7 @@ Este framework está explicitamente mapeado aos **5 valores da Gupy**:
 
 Cada nível descreve como esses valores se manifestam na prática. 
 
-📄 Ver detalhes: [culture/mapping_to_gupy_culture.md](./culture/mapping_to_gupy_culture.md)
+📄 Ver detalhes: [docs/culture/mapping_to_gupy_culture.md](./docs/culture/mapping_to_gupy_culture.md)
 
 ---
 
@@ -165,9 +165,9 @@ Cada nível descreve como esses valores se manifestam na prática.
 |-----------|-----------|-----------|
 | **[SUMARIO.md](./SUMARIO.md)** | Resumo executivo do framework | Todos - Quick start |
 | **[NIVEIS_REFERENCIA.md](./NIVEIS_REFERENCIA.md)** | Matriz Scope/Reach/Impact por nível | Gestores, ICs planejando crescimento |
-| **[levels/](./levels/)** | Descrição detalhada de cada nível | ICs, Gestores em 1:1s |
-| **[competencies/](./competencies/)** | Competências transversais | Gestores, RH, Liderança |
-| **[culture/](./culture/)** | Mapeamento valores Gupy | Todos - Cultura e fit |
+| **[docs/levels/](./docs/levels/)** | Descrição detalhada de cada nível | ICs, Gestores em 1:1s |
+| **[docs/competencies/](./docs/competencies/)** | Competências transversais | Gestores, RH, Liderança |
+| **[docs/culture/](./docs/culture/)** | Mapeamento valores Gupy | Todos - Cultura e fit |
 
 ---
 
@@ -175,10 +175,10 @@ Cada nível descreve como esses valores se manifestam na prática.
 
 Além das 4 dimensões de impacto, o framework detalha **4 competências** que permeiam todos os níveis:
 
-1. **[Excelência Técnica](./competencies/tech_excellence.md)** - Craft, design, qualidade
-2. **[Execução](./competencies/execution.md)** - Entrega, agilidade, ownership
-3. **[Comunicação](./competencies/communication.md)** - Clareza, influência, documentação
-4. **[Liderança](./competencies/leadership.md)** - Mentoria, estratégia, cultura
+1. **[Excelência Técnica](./docs/competencies/tech_excellence.md)** - Craft, design, qualidade
+2. **[Execução](./docs/competencies/execution.md)** - Entrega, agilidade, ownership
+3. **[Comunicação](./docs/competencies/communication.md)** - Clareza, influência, documentação
+4. **[Liderança](./docs/competencies/leadership.md)** - Mentoria, estratégia, cultura
 
 Cada competência detalha como ela evolui de Junior → Principal.
 

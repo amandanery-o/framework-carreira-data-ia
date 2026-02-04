@@ -24,43 +24,43 @@
 ### Individual Contributor (IC) Track
 
 #### Níveis Iniciais
-8. **[levels/SE_I_junior.md](levels/SE_I_junior.md)** - Software Engineer I (Junior)
+8. **[docs/levels/SE_I_junior.md](docs/levels/SE_I_junior.md)** - Software Engineer I (Junior)
    - 4 dimensões + Craft
    - Foco: Learning & Craft
 
-9. **[levels/SE_II_pleno.md](levels/SE_II_pleno.md)** - Software Engineer II (Pleno)
+9. **[docs/levels/SE_II_pleno.md](docs/levels/SE_II_pleno.md)** - Software Engineer II (Pleno)
    - 4 dimensões + Craft
    - Foco: Craft & Mentorship
 
-10. **[levels/SE_III_senior.md](levels/SE_III_senior.md)** - Software Engineer III (Senior)
+10. **[docs/levels/SE_III_senior.md](docs/levels/SE_III_senior.md)** - Software Engineer III (Senior)
     - 4 dimensões + Craft
     - Foco: Project Leadership & Technical Excellence
 
 #### Níveis Avançados
-11. **[levels/Lead_engineer.md](levels/Lead_engineer.md)** - Lead Engineer (Senior Plus)
+11. **[docs/levels/Lead_engineer.md](docs/levels/Lead_engineer.md)** - Lead Engineer (Senior Plus)
     - 4 dimensões + Craft
     - Foco: Technical Strategy & Project Leadership
 
-12. **[levels/Staff_engineer.md](levels/Staff_engineer.md)** - Staff Engineer (Staff I)
+12. **[docs/levels/Staff_engineer.md](docs/levels/Staff_engineer.md)** - Staff Engineer (Staff I)
     - 4 dimensões + Craft
     - Foco: Domain Expertise & Technical Strategy
 
-13. **[levels/Staff_II_senior_staff.md](levels/Staff_II_senior_staff.md)** - Staff II (Senior Staff)
+13. **[docs/levels/Staff_II_senior_staff.md](docs/levels/Staff_II_senior_staff.md)** - Staff II (Senior Staff)
     - 4 dimensões + Craft
     - Foco: Organizational Strategy & Talent Multiplier
 
-14. **[levels/Principal_engineer.md](levels/Principal_engineer.md)** - Principal Engineer
+14. **[docs/levels/Principal_engineer.md](docs/levels/Principal_engineer.md)** - Principal Engineer
     - 4 dimensões + Craft
     - Foco: Company-Wide Strategy & Industry Leadership
 
 ### Management Track
 
-15. **[levels/Tech_lead.md](levels/Tech_lead.md)** - Tech Lead (TL)
+15. **[docs/levels/Tech_lead.md](docs/levels/Tech_lead.md)** - Tech Lead (TL)
     - 4 dimensões + responsabilidades
     - Foco: Technical Leadership + Team Development
     - Hands-on: 50-70%
 
-16. **[levels/Engineering_manager.md](levels/Engineering_manager.md)** - Engineering Manager (EM)
+16. **[docs/levels/Engineering_manager.md](docs/levels/Engineering_manager.md)** - Engineering Manager (EM)
     - 4 dimensões + responsabilidades
     - Foco: People Development + Team Performance
     - Hands-on: <20%
@@ -71,17 +71,17 @@
 
 ### Por Especialização
 
-17. **[tracks/data_engineering.md](tracks/data_engineering.md)** - Data Engineering
+17. **[docs/tracks/data_engineering.md](docs/tracks/data_engineering.md)** - Data Engineering
     - Pipelines, infraestrutura, arquitetura de dados
     - Stack: BigQuery, Fivetran, Airflow, dbt, SQL, Python
     - Skills por nível: SE I → Principal
 
-18. **[tracks/analytics_engineering.md](tracks/analytics_engineering.md)** - Analytics Engineering
+18. **[docs/tracks/analytics_engineering.md](docs/tracks/analytics_engineering.md)** - Analytics Engineering
     - Modelagem dimensional, dbt, métricas, BI
     - Stack: dbt (core), SQL (expert), BigQuery, Looker
     - Skills por nível: SE I → Principal
 
-19. **[tracks/cientista_de_dados.md](tracks/cientista_de_dados.md)** - Cientista de Dados / ML Engineer
+19. **[docs/tracks/cientista_de_dados.md](docs/tracks/cientista_de_dados.md)** - Cientista de Dados / ML Engineer
     - ML, IA, GenAI/LLMs, experimentação
     - Stack: Python, PyTorch, LangChain, Vertex AI
     - Skills por nível: SE I → Principal
@@ -124,18 +124,18 @@
 
 ### Detalhamento de Competências
 
-25. **[competencies/tech_excellence.md](competencies/tech_excellence.md)** - Excelência Técnica ⭐
+25. **[docs/competencies/tech_excellence.md](docs/competencies/tech_excellence.md)** - Excelência Técnica ⭐
     - 6 dimensões: Arquitetura, Qualidade, Tecnologia, Operação, Performance, Segurança
     - Evolução por nível (SE I → Principal)
     - Métricas de sucesso
 
-26. **[competencies/execution.md](competencies/execution.md)** - Execução
+26. **[docs/competencies/execution.md](docs/competencies/execution.md)** - Execução
     - *Status: Básico (pode ser expandido)*
 
-27. **[competencies/communication.md](competencies/communication.md)** - Comunicação
+27. **[docs/competencies/communication.md](docs/competencies/communication.md)** - Comunicação
     - *Status: Básico (pode ser expandido)*
 
-28. **[competencies/leadership.md](competencies/leadership.md)** - Liderança
+28. **[docs/competencies/leadership.md](docs/competencies/leadership.md)** - Liderança
     - *Status: Básico (pode ser expandido)*
 
 ---
@@ -144,7 +144,7 @@
 
 ### Integração com Valores Gupy
 
-29. **[culture/mapping_to_gupy_culture.md](culture/mapping_to_gupy_culture.md)** - Mapeamento Cultural ⭐
+29. **[docs/culture/mapping_to_gupy_culture.md](docs/culture/mapping_to_gupy_culture.md)** - Mapeamento Cultural ⭐
     - 5 valores Gupy mapeados por nível
     - Como cada valor se manifesta (SE I → Principal)
     - Conexão com 4 dimensões do framework
@@ -158,11 +158,11 @@
 
 **Quero entender meu nível atual:**
 1. Leia [README.md](README.md) - Visão geral
-2. Leia seu nível em [levels/](levels/)
-3. Revise sua trilha em [tracks/](tracks/)
+2. Leia seu nível em [docs/levels/](docs/levels/)
+3. Revise sua trilha em [docs/tracks/](docs/tracks/)
 
 **Quero me preparar para promoção:**
-1. Compare seu nível com o próximo em [levels/](levels/)
+1. Compare seu nível com o próximo em [docs/levels/](docs/levels/)
 2. Use [NIVEIS_REFERENCIA.md](NIVEIS_REFERENCIA.md) para comparação
 3. Preencha [promotion/template_promotion.md](promotion/template_promotion.md)
 4. Converse com seu gestor
@@ -171,7 +171,7 @@
 
 **Quero fazer 1:1 de carreira:**
 1. Use 4 dimensões como framework
-2. Referencie arquivos de [levels/](levels/)
+2. Referencie arquivos de [docs/levels/](docs/levels/)
 3. Compare com [NIVEIS_REFERENCIA.md](NIVEIS_REFERENCIA.md)
 
 **Quero propor uma promoção:**
@@ -203,14 +203,14 @@
 ### Onboarding / Entendimento Inicial
 - [README.md](README.md)
 - [SUMARIO.md](SUMARIO.md)
-- Seu nível em [levels/](levels/)
-- Sua trilha em [tracks/](tracks/)
+- Seu nível em [docs/levels/](docs/levels/)
+- Sua trilha em [docs/tracks/](docs/tracks/)
 
 ### Desenvolvimento de Carreira
 - [NIVEIS_REFERENCIA.md](NIVEIS_REFERENCIA.md)
-- Nível atual e próximo em [levels/](levels/)
-- Trilha técnica em [tracks/](tracks/)
-- [competencies/tech_excellence.md](competencies/tech_excellence.md)
+- Nível atual e próximo em [docs/levels/](docs/levels/)
+- Trilha técnica em [docs/tracks/](docs/tracks/)
+- [docs/competencies/tech_excellence.md](docs/competencies/tech_excellence.md)
 
 ### Processo de Promoção
 - [promotion/template_promotion.md](promotion/template_promotion.md)
@@ -225,8 +225,8 @@
 - [promotion/calibration_guide.md](promotion/calibration_guide.md)
 
 ### Cultura
-- [culture/mapping_to_gupy_culture.md](culture/mapping_to_gupy_culture.md)
-- Seções "Conexão com Cultura Gupy" em cada arquivo de [levels/](levels/)
+- [docs/culture/mapping_to_gupy_culture.md](docs/culture/mapping_to_gupy_culture.md)
+- Seções "Conexão com Cultura Gupy" em cada arquivo de [docs/levels/](docs/levels/)
 
 ---
 
@@ -263,10 +263,10 @@
 3. **Consulte este INDICE_COMPLETO.md** - Quando precisar encontrar algo específico
 
 **Atalhos úteis:**
-- Níveis: `levels/`
-- Trilhas técnicas: `tracks/`
+- Níveis: `docs/levels/`
+- Trilhas técnicas: `docs/tracks/`
 - Promoção: `promotion/`
-- Cultura: `culture/`
+- Cultura: `docs/culture/`
 
 ---
 

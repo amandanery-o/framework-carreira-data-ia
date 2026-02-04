@@ -38,7 +38,6 @@ AJUSTES = {
 
 # Arquivos para processar
 ARQUIVOS_PRIORITARIOS = [
-    'levels/',
     'docs/levels/',
     'docs/competencies/',
     'docs/culture/',

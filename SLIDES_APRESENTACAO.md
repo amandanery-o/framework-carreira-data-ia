@@ -172,7 +172,7 @@ SE I (Junior) → SE II (Pleno) → SE III (Senior) → Lead Engineer
 ├── 📄 NIVEIS_REFERENCIA.md         # Matriz Scope/Reach/Impact
 ├── 📄 SUMARIO.md                   # Guia de navegação
 │
-├── 📂 levels/                       # 9 arquivos completos
+├── 📂 docs/levels/                  # 9 arquivos completos
 │   ├── SE_I_junior.md              # 4 dimensões + Craft
 │   ├── SE_II_pleno.md
 │   ├── SE_III_senior.md
@@ -183,7 +183,7 @@ SE I (Junior) → SE II (Pleno) → SE III (Senior) → Lead Engineer
 │   ├── Tech_lead.md
 │   └── Engineering_manager.md
 │
-├── 📂 tracks/                       # 3 trilhas técnicas
+├── 📂 docs/tracks/                  # 3 trilhas técnicas
 │   ├── data_engineering.md
 │   ├── analytics_engineering.md
 │   └── cientista_de_dados.md
@@ -194,13 +194,13 @@ SE I (Junior) → SE II (Pleno) → SE III (Senior) → Lead Engineer
 │   ├── examples.md                 # Exemplos de evidências
 │   └── rubric.md                   # Rubrica de avaliação
 │
-├── 📂 competencies/                # Competências transversais
+├── 📂 docs/competencies/            # Competências transversais
 │   ├── tech_excellence.md
 │   ├── execution.md
 │   ├── communication.md
 │   └── leadership.md
 │
-└── 📂 culture/                      # Cultura Gupy
+└── 📂 docs/culture/                 # Cultura Gupy
     └── mapping_to_gupy_culture.md  # Mapeamento completo
 ```
 
@@ -215,8 +215,8 @@ SE I (Junior) → SE II (Pleno) → SE III (Senior) → Lead Engineer
 ### Persona: Maria, SE II (Pleno) querendo crescer para SE III
 
 **1. Descobrir expectativas** (10 min)
-- Lê [`levels/SE_III_senior.md`](levels/SE_III_senior.md)
-- Compara com [`levels/SE_II_pleno.md`](levels/SE_II_pleno.md) (seu nível atual)
+- Lê [`docs/levels/SE_III_senior.md`](docs/levels/SE_III_senior.md)
+- Compara com [`docs/levels/SE_II_pleno.md`](docs/levels/SE_II_pleno.md) (seu nível atual)
 - Identifica gaps nas 4 dimensões
 
 **2. Planejar crescimento** (1:1 com gestor)
@@ -333,7 +333,7 @@ SE I (Junior) → SE II (Pleno) → SE III (Senior) → Lead Engineer
 - **Impacto** (local → time → multi-time → company-wide)
 - **Influência** (individual → time → cross-team → organização)
 
-**Ver detalhes em:** [`culture/mapping_to_gupy_culture.md`](culture/mapping_to_gupy_culture.md)
+**Ver detalhes em:** [`docs/culture/mapping_to_gupy_culture.md`](docs/culture/mapping_to_gupy_culture.md)
 
 ---
 
@@ -344,17 +344,17 @@ SE I (Junior) → SE II (Pleno) → SE III (Senior) → Lead Engineer
 **Persona:** Ana, SE II (Pleno) em Analytics Engineering
 
 **1. Entender nível atual** (3 min)
-   - Abrir [`levels/SE_II_pleno.md`](levels/SE_II_pleno.md)
+   - Abrir [`docs/levels/SE_II_pleno.md`](docs/levels/SE_II_pleno.md)
    - Mostrar estrutura de 4 dimensões
    - Destacar expectativas comportamentais
 
 **2. Ver skills técnicas** (2 min)
-   - Abrir [`tracks/analytics_engineering.md`](tracks/analytics_engineering.md)
+   - Abrir [`docs/tracks/analytics_engineering.md`](docs/tracks/analytics_engineering.md)
    - Navegar para seção SE II
    - Mostrar progressão técnica detalhada
 
 **3. Comparar com próximo nível** (2 min)
-   - Abrir [`levels/SE_III_senior.md`](levels/SE_III_senior.md)
+   - Abrir [`docs/levels/SE_III_senior.md`](docs/levels/SE_III_senior.md)
    - Identificar diferenças-chave
    - Usar [`NIVEIS_REFERENCIA.md`](NIVEIS_REFERENCIA.md) para visão comparativa
 
@@ -625,11 +625,11 @@ SE I (Junior) → SE II (Pleno) → SE III (Senior) → Lead Engineer
 ```
 📦 Trilha de Carreira Data & IA/
 ├── 📄 README.md, SUMARIO.md, NIVEIS_REFERENCIA.md
-├── 📂 levels/ (9 níveis completos)
-├── 📂 tracks/ (3 trilhas técnicas)
+├── 📂 docs/levels/ (9 níveis completos)
+├── 📂 docs/tracks/ (3 trilhas técnicas)
 ├── 📂 promotion/ (templates e guias)
-├── 📂 competencies/ (4 competências detalhadas)
-└── 📂 culture/ (mapeamento valores Gupy)
+├── 📂 docs/competencies/ (4 competências detalhadas)
+└── 📂 docs/culture/ (mapeamento valores Gupy)
 
 **Inspirado em:** Dropbox Engineering Career Framework
 ```
@@ -648,5 +648,5 @@ SE I (Junior) → SE II (Pleno) → SE III (Senior) → Lead Engineer
 
 ## Anexo E: Mapeamento Cultural
 
-[Tabela completa de valores × níveis em culture/mapping_to_gupy_culture.md]
+[Tabela completa de valores × níveis em docs/culture/mapping_to_gupy_culture.md]
 

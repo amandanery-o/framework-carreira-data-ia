@@ -82,14 +82,14 @@ Você deve ter criado **4 ou 5 secrets**:
 
 ### **Opção A: Push de teste**
 
-1. Faça uma pequena alteração em qualquer arquivo de `levels/`:
+1. Faça uma pequena alteração em qualquer arquivo de `docs/levels/`:
    ```bash
-   # Edite levels/SE_I_junior.md (adicione um espaço ou comentário)
+   # Edite docs/levels/SE_I_junior.md (adicione um espaço ou comentário)
    ```
 
 2. Commit e push:
    ```bash
-   git add levels/
+   git add docs/levels/
    git commit -m "test: sincronização automática Confluence"
    git push origin main
    ```
@@ -125,7 +125,7 @@ Você deve ter criado **4 ou 5 secrets**:
 
 ## 🎉 Pronto!
 
-Depois que funcionar, **sempre que você fizer push** em arquivos de `levels/`, o Confluence será atualizado automaticamente!
+Depois que funcionar, **sempre que você fizer push** em arquivos de `docs/levels/`, o Confluence será atualizado automaticamente!
 
 ---
 
