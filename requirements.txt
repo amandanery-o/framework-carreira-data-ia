@@ -1,6 +1,0 @@
-streamlit
-pandas
-plotly
-mkdocs
-mkdocs-material
-pymdown-extensions
