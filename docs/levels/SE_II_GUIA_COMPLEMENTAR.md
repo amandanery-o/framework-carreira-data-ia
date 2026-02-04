@@ -1,4 +1,3 @@
-# GUIA COMPLEMENTAR: SE II (PLENO) NA PRÁTICA
 
 Material de apoio ao Framework Oficial  
 Leia primeiro: [Framework SE II – Documento Oficial](https://github.com/amandanery-o/framework-carreira-data-ia/blob/main/docs/levels/SE_II_pleno.md)

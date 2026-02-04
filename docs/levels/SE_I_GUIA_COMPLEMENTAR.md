@@ -1,4 +1,3 @@
-# GUIA COMPLEMENTAR: SE I (JUNIOR) NA PRÁTICA
 ## Material de apoio ao Framework Oficial
 
 ---

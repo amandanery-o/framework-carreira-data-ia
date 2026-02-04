@@ -1,4 +1,3 @@
-# GUIA COMPLEMENTAR: SE III (SENIOR) NA PRÁTICA
 ## Material de apoio ao Framework Oficial
 
 ---
