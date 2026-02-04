@@ -12,6 +12,16 @@ from requests.auth import HTTPBasicAuth
 import re
 from markdown import markdown
 
+# Títulos desejados (evita "Se Ii" etc.)
+TITLE_MAP = {
+    "SE_I_junior": "SE I Junior",
+    "SE_II_pleno": "SE II Pleno",
+    "SE_III_senior": "SE III Senior",
+    "SE_I_GUIA_COMPLEMENTAR": "SE I Guia Complementar",
+    "SE_II_GUIA_COMPLEMENTAR": "SE II Guia Complementar",
+    "SE_III_GUIA_COMPLEMENTAR": "SE III Guia Complementar",
+}
+
 # Variáveis de ambiente (configuradas no GitHub Secrets)
 CONFLUENCE_URL = os.getenv("CONFLUENCE_URL", "").rstrip('/')
 CONFLUENCE_USERNAME = os.getenv("CONFLUENCE_USERNAME", "")
@@ -77,8 +87,11 @@ def get_page_title_from_file(file_path):
         match = re.search(r'^#\s+(.+)$', content, re.MULTILINE)
         if match:
             return match.group(1).strip()
-        # Se não tem H1, usa nome do arquivo
-        return Path(file_path).stem.replace('_', ' ').title()
+        # Se não tem H1, usa map de títulos (ou fallback)
+        stem = Path(file_path).stem
+        if stem in TITLE_MAP:
+            return TITLE_MAP[stem]
+        return stem.replace('_', ' ').title()
 
 
 def find_existing_page(title, space_key, auth):
@@ -144,7 +157,7 @@ def create_page(title, content_html, space_key, parent_id, auth):
         return None
 
 
-def update_page(page_id, title, content_html, version, auth):
+def update_page(page_id, title, content_html, version, auth, parent_id=None):
     """
     Atualiza página existente no Confluence
     """
@@ -161,6 +174,8 @@ def update_page(page_id, title, content_html, version, auth):
         },
         "version": {"number": version + 1}
     }
+    if parent_id:
+        update_data["ancestors"] = [{"id": parent_id}]
     
     try:
         response = requests.put(
@@ -199,24 +214,34 @@ def sync_file_to_confluence(file_path, space_key, parent_id, auth):
     
     # Extrai título
     title = get_page_title_from_file(file_path)
+    # Fallback para encontrar páginas antigas com título em title()
+    stem = Path(file_path).stem
+    fallback_title = stem.replace('_', ' ').title()
+    titles_to_try = [title]
+    if fallback_title != title:
+        titles_to_try.append(fallback_title)
     
     # Busca página existente
-    existing_page = find_existing_page(title, space_key, auth)
+    existing_page = None
+    for candidate in titles_to_try:
+        existing_page = find_existing_page(candidate, space_key, auth)
+        if existing_page:
+            break
     
     if existing_page:
         # Atualiza página existente
         page_id = existing_page["id"]
         version = existing_page["version"]["number"]
         
-        result = update_page(page_id, title, html_content, version, auth)
+        result = update_page(page_id, title, html_content, version, auth, parent_id=parent_id)
         
         if result:
             page_url = f"{CONFLUENCE_URL}/wiki{result['_links']['webui']}"
             print(f"✅ Atualizada: {title}")
             print(f"   🔗 {page_url}")
-            return True
+            return result.get("id")
         else:
-            return False
+            return None
     else:
         # Cria nova página
         result = create_page(title, html_content, space_key, parent_id, auth)
@@ -225,9 +250,9 @@ def sync_file_to_confluence(file_path, space_key, parent_id, auth):
             page_url = f"{CONFLUENCE_URL}/wiki{result['_links']['webui']}"
             print(f"✅ Criada: {title}")
             print(f"   🔗 {page_url}")
-            return True
+            return result.get("id")
         else:
-            return False
+            return None
 
 
 def main():
@@ -254,10 +279,35 @@ def main():
     
     # Sincroniza cada arquivo
     success_count = 0
-    for md_file in sorted(md_files):
+    # Primeiro: níveis base, depois guias
+    base_stems = ["SE_I_junior", "SE_II_pleno", "SE_III_senior"]
+    guide_parent_map = {
+        "SE_I_GUIA_COMPLEMENTAR": "SE_I_junior",
+        "SE_II_GUIA_COMPLEMENTAR": "SE_II_pleno",
+        "SE_III_GUIA_COMPLEMENTAR": "SE_III_senior",
+    }
+
+    file_by_stem = {p.stem: p for p in md_files}
+    parent_ids = {}
+
+    for stem in base_stems:
+        md_file = file_by_stem.get(stem)
+        if not md_file:
+            continue
         print(f"📄 Processando: {md_file.name}")
-        
-        if sync_file_to_confluence(md_file, CONFLUENCE_SPACE_KEY, parent_id, auth):
+        page_id = sync_file_to_confluence(md_file, CONFLUENCE_SPACE_KEY, parent_id, auth)
+        if page_id:
+            parent_ids[stem] = page_id
+            success_count += 1
+        print()
+
+    for stem, parent_stem in guide_parent_map.items():
+        md_file = file_by_stem.get(stem)
+        if not md_file:
+            continue
+        guide_parent_id = parent_ids.get(parent_stem, parent_id)
+        print(f"📄 Processando: {md_file.name}")
+        if sync_file_to_confluence(md_file, CONFLUENCE_SPACE_KEY, guide_parent_id, auth):
             success_count += 1
         print()
     
