@@ -1,6 +1,6 @@
 # Software Engineer II - Pleno (SE II)
 
-> **"Eu sou prolífico em entregar projetos resilientes e sustentáveis de dados e software do design à implementação e rollout"**
+> **"Eu entrego projetos completos de dados e software com autonomia do design ao lançamento"**
 
 ---
 
