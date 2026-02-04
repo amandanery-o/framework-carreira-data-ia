@@ -1,171 +1,151 @@
 # Software Engineer II - Pleno (SE II)
 
-> **"Eu entrego projetos completos de dados e software com autonomia do design ao lançamento"**
+> **"Consigo conduzir entregas e decisões técnicas relevantes dentro das iniciativas do squad, do design ao lançamento, atuando com autonomia e apoio do Tech Lead e de pares mais seniores."**
+
+No nível SE II, a pessoa desenvolvedora deixa de atuar apenas na execução de tarefas e passa a assumir responsabilidade real por entregas e decisões técnicas dentro do squad.
+
+Já existe domínio técnico suficiente para atuar com autonomia em problemas bem definidos, mas o trabalho acontece dentro de um sistema colaborativo, com apoio, validação e aprendizado contínuo junto ao Tech Lead e a pares mais experientes.
+
+O crescimento nesse nível vem menos de "saber mais" e mais de decidir melhor, comunicar com clareza e aprender com o impacto das próprias escolhas, ajustando rotas sem perder qualidade ou foco.
 
 ---
 
 ## 📋 Definição do Nível
 
 ### Escopo de Atuação
-- Executo projetos definidos para alcançar objetivos de nível de time
-- Defino independentemente as soluções certas ou uso abordagens existentes para resolver problemas definidos
-- Tomo decisões técnicas com autonomia crescente
+- Executo entregas e partes significativas de iniciativas do squad, contribuindo diretamente para os objetivos do time.
+- Defino soluções para problemas bem delimitados dentro do contexto do squad, escolhendo entre abordagens existentes ou propondo alternativas, validando decisões técnicas com o Tech Lead ou pares mais seniores quando o impacto ou o risco aumentam.
+- Tomo decisões técnicas locais com autonomia crescente, entendendo limites de escopo, dependências e consequências técnicas.
 
 ### Alcance Colaborativo
-- Trabalho principalmente dentro do escopo do meu time com orientação de alto nível do meu gestor/Tech Lead
-- Começo a colaborar com parceiros cross-funcionais em meus projetos
+- Atuo principalmente dentro do escopo do meu squad, com apoio contínuo do Tech Lead e colaboração próxima com pares mais experientes.
+- Trabalho de forma integrada com parceiros cross-funcionais (Produto, Design, Negócio), ajustando soluções técnicas às necessidades do squad.
 
 ### Alavancas de Impacto
-- **Habilidade Técnica** - Domino minha habilidade técnica e uso isso para gerar mais impacto (ex: design de software e modelos de dados)
-- **Mentoria** - Posso mentorar novos membros, estagiários ou engenheiros mais juniores
+
+**Habilidade Técnica**  
+Utilizo meu domínio técnico para gerar impacto prático, aplicando boas práticas de design de software, modelagem de dados, qualidade e observabilidade.
+
+**Mentoria**  
+Começo a apoiar e mentorar SE I, estagiários e novos membros, principalmente por meio do trabalho real do dia a dia, como revisões de código, pareamento e troca de contexto.
 
 ---
 
 ## 🏆 Resultados
 
 ### Impacto
-- Entrego projetos completos de complexidade média no prazo e com qualidade
-- Negocio prioridades com o gestor quando novas demandas entram, sem perder o foco do que já foi combinado
-- Participo de processos do time com responsabilidade (planejamento, plantão, triagem de bugs, revisão de métricas)
+- Entrego partes relevantes de iniciativas de complexidade média do squad, com qualidade, previsibilidade e alinhamento ao combinado.
+- Negocio prioridades com o gestor quando novas demandas surgem, mantendo clareza sobre o que está em andamento e o que precisa ser reavaliado.
+- Participo ativamente dos processos do squad, como planejamento, plantões, triagem de bugs e acompanhamento de métricas.
 
 ### Responsabilidade
-- Assumo responsabilidade de partes significativas de projetos
-- Identifico problemas e os resolvo ou escalo apropriadamente
-- Participo de rotações de on-call e respondo a incidentes de forma efetiva
-- Mantenho e melhoro sistemas existentes sob minha responsabilidade
-- Documento decisões e processos para facilitar conhecimento do time
+- Assumo responsabilidade pelas minhas entregas e decisões técnicas, sem assumir papéis de liderança formal.
+- Identifico problemas, resolvendo-os diretamente ou escalando de forma apropriada quando necessário.
+- Participo de rotações de on-call e respondo a incidentes de forma efetiva, aprendendo com falhas e ajustando práticas.
+- Mantenho e evoluo sistemas sob minha responsabilidade, buscando melhorar qualidade, confiabilidade e manutenibilidade.
+- Documento decisões e processos para facilitar o compartilhamento de conhecimento no squad.
 
 ### Tomada de Decisão
-- Tomo decisões técnicas para problemas bem definidos com autonomia
-- Avalio trade-offs e escolho a abordagem mais apropriada com orientação mínima
-- Busco input quando necessário mas não fico paralisado esperando direção
-- Considero impacto de longo prazo nas decisões técnicas
+- Tomo decisões técnicas para problemas bem definidos dentro do escopo do squad, com autonomia crescente e apoio do Tech Lead ou de pares mais seniores.
+- Avalio trade-offs considerando prazo, qualidade, manutenção e impacto futuro, escolhendo conscientemente a abordagem mais adequada ao contexto.
+- Busco input ativamente quando o risco ou a complexidade aumentam, sem ficar paralisado esperando direção.
+- Consigo explicar o racional por trás das decisões tomadas, deixando claro o que foi considerado, descartado e assumido como risco.
+- Começo a considerar efeitos de longo prazo nas decisões técnicas, mesmo quando o problema imediato parece simples.
 
 ---
 
 ## 🌟 Direção
 
 ### Agilidade
-- Replanejo sem travar quando prioridades mudam
-- Mantenho produtividade mesmo com ambiguidade moderada
-- Compartilho aprendizados de clientes e ajustes necessários para o time reagir melhor
+- Replanejo quando prioridades mudam, ajustando escopo e expectativas sem travar.
+- Mantenho produtividade mesmo em cenários de ambiguidade moderada, tornando hipóteses explícitas e ajustando o plano conforme aprendo.
+- Compartilho aprendizados vindos do uso real do produto e de feedbacks de clientes para apoiar decisões do squad.
 
 ### Inovação
-- Testo novas abordagens no meu escopo e explico o porquê da escolha
-- Proponho melhorias em processos, ferramentas e práticas do time com exemplos do dia a dia
-- Aprendo com sucessos e falhas e compartilho o que mudaria numa próxima vez
+- Testo novas abordagens dentro do meu escopo, explicando o racional por trás das escolhas.
+- Proponho melhorias em processos, ferramentas e práticas do squad com base em problemas reais do dia a dia.
+- Aprendo com sucessos e falhas e compartilho o que faria diferente em uma próxima oportunidade.
 
 ### Estratégia
-- Entendo profundamente os objetivos do time e como meu trabalho contribui
-- Sugiro formas de alcançar objetivos de forma mais eficiente
-- Começo a pensar estrategicamente sobre arquitetura e design de sistemas
-- Participo ativamente de discussões de roadmap e planejamento
+- Entendo profundamente os objetivos do squad e como meu trabalho contribui para alcançá-los.
+- Sugiro formas mais eficientes de atingir objetivos, equilibrando qualidade, prazo e sustentabilidade.
+- Contribuo para discussões de arquitetura e design de sistemas do squad, trazendo contexto técnico e aprendizados do dia a dia.
 
 ---
 
 ## 🌳 Talento
 
 ### Crescimento Pessoal
-- Busco feedback ativamente e mostro evolução em pontos específicos
-- Identifico áreas de desenvolvimento e tomo ações concretas para melhorar
-- Expando minhas habilidades além do meu escopo imediato quando isso ajuda o time
-- Participo de comunidades de prática e trago aprendizados para o time
-- Estabeleço metas de carreira claras com meu gestor
+- Busco feedback ativamente e demonstro evolução clara em pontos específicos.
+- Identifico áreas de desenvolvimento e tomo ações concretas para melhorar.
+- Expando minhas habilidades além do escopo imediato quando isso aumenta o impacto do squad.
+- Participo de comunidades de prática e trago aprendizados relevantes para o time.
+- Estabeleço metas de carreira claras junto ao gestor.
 
 ### Desenvolvimento do Time
-- Mentoro SE I, estagiários e novos membros com exemplos do trabalho real
-- Compartilho conhecimento através de programação em par, revisões de código e documentação
-- Contribuo para integração de novos membros com contexto e referências úteis
-- Ajudo a elevar o nível técnico do time através de exemplos e feedback
-- Participo de entrevistas e avaliação de candidatos
+- Apoio SE I, estagiários e novos membros com exemplos concretos do trabalho real.
+- Compartilho conhecimento por meio de programação em par, revisões de código e documentação.
+- Contribuo para a integração de novos membros, oferecendo contexto e referências úteis.
+- Ajudo a elevar o nível técnico do squad por meio de exemplos e feedback construtivo.
+- Participo de entrevistas e avaliações de candidatos.
 
 ---
 
 ## 🌈 Cultura
 
 ### Colaboração
-- Trabalho efetivamente com membros do time e parceiros cross-funcionais
-- Comunico progresso, desafios e necessidades com antecedência
-- Contribuo em revisões de código com feedback construtivo e objetivo
-- Participo de reuniões e discussões técnicas trazendo propostas e perguntas úteis
-- Ajudo a resolver conflitos e mal-entendidos no time
+- Trabalho de forma efetiva com membros do squad e parceiros cross-funcionais.
+- Comunico progresso, riscos e necessidades com antecedência.
+- Contribuo em revisões de código com feedback construtivo, claro e objetivo.
+- Participo de discussões técnicas trazendo propostas, perguntas e contexto.
 
 ### Saúde Organizacional
-- Contribuo para cultura positiva e inclusiva do time
-- Apoio diversidade de perspectivas e estilos de trabalho
-- Participo de iniciativas de melhoria do time
-- Modelo boas práticas de trabalho e equilíbrio
-- Ajudo a criar ambiente de segurança psicológica
+- Contribuo para um ambiente positivo, inclusivo e de segurança psicológica.
+- Respeito diferentes perspectivas e estilos de trabalho.
+- Participo de iniciativas de melhoria contínua do squad.
+- Modelo boas práticas de trabalho sustentável e equilíbrio.
 
 ### Comunicação
-- Comunico ideias técnicas de forma que alguém consiga agir sem me chamar de novo
-- Escrevo documentação clara e útil, com passos e exemplos
-- Faço perguntas que destravam decisões
-- Adapto meu nível de detalhe ao contexto e audiência
-- Compartilho contexto e raciocínio por trás de decisões
+- Comunico ideias técnicas de forma que outras pessoas consigam agir sem precisar me chamar novamente.
+- Escrevo documentação clara, com contexto, passos e exemplos.
+- Faço perguntas que destravam decisões e alinham entendimento.
+- Adapto o nível de detalhe da comunicação ao contexto e à audiência.
+- Compartilho o raciocínio por trás das decisões tomadas.
 
 ### Liderança Cultural
-- Modelo valores da Gupy consistentemente
-- Contribuo para ambiente de aprendizado e crescimento
-- Celebro sucessos do time e reconheço contribuições
-- Ajudo novos membros a se integrarem à cultura
-- Participo ativamente de iniciativas culturais
+- Modelo consistentemente os valores da Gupy no dia a dia.
+- Contribuo para um ambiente de aprendizado e crescimento contínuo.
+- Reconheço e celebro contribuições do squad.
+- Ajudo novos membros a se integrarem à cultura.
+- Participo de iniciativas culturais e de engajamento.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-As habilidades técnicas específicas variam por trilha. Consulte:
+As habilidades técnicas específicas variam por trilha:
 - [Data Engineering](../tracks/data_engineering.md#se-ii---pleno)
 - [Analytics Engineering](../tracks/analytics_engineering.md#se-ii---pleno)
 - [Cientista de Dados](../tracks/cientista_de_dados.md#se-ii---pleno)
 
-**Expectativas gerais de Habilidade Técnica para SE II:**
+**Expectativas Gerais de Habilidade Técnica (SE II)**
 
-### Fluência Técnica
-- Domínio sólido dos fundamentos do stack da área
-- Escrevo código/queries eficientes, legíveis e bem testados
-- Entendo desempenho, otimização e trade-offs técnicos
-- Uso ferramentas de desenvolvimento produtivamente
+**Fluência Técnica**  
+Domínio sólido dos fundamentos do stack da área, escrevendo código e queries eficientes, legíveis e bem testados.
 
-### Design Técnico
-- Desenho soluções técnicas para problemas de complexidade média
-- Considero escalabilidade, manutenibilidade e desempenho
-- Participo efetivamente de design reviews
-- Identifico e resolvo problemas de design antes de virarem problemas
+**Design Técnico**  
+Desenho soluções para problemas de complexidade média, considerando escalabilidade, manutenibilidade e desempenho, participando ativamente de design reviews.
 
-### Qualidade e Confiabilidade
-- Escrevo testes abrangentes (unitários, integração)
-- Considero edge cases e cenários de erro
-- Monitoro e respondo a problemas de qualidade
-- Contribuo para melhorar práticas de qualidade do time
+**Qualidade e Confiabilidade**  
+Escrevo testes abrangentes, considero cenários de erro e contribuo para melhorar práticas de qualidade do squad.
 
 ---
 
-## 🎯 Conexão com a Cultura Gupy
+## 🎯 Indicadores de Progresso para SE III
 
-### 🎯 Obsessão pelo Cliente
-Entendo profundamente necessidades dos clientes e tomo decisões que maximizam valor para eles.
-
-### 💡 Paixão por Inovar
-Busco constantemente formas melhores de resolver problemas e não tenho medo de experimentar.
-
-### ⚡ Agilidade para Resultado
-Entrego com qualidade e no prazo, balanceando velocidade com sustentabilidade.
-
-### 💰 Fazer Mais com Menos
-Busco soluções eficientes que maximizam impacto com recursos disponíveis.
-
-### 🤝 Juntos!
-Colaboro efetivamente, ajudo o time a crescer e construo relacionamentos fortes.
-
----
-
-## 📈 Indicadores de Progresso para SE III
-
-Você está pronto(a) para evoluir para SE III quando:
-- Lidera tecnicamente projetos complexos com autonomia consistente
-- Resolve problemas ambíguos e de alta complexidade
-- Mentora de forma consistente outros engenheiros
-- Influencia decisões técnicas significativas do time
-- É referência técnica em um ou mais domínios
+Você começa a se aproximar do nível SE III quando:
+- Passa a ser referência para decisões técnicas mais complexas dentro do squad
+- Resolve problemas mais ambíguos com consistência
+- Atua como mentor de forma recorrente
+- Influencia decisões técnicas relevantes do squad
+- Aprofunda-se em um ou mais domínios técnicos de forma reconhecida
